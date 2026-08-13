@@ -1,0 +1,212 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Быстрая навигация"
+    },
+    {
+      "description": "Готовые ориентиры под конкретные задачи. Это не обязательные наборы «всё сразу», а типовые связки, с которых удобно начинать.",
+      "items": [],
+      "title": "Сценарии использования"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI пишет код обработки или расширения"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI разбирает большую конфигурацию"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI делает code review BSL"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI помогает в локальном цикле разработки"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI работает с учётной системой"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI работает внутри IDE"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Архитектурные паттерны"
+    },
+    {
+      "description": "Расширение конфигурации + HTTP-сервис в 1С, MCP-сервер подключается напрямую.\nКогда: нужен доступ к живым данным и метаданным, есть контроль над базой.\nСерверы: , ,",
+      "items": [],
+      "title": "Прямое подключение к базе"
+    },
+    {
+      "description": "Парсинг XML/EDT-выгрузки без подключения к работающей базе.\nКогда: CI/CD, code review, анализ без доступа к серверу 1С.\nСерверы: , , (режим выгрузки)",
+      "items": [],
+      "title": "Работа с выгрузкой конфигурации"
+    },
+    {
+      "description": "Индексация метаданных и документации в векторной/графовой БД.\nКогда: нужен поиск на естественном языке, большие конфигурации (ERP, БСП).\nСерверы: (Qdrant), (Neo4j),",
+      "items": [],
+      "title": "RAG / семантический поиск"
+    },
+    {
+      "description": "MCP-обёртка над LSP, REST API или другим протоколом.\nКогда: уже есть инфраструктура (BSL LS, OData, 1С:Напарник), нужно дать к ней MCP-доступ.\nСерверы: , , ,",
+      "items": [],
+      "title": "Мост к существующим инструментам"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Матрица совместимости"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "По транспорту"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "По платформе 1С"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "По зависимостям"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IDE-интеграции"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Фреймворки для создания MCP-серверов"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Метаданные и анализ кода"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Справка и документация платформы"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Тестирование и проверка синтаксиса"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Интеграция с 1С:Напарник"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Интеграция с учётными системами"
+    },
+    {
+      "description": "MCP-сервер для интеграции AI-ассистентов с 1С:Бухгалтерией. Ранняя стадия разработки.",
+      "items": [],
+      "title": "1c-accounting-mcp"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Графовый анализ"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Инфраструктура и DevOps"
+    },
+    {
+      "description": "Набор Docker-контейнеров MCP-серверов от OneRPA для 1С-разработки.",
+      "items": [],
+      "title": "OneRPA MCP Suite"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Наборы правил и скиллов"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Коммерческие продукты"
+    },
+    {
+      "description": "SaaS-платформа с MCP-сервером, семантическим поиском по метаданным, коду и документации. Командная работа до 100 человек.",
+      "items": [],
+      "title": "OneMCP"
+    },
+    {
+      "description": "Коммерческий конструктор MCP-серверов для 1С без программирования. Также предлагает обучающие курсы.",
+      "items": [],
+      "title": "VibeCoding1C"
+    },
+    {
+      "description": "MCP от Инфостарт для работы с метаданными конфигураций. Гибридный поиск (BM25), подключение к синтаксис-помощнику. Набор Docker-контейнеров для проверки синтаксиса, поиска по справке и метаданным.",
+      "items": [],
+      "title": "Infostart MCP"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Сводная таблица"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Source"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Коммерческие"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Легенда статусов"
+    },
+    {
+      "description": "Нашли MCP-сервер для 1С, которого нет в списке? Смотрите CONTRIBUTING.md — там шаблон записи и правила. Или просто откройте Issue.",
+      "items": [],
+      "title": "Как добавить проект"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Лицензия"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:05:02.472Z",
+    "original_repository": "Untru/1c-mcp",
+    "original_repository_sha": "24a4526d615ca2c531264145553d5e0d28f6e7ce",
+    "enhanced_repository": "enhansome/enhansome-1c-mcp",
+    "enhanced_repository_description": null,
+    "title": "Awesome 1C MCP Servers with stars"
+  }
+}
