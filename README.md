@@ -1,6 +1,6 @@
 # Awesome 1C MCP Servers with stars
 
-[![Check Links](https://github.com/Untru/1c-mcp/actions/workflows/links.yml/badge.svg)](https://github.com/Untru/1c-mcp/actions/workflows/links.yml) ⭐ 141 | 🐛 1 | 📅 2026-08-05
+[![Check Links](https://github.com/Untru/1c-mcp/actions/workflows/links.yml/badge.svg)](https://github.com/Untru/1c-mcp/actions/workflows/links.yml) ⭐ 142 | 🐛 1 | 📅 2026-08-05
 
 Каталог MCP-серверов (Model Context Protocol) для экосистемы 1С:Предприятие.
 
@@ -210,7 +210,7 @@ MCP-обёртка над LSP, REST API или другим протоколом
 
 ## IDE-интеграции
 
-### [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 242 | 🐛 27 | 🌐 Java | 📅 2026-08-15
+### [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 242 | 🐛 27 | 🌐 Java | 📅 2026-08-16
 
 MCP-сервер в виде плагина для 1C:EDT, обеспечивающий глубокую интеграцию AI-ассистентов с рабочим пространством IDE.
 
@@ -233,7 +233,7 @@ MCP-сервер в виде плагина для 1C:EDT, обеспечива�
 
 ### [CodePilot1C](https://github.com/ondysss/codepilot1c-edt) ⭐ 141 | 🐛 20 | 🌐 Java | 📅 2026-08-04
 
-AI-плагин для 1C:EDT с чатом, агентным режимом и MCP Host. Добавлен по открытому issue [Untru/1c-mcp#1](https://github.com/Untru/1c-mcp/issues/1) ⭐ 141 | 🐛 1 | 📅 2026-08-05.
+AI-плагин для 1C:EDT с чатом, агентным режимом и MCP Host. Добавлен по открытому issue [Untru/1c-mcp#1](https://github.com/Untru/1c-mcp/issues/1) ⭐ 142 | 🐛 1 | 📅 2026-08-05.
 
 |                |                           |
 | -------------- | ------------------------- |
@@ -291,7 +291,7 @@ MCP-сервер для вызова команд VS Code-расширения [
 * Три режима подключения: прямой HTTP, через Python-прокси (stdio + OAuth2), Docker
 * Поддержка Resources и Prompts (не только Tools)
 
-### [1c-mcp-toolkit](https://github.com/ROCTUP/1c-mcp-toolkit) ⭐ 229 | 🐛 5 | 🌐 1C Enterprise | 📅 2026-07-24
+### [1c-mcp-toolkit](https://github.com/ROCTUP/1c-mcp-toolkit) ⭐ 230 | 🐛 5 | 🌐 1C Enterprise | 📅 2026-07-24
 
 MCP и REST API сервер для получения метаданных и данных из базы 1С. Уникальная особенность — встроенный HTTP-сервер прямо в обработке `.epf`.
 
@@ -335,7 +335,7 @@ MCP и REST API сервер для получения метаданных и �
 
 ## Метаданные и анализ кода
 
-### [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 192 | 🐛 1 | 🌐 Go | 📅 2026-08-10
+### [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 193 | 🐛 1 | 🌐 Go | 📅 2026-08-10
 
 MCP-сервер для работы с живой базой 1С:Предприятие. Один Go-бинарник без внешних runtime-зависимостей, подключается к HTTP-сервису 1С и может использовать выгрузку конфигурации для поиска по коду.
 
@@ -372,7 +372,7 @@ MCP-сервер для получения метаданных конфигур
 * Поиск по имени, синониму и комментарию
 * Валидация синтаксиса языка запросов 1С
 
-### [1c-mcp-metacode](https://github.com/ROCTUP/1c-mcp-metacode) ⭐ 87 | 🐛 3 | 🌐 Python | 📅 2026-07-13
+### [1c-mcp-metacode](https://github.com/ROCTUP/1c-mcp-metacode) ⭐ 88 | 🐛 5 | 🌐 Python | 📅 2026-07-13
 
 Загружает метаданные и код конфигурации 1С в графовую БД Neo4j и предоставляет MCP-инструменты для поиска.
 
@@ -821,7 +821,7 @@ CLI и MCP-сервер на Rust для локального цикла раз�
 
 ## Наборы правил и скиллов
 
-### [Unica](https://github.com/IngvarConsulting/unica) ⭐ 156 | 🐛 66 | 🌐 Rust | 📅 2026-08-15
+### [Unica](https://github.com/IngvarConsulting/unica) ⭐ 156 | 🐛 64 | 🌐 Rust | 📅 2026-08-15
 
 Плагин для Codex и Claude Code, который помогает работать с проектами 1С:Предприятие. Это не самостоятельный MCP-сервер общего назначения, а воспроизводимый набор skills, MCP-сервер `unica`, сценарии и pinned-инструменты для 1С-разработки.
 
@@ -911,20 +911,20 @@ MCP от Инфостарт для работы с метаданными кон
 
 | Проект                                                                                                                          | Stars                                                                                                    | Категория                          | Статус |
 | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------ |
-| [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 192 \| 🐛 1 \| 🌐 Go \| 📅 2026-08-10                                            | ![Stars](https://img.shields.io/github/stars/feenlace/mcp-1c?style=flat\&label=)                         | Живая база / метаданные            | ✅      |
+| [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 193 \| 🐛 1 \| 🌐 Go \| 📅 2026-08-10                                            | ![Stars](https://img.shields.io/github/stars/feenlace/mcp-1c?style=flat\&label=)                         | Живая база / метаданные            | ✅      |
 | [1c\_mcp](https://github.com/vladimir-kharin/1c_mcp) ⭐ 476 \| 🐛 2 \| 🌐 1C Enterprise \| 📅 2026-08-03                         | ![Stars](https://img.shields.io/github/stars/vladimir-kharin/1c_mcp?style=flat\&label=)                  | Фреймворк                          | ✅      |
-| [Unica](https://github.com/IngvarConsulting/unica) ⭐ 156 \| 🐛 66 \| 🌐 Rust \| 📅 2026-08-15                                   | ![Stars](https://img.shields.io/github/stars/IngvarConsulting/unica?style=flat\&label=)                  | Плагин и скиллы для Codex и Claude | ✅      |
+| [Unica](https://github.com/IngvarConsulting/unica) ⭐ 156 \| 🐛 64 \| 🌐 Rust \| 📅 2026-08-15                                   | ![Stars](https://img.shields.io/github/stars/IngvarConsulting/unica?style=flat\&label=)                  | Плагин и скиллы для Codex и Claude | ✅      |
 | [cursor\_rules\_1c](https://github.com/comol/cursor_rules_1c) ⭐ 422 \| 🐛 12 \| 🌐 PowerShell \| 📅 2026-08-01                  | ![Stars](https://img.shields.io/github/stars/comol/cursor_rules_1c?style=flat\&label=)                   | Правила и скиллы                   | ✅      |
 | [CodePilot1C](https://github.com/ondysss/codepilot1c-edt) ⭐ 141 \| 🐛 20 \| 🌐 Java \| 📅 2026-08-04                            | ![Stars](https://img.shields.io/github/stars/ondysss/codepilot1c-edt?style=flat\&label=)                 | IDE                                | ✅      |
 | [1C: Platform Tools MCP](https://github.com/yellow-hammer/mcp-1c-platform-tools) ⭐ 30 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-08-10 | ![Stars](https://img.shields.io/github/stars/yellow-hammer/mcp-1c-platform-tools?style=flat\&label=)     | IDE                                | ✅      |
 | [mcp-1c-v1](https://github.com/FSerg/mcp-1c-v1) ⭐ 162 \| 🐛 2 \| 🌐 TypeScript \| 📅 2025-08-04                                 | ![Stars](https://img.shields.io/github/stars/FSerg/mcp-1c-v1?style=flat\&label=)                         | RAG / метаданные                   | 🚧     |
 | [mcp-bsl-platform-context](https://github.com/alkoleft/mcp-bsl-platform-context) ⭐ 187 \| 🐛 11 \| 🌐 Kotlin \| 📅 2026-03-10   | ![Stars](https://img.shields.io/github/stars/alkoleft/mcp-bsl-platform-context?style=flat\&label=)       | Справка платформы                  | ✅      |
-| [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 242 \| 🐛 27 \| 🌐 Java \| 📅 2026-08-15                                      | ![Stars](https://img.shields.io/github/stars/DitriXNew/EDT-MCP?style=flat\&label=)                       | IDE                                | ✅      |
+| [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 242 \| 🐛 27 \| 🌐 Java \| 📅 2026-08-16                                      | ![Stars](https://img.shields.io/github/stars/DitriXNew/EDT-MCP?style=flat\&label=)                       | IDE                                | ✅      |
 | [mcp-onec-test-runner](https://github.com/alkoleft/mcp-onec-test-runner) ⭐ 106 \| 🐛 17 \| 🌐 Kotlin \| 📅 2026-03-22           | ![Stars](https://img.shields.io/github/stars/alkoleft/mcp-onec-test-runner?style=flat\&label=)           | Тестирование                       | ✅      |
-| [1c-mcp-toolkit](https://github.com/ROCTUP/1c-mcp-toolkit) ⭐ 229 \| 🐛 5 \| 🌐 1C Enterprise \| 📅 2026-07-24                   | ![Stars](https://img.shields.io/github/stars/ROCTUP/1c-mcp-toolkit?style=flat\&label=)                   | Фреймворк                          | ✅      |
+| [1c-mcp-toolkit](https://github.com/ROCTUP/1c-mcp-toolkit) ⭐ 230 \| 🐛 5 \| 🌐 1C Enterprise \| 📅 2026-07-24                   | ![Stars](https://img.shields.io/github/stars/ROCTUP/1c-mcp-toolkit?style=flat\&label=)                   | Фреймворк                          | ✅      |
 | [http1c](https://mcpmarket.com/server/http1c)                                                                                   | —                                                                                                        | Фреймворк                          | ✅      |
 | [1C\_MCP\_metadata](https://github.com/artesk/1C_MCP_metadata) ⭐ 60 \| 🐛 2 \| 🌐 1C Enterprise \| 📅 2025-06-18                | ![Stars](https://img.shields.io/github/stars/artesk/1C_MCP_metadata?style=flat\&label=)                  | Метаданные                         | 🚧     |
-| [1c-mcp-metacode](https://github.com/ROCTUP/1c-mcp-metacode) ⭐ 87 \| 🐛 3 \| 🌐 Python \| 📅 2026-07-13                         | ![Stars](https://img.shields.io/github/stars/ROCTUP/1c-mcp-metacode?style=flat\&label=)                  | Граф кода                          | ✅      |
+| [1c-mcp-metacode](https://github.com/ROCTUP/1c-mcp-metacode) ⭐ 88 \| 🐛 5 \| 🌐 Python \| 📅 2026-07-13                         | ![Stars](https://img.shields.io/github/stars/ROCTUP/1c-mcp-metacode?style=flat\&label=)                  | Граф кода                          | ✅      |
 | [rlm-tools-bsl](https://github.com/Dach-Coin/rlm-tools-bsl) ⭐ 177 \| 🐛 4 \| 🌐 Python \| 📅 2026-08-13                         | ![Stars](https://img.shields.io/github/stars/Dach-Coin/rlm-tools-bsl?style=flat\&label=)                 | RLM-анализ BSL                     | ✅      |
 | [1c-templates-mcp](https://yellowmcp.com/servers/1c-templates-mcp)                                                              | —                                                                                                        | Шаблоны BSL                        | ✅      |
 | [1c-syntax-helper-mcp](https://github.com/Antonio1C/1c-syntax-helper-mcp) ⭐ 69 \| 🐛 6 \| 🌐 Python \| 📅 2025-12-30            | ![Stars](https://img.shields.io/github/stars/Antonio1C/1c-syntax-helper-mcp?style=flat\&label=)          | Документация                       | ✅      |
@@ -968,7 +968,7 @@ MCP от Инфостарт для работы с метаданными кон
 
 ## Как добавить проект
 
-Нашли MCP-сервер для 1С, которого нет в списке? Смотрите [CONTRIBUTING.md](CONTRIBUTING.md) — там шаблон записи и правила. Или просто откройте [Issue](https://github.com/Untru/1c-mcp/issues/new?template=new-server.yml) ⭐ 141 | 🐛 1 | 📅 2026-08-05.
+Нашли MCP-сервер для 1С, которого нет в списке? Смотрите [CONTRIBUTING.md](CONTRIBUTING.md) — там шаблон записи и правила. Или просто откройте [Issue](https://github.com/Untru/1c-mcp/issues/new?template=new-server.yml) ⭐ 142 | 🐛 1 | 📅 2026-08-05.
 
 ***
 
@@ -978,4 +978,4 @@ MCP от Инфостарт для работы с метаданными кон
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
