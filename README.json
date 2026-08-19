@@ -41,7 +41,7 @@
             "archived": false,
             "id": 1160221881,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T18:45:38Z",
+            "last_commit": "2026-08-19T09:01:26Z",
             "owner": "yellow-hammer",
             "repo": "mcp-1c-platform-tools",
             "stars": 30
@@ -161,7 +161,7 @@
             "last_commit": "2025-08-04T03:33:10Z",
             "owner": "fserg",
             "repo": "mcp-1c-v1",
-            "stars": 162
+            "stars": 163
           },
           "title": "mcp-1c-v1"
         }
@@ -260,7 +260,7 @@
             "archived": false,
             "id": 1175453476,
             "language": "Rust",
-            "last_commit": "2026-08-17T22:22:52Z",
+            "last_commit": "2026-08-19T11:30:34Z",
             "owner": "itrous",
             "repo": "bsl-analyzer",
             "stars": 87
@@ -470,10 +470,10 @@
             "archived": false,
             "id": 1227187618,
             "language": "Rust",
-            "last_commit": "2026-08-19T08:03:42Z",
+            "last_commit": "2026-08-19T11:28:57Z",
             "owner": "IngvarConsulting",
             "repo": "unica",
-            "stars": 165
+            "stars": 166
           },
           "title": "Unica"
         },
@@ -497,8 +497,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:27:09.098Z",
+    "last_updated": "2026-08-19T12:05:24.271Z",
     "original_repository": "Untru/1c-mcp",
+    "original_repository_id": 1168595356,
     "original_repository_sha": "24a4526d615ca2c531264145553d5e0d28f6e7ce",
     "enhanced_repository": "enhansome/enhansome-1c-mcp",
     "enhanced_repository_description": null,
