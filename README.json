@@ -1,208 +1,503 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Star History"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Быстрая навигация"
-    },
-    {
-      "description": "Готовые ориентиры под конкретные задачи. Это не обязательные наборы «всё сразу», а типовые связки, с которых удобно начинать.",
-      "items": [],
-      "title": "Сценарии использования"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI пишет код обработки или расширения"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI разбирает большую конфигурацию"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI делает code review BSL"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI помогает в локальном цикле разработки"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI работает с учётной системой"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI работает внутри IDE"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Архитектурные паттерны"
-    },
-    {
-      "description": "Расширение конфигурации + HTTP-сервис в 1С, MCP-сервер подключается напрямую.\nКогда: нужен доступ к живым данным и метаданным, есть контроль над базой.\nСерверы: , ,",
-      "items": [],
-      "title": "Прямое подключение к базе"
-    },
-    {
-      "description": "Парсинг XML/EDT-выгрузки без подключения к работающей базе.\nКогда: CI/CD, code review, анализ без доступа к серверу 1С.\nСерверы: , , (режим выгрузки)",
-      "items": [],
-      "title": "Работа с выгрузкой конфигурации"
-    },
-    {
-      "description": "Индексация метаданных и документации в векторной/графовой БД.\nКогда: нужен поиск на естественном языке, большие конфигурации (ERP, БСП).\nСерверы: (Qdrant), (Neo4j),",
-      "items": [],
-      "title": "RAG / семантический поиск"
-    },
-    {
-      "description": "MCP-обёртка над LSP, REST API или другим протоколом.\nКогда: уже есть инфраструктура (BSL LS, OData, 1С:Напарник), нужно дать к ней MCP-доступ.\nСерверы: , , ,",
-      "items": [],
-      "title": "Мост к существующим инструментам"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Матрица совместимости"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "По транспорту"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "По платформе 1С"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "По зависимостям"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "MCP-сервер в виде плагина для 1C:EDT, обеспечивающий глубокую интеграцию AI-ассистентов с рабочим пространством IDE.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1127068869,
+            "language": "Java",
+            "last_commit": "2026-08-19T07:08:23Z",
+            "owner": "DitriXNew",
+            "repo": "EDT-MCP",
+            "stars": 243
+          },
+          "title": "EDT-MCP"
+        },
+        {
+          "children": [],
+          "description": "AI-плагин для 1C:EDT с чатом, агентным режимом и MCP Host. Добавлен по открытому issue Untru/1c-mcp#1.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1152843337,
+            "language": "Java",
+            "last_commit": "2026-08-19T04:51:15Z",
+            "owner": "ondysss",
+            "repo": "codepilot1c-edt",
+            "stars": 144
+          },
+          "title": "CodePilot1C"
+        },
+        {
+          "children": [],
+          "description": "MCP-сервер для вызова команд VS Code-расширения 1C: Platform Tools из Cursor, VS Code и других MCP-клиентов.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1160221881,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T18:45:38Z",
+            "owner": "yellow-hammer",
+            "repo": "mcp-1c-platform-tools",
+            "stars": 30
+          },
+          "title": "1C: Platform Tools MCP"
+        }
+      ],
       "title": "IDE-интеграции"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Фреймворк для создания MCP-серверов внутри 1С:Предприятие через расширения конфигурации. Готовое расширение берёт на себя всю механику протокола — разработчику достаточно реализовать бизнес-логику инструментов.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 996690677,
+            "language": "1C Enterprise",
+            "last_commit": "2026-08-03T14:09:36Z",
+            "owner": "vladimir-kharin",
+            "repo": "1c_mcp",
+            "stars": 477
+          },
+          "title": "1c_mcp"
+        },
+        {
+          "children": [],
+          "description": "MCP и REST API сервер для получения метаданных и данных из базы 1С. Уникальная особенность — встроенный HTTP-сервер прямо в обработке .\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1154956769,
+            "language": "1C Enterprise",
+            "last_commit": "2026-07-24T10:05:38Z",
+            "owner": "ROCTUP",
+            "repo": "1c-mcp-toolkit",
+            "stars": 236
+          },
+          "title": "1c-mcp-toolkit"
+        }
+      ],
       "title": "Фреймворки для создания MCP-серверов"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "MCP-сервер для работы с живой базой 1С:Предприятие. Один Go-бинарник без внешних runtime-зависимостей, подключается к HTTP-сервису 1С и может использовать выгрузку конфигурации для поиска по коду.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1174443757,
+            "language": "Go",
+            "last_commit": "2026-08-17T18:53:11Z",
+            "owner": "feenlace",
+            "repo": "mcp-1c",
+            "stars": 197
+          },
+          "title": "mcp-1c"
+        },
+        {
+          "children": [],
+          "description": "MCP-сервер для получения метаданных конфигурации 1С. Расширение 1С с HTTP-сервисом + PowerShell-мост для stdio.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1003262080,
+            "language": "1C Enterprise",
+            "last_commit": "2025-06-18T16:50:09Z",
+            "owner": "artesk",
+            "repo": "1C_MCP_metadata",
+            "stars": 60
+          },
+          "title": "1C_MCP_metadata"
+        },
+        {
+          "children": [],
+          "description": "Загружает метаданные и код конфигурации 1С в графовую БД Neo4j и предоставляет MCP-инструменты для поиска.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1062812429,
+            "language": "Python",
+            "last_commit": "2026-08-19T01:09:39Z",
+            "owner": "ROCTUP",
+            "repo": "1c-mcp-metacode",
+            "stars": 89
+          },
+          "title": "1c-mcp-metacode"
+        },
+        {
+          "children": [],
+          "description": "MCP-сервер для токен-эффективного анализа больших кодовых баз 1С без обязательного RAG. Адаптирует RLM-подход под BSL, исходники CF, EDT, CFE и MDO, XML-метаданные и кириллический код.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1180737932,
+            "language": "Python",
+            "last_commit": "2026-08-16T15:43:54Z",
+            "owner": "Dach-Coin",
+            "repo": "rlm-tools-bsl",
+            "stars": 181
+          },
+          "title": "rlm-tools-bsl"
+        },
+        {
+          "children": [],
+          "description": "MCP-сервер с RAG (Retrieval-Augmented Generation) для описания структуры конфигурации 1С. Семантический поиск через векторную БД Qdrant.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 999971503,
+            "language": "TypeScript",
+            "last_commit": "2025-08-04T03:33:10Z",
+            "owner": "fserg",
+            "repo": "mcp-1c-v1",
+            "stars": 162
+          },
+          "title": "mcp-1c-v1"
+        }
+      ],
       "title": "Метаданные и анализ кода"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "MCP-сервер — интерактивный «Синтакс-помощник» для AI. Справка по синтаксису и объектной модели платформы 1С:Предприятие.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1012038321,
+            "language": "Kotlin",
+            "last_commit": "2026-03-10T23:43:22Z",
+            "owner": "alkoleft",
+            "repo": "mcp-bsl-platform-context",
+            "stars": 188
+          },
+          "title": "mcp-bsl-platform-context"
+        },
+        {
+          "children": [],
+          "description": "MCP-сервер с RAG-поиском по официальной справке платформы 1С. Гибридный поиск (BM25 + семантика) с поддержкой нескольких версий платформы.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1155957008,
+            "language": "Python",
+            "last_commit": "2026-02-12T19:38:59Z",
+            "owner": "rzateev",
+            "repo": "onec-help-mcp",
+            "stars": 22
+          },
+          "title": "onec-help-mcp"
+        },
+        {
+          "children": [],
+          "description": "MCP-сервер для быстрого поиска по документации синтаксиса 1С. Централизованный сервис для нескольких пользователей.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1045123293,
+            "language": "Python",
+            "last_commit": "2025-12-30T10:42:01Z",
+            "owner": "Antonio1C",
+            "repo": "1c-syntax-helper-mcp",
+            "stars": 69
+          },
+          "title": "1c-syntax-helper-mcp"
+        }
+      ],
       "title": "Справка и документация платформы"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "MCP-сервер для анализа и форматирования кода 1С через BSL Language Server. Проверяет и файлы, возвращает ошибки и предупреждения в JSON.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1082476099,
+            "language": "Python",
+            "last_commit": "2025-11-12T19:27:35Z",
+            "owner": "phsin",
+            "repo": "mcp-bsl-ls",
+            "stars": 5
+          },
+          "title": "bsl-mcp"
+        },
+        {
+          "children": [],
+          "description": "LSP → MCP транслятор: даёт AI-агентам доступ к возможностям BSL Language Server — навигация по коду, поиск символов, диагностика (100+ проверок), рефакторинг, hover-подсказки.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1141694908,
+            "language": "Go",
+            "last_commit": "2026-07-03T19:39:52Z",
+            "owner": "SteelMorgan",
+            "repo": "mcp-bsl-lsp-bridge",
+            "stars": 67
+          },
+          "title": "mcp-bsl-lsp-bridge"
+        },
+        {
+          "children": [],
+          "description": "Высокопроизводительный анализатор BSL на Rust с CLI, LSP и встроенным MCP-сервером. Даёт IDE и AI-агентам диагностику, навигацию, поиск по проекту и справке, а также машинно-читаемые отчёты для CI/CD.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1175453476,
+            "language": "Rust",
+            "last_commit": "2026-08-17T22:22:52Z",
+            "owner": "itrous",
+            "repo": "bsl-analyzer",
+            "stars": 87
+          },
+          "title": "bsl-analyzer"
+        },
+        {
+          "children": [],
+          "description": "MCP-сервер для запуска YaXUnit-тестов и сборки проектов 1С из AI-ассистентов.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1029322300,
+            "language": "Kotlin",
+            "last_commit": "2026-03-22T21:40:47Z",
+            "owner": "alkoleft",
+            "repo": "mcp-onec-test-runner",
+            "stars": 106
+          },
+          "title": "mcp-onec-test-runner (METR)"
+        }
+      ],
       "title": "Тестирование и проверка синтаксиса"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Чат, MCP-сервер и OpenAI-совместимый API-шлюз для общения с 1С:Напарник. Веб-интерфейс с подсветкой BSL/XML, визуализацией диаграмм и историей разговоров.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1090201718,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T19:11:01Z",
+            "owner": "ROCTUP",
+            "repo": "1c-buddy",
+            "stars": 97
+          },
+          "title": "1c-buddy"
+        },
+        {
+          "children": [],
+          "description": "MCP-сервер на Spring Boot для интеграции с API 1С:Напарник. SSE-транспорт и Swagger UI.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1071826928,
+            "language": "Kotlin",
+            "last_commit": "2026-07-03T22:12:38Z",
+            "owner": "SteelMorgan",
+            "repo": "spring-mcp-1c-copilot",
+            "stars": 44
+          },
+          "title": "spring-mcp-1c-copilot"
+        }
+      ],
       "title": "Интеграция с 1С:Напарник"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "MCP-сервер для работы с опубликованным REST API 1С:Предприятие. Ориентирован на базовые операции с каталогами и документами.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1196390720,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:09:35Z",
+            "owner": "theYahia",
+            "repo": "aprovodka",
+            "stars": 10
+          },
+          "title": "1c-rest-mcp"
+        },
+        {
+          "children": [],
+          "description": "MCP-сервер для интеграции AI-ассистентов с 1С:Бухгалтерией. Ранняя стадия разработки.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1014030110,
+            "language": "Python",
+            "last_commit": "2025-07-11T18:39:36Z",
+            "owner": "tarasov46",
+            "repo": "1c-accounting-mcp",
+            "stars": 4
+          },
+          "title": "1c-accounting-mcp"
+        }
+      ],
       "title": "Интеграция с учётными системами"
     },
     {
-      "description": "MCP-сервер для интеграции AI-ассистентов с 1С:Бухгалтерией. Ранняя стадия разработки.",
-      "items": [],
-      "title": "1c-accounting-mcp"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Анализатор и визуализатор конфигураций 1С. Строит граф знаний в NebulaGraph с MCP-доступом.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1060785744,
+            "language": "Kotlin",
+            "last_commit": "2025-09-20T21:59:54Z",
+            "owner": "alkoleft",
+            "repo": "bsl-graph",
+            "stars": 46
+          },
+          "title": "bsl-graph"
+        }
+      ],
       "title": "Графовый анализ"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "MCP-сервер для работы с журналом регистрации (ЖР) и технологическим журналом (ТЖ) 1С. Парсинг логов через ClickHouse + Grafana, MCP-доступ для AI-агента.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1101167547,
+            "language": "Go",
+            "last_commit": "2026-06-24T13:36:22Z",
+            "owner": "SteelMorgan",
+            "repo": "1c-log-checker",
+            "stars": 65
+          },
+          "title": "1c-log-checker"
+        },
+        {
+          "children": [],
+          "description": "Docker-песочница для безопасной работы AI-агента с 1С. Полноценное окружение (клиент + сервер + веб-публикация + БД), изолированное от продуктивных данных.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1149595732,
+            "language": "PowerShell",
+            "last_commit": "2026-07-07T12:32:25Z",
+            "owner": "SteelMorgan",
+            "repo": "1c-ai-sandbox-client-server",
+            "stars": 43
+          },
+          "title": "1c-ai-sandbox-client-server"
+        },
+        {
+          "children": [],
+          "description": "CLI и MCP-сервер на Rust для локального цикла разработки 1С. Один entrypoint собирает исходники, готовит информационную базу, запускает проверки и тесты, выгружает изменения обратно в файлы и отдаёт AI-агентам ограниченную MCP-поверхность.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1188649228,
+            "language": "Rust",
+            "last_commit": "2026-08-03T00:34:57Z",
+            "owner": "alkoleft",
+            "repo": "v8-runner-rust",
+            "stars": 53
+          },
+          "title": "v8-runner"
+        },
+        {
+          "children": [],
+          "description": "Коллекция Docker Compose конфигов для оркестрации MCP-серверов для 1С-разработки.\nВключённые серверы:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1078175926,
+            "language": null,
+            "last_commit": "2025-10-17T22:25:30Z",
+            "owner": "pravets",
+            "repo": "compose4mcp",
+            "stars": 37
+          },
+          "title": "compose4mcp"
+        },
+        {
+          "children": [],
+          "description": "Менеджер клиентских сессий 1С для связки 1С-клиентов и AI-агентов. Принимает WebSocket-подключения от 1С-клиентов, агрегирует опубликованные ими MCP-инструменты и отдаёт единый MCP HTTP endpoint.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1230645542,
+            "language": "Rust",
+            "last_commit": "2026-05-11T14:35:04Z",
+            "owner": "1c-neurofish",
+            "repo": "v8-session-manager",
+            "stars": 10
+          },
+          "title": "v8-session-manager"
+        }
+      ],
       "title": "Инфраструктура и DevOps"
     },
     {
-      "description": "Набор Docker-контейнеров MCP-серверов от OneRPA для 1С-разработки.",
-      "items": [],
-      "title": "OneRPA MCP Suite"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Плагин для Codex и Claude Code, который помогает работать с проектами 1С:Предприятие. Это не самостоятельный MCP-сервер общего назначения, а воспроизводимый набор skills, MCP-сервер , сценарии и pinned-инструменты для 1С-разработки.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1227187618,
+            "language": "Rust",
+            "last_commit": "2026-08-19T08:03:42Z",
+            "owner": "IngvarConsulting",
+            "repo": "unica",
+            "stars": 165
+          },
+          "title": "Unica"
+        },
+        {
+          "children": [],
+          "description": "Комплексный набор правил, агентов и скиллов для AI-разработки на платформе 1С в Cursor IDE. Не является MCP-сервером напрямую, но активно использует MCP-серверы из этого списка.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1048024121,
+            "language": "PowerShell",
+            "last_commit": "2026-08-17T22:14:00Z",
+            "owner": "comol",
+            "repo": "ai_rules_1c",
+            "stars": 426
+          },
+          "title": "cursor_rules_1c"
+        }
+      ],
       "title": "Наборы правил и скиллов"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Коммерческие продукты"
-    },
-    {
-      "description": "SaaS-платформа с MCP-сервером, семантическим поиском по метаданным, коду и документации. Командная работа до 100 человек.",
-      "items": [],
-      "title": "OneMCP"
-    },
-    {
-      "description": "Коммерческий конструктор MCP-серверов для 1С без программирования. Также предлагает обучающие курсы.",
-      "items": [],
-      "title": "VibeCoding1C"
-    },
-    {
-      "description": "MCP от Инфостарт для работы с метаданными конфигураций. Гибридный поиск (BM25), подключение к синтаксис-помощнику. Набор Docker-контейнеров для проверки синтаксиса, поиска по справке и метаданным.",
-      "items": [],
-      "title": "Infostart MCP"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Сводная таблица"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Open Source"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Коммерческие"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Легенда статусов"
-    },
-    {
-      "description": "Нашли MCP-сервер для 1С, которого нет в списке? Смотрите CONTRIBUTING.md — там шаблон записи и правила. Или просто откройте Issue.",
-      "items": [],
-      "title": "Как добавить проект"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Лицензия"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:26:27.891Z",
+    "last_updated": "2026-08-19T08:27:09.098Z",
     "original_repository": "Untru/1c-mcp",
     "original_repository_sha": "24a4526d615ca2c531264145553d5e0d28f6e7ce",
     "enhanced_repository": "enhansome/enhansome-1c-mcp",
