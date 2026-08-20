@@ -11,7 +11,7 @@
             "archived": false,
             "id": 1127068869,
             "language": "Java",
-            "last_commit": "2026-08-19T07:08:23Z",
+            "last_commit": "2026-08-20T05:38:34Z",
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
             "stars": 243
@@ -29,7 +29,7 @@
             "last_commit": "2026-08-19T04:51:15Z",
             "owner": "ondysss",
             "repo": "codepilot1c-edt",
-            "stars": 144
+            "stars": 145
           },
           "title": "CodePilot1C"
         },
@@ -65,7 +65,7 @@
             "last_commit": "2026-08-03T14:09:36Z",
             "owner": "vladimir-kharin",
             "repo": "1c_mcp",
-            "stars": 477
+            "stars": 478
           },
           "title": "1c_mcp"
         },
@@ -260,7 +260,7 @@
             "archived": false,
             "id": 1175453476,
             "language": "Rust",
-            "last_commit": "2026-08-19T11:30:34Z",
+            "last_commit": "2026-08-19T19:20:57Z",
             "owner": "itrous",
             "repo": "bsl-analyzer",
             "stars": 87
@@ -470,10 +470,10 @@
             "archived": false,
             "id": 1227187618,
             "language": "Rust",
-            "last_commit": "2026-08-19T11:28:57Z",
+            "last_commit": "2026-08-19T22:51:05Z",
             "owner": "IngvarConsulting",
             "repo": "unica",
-            "stars": 166
+            "stars": 169
           },
           "title": "Unica"
         },
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:05:24.271Z",
+    "last_updated": "2026-08-20T08:28:42.206Z",
     "original_repository": "Untru/1c-mcp",
     "original_repository_id": 1168595356,
     "original_repository_sha": "24a4526d615ca2c531264145553d5e0d28f6e7ce",
