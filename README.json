@@ -11,7 +11,7 @@
             "archived": false,
             "id": 1127068869,
             "language": "Java",
-            "last_commit": "2026-08-21T06:20:52Z",
+            "last_commit": "2026-08-22T08:13:22Z",
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
             "stars": 244
@@ -26,7 +26,7 @@
             "archived": false,
             "id": 1152843337,
             "language": "Java",
-            "last_commit": "2026-08-20T12:24:37Z",
+            "last_commit": "2026-08-22T04:24:07Z",
             "owner": "ondysss",
             "repo": "codepilot1c-edt",
             "stars": 145
@@ -80,7 +80,7 @@
             "last_commit": "2026-07-24T10:05:38Z",
             "owner": "ROCTUP",
             "repo": "1c-mcp-toolkit",
-            "stars": 238
+            "stars": 239
           },
           "title": "1c-mcp-toolkit"
         }
@@ -146,7 +146,7 @@
             "last_commit": "2026-08-16T15:43:54Z",
             "owner": "Dach-Coin",
             "repo": "rlm-tools-bsl",
-            "stars": 182
+            "stars": 184
           },
           "title": "rlm-tools-bsl"
         },
@@ -212,7 +212,7 @@
             "last_commit": "2025-12-30T10:42:01Z",
             "owner": "Antonio1C",
             "repo": "1c-syntax-helper-mcp",
-            "stars": 69
+            "stars": 70
           },
           "title": "1c-syntax-helper-mcp"
         }
@@ -392,7 +392,7 @@
             "last_commit": "2026-06-24T13:36:22Z",
             "owner": "SteelMorgan",
             "repo": "1c-log-checker",
-            "stars": 65
+            "stars": 66
           },
           "title": "1c-log-checker"
         },
@@ -470,10 +470,10 @@
             "archived": false,
             "id": 1227187618,
             "language": "Rust",
-            "last_commit": "2026-08-20T22:56:33Z",
+            "last_commit": "2026-08-22T00:17:13Z",
             "owner": "IngvarConsulting",
             "repo": "unica",
-            "stars": 172
+            "stars": 173
           },
           "title": "Unica"
         },
@@ -488,7 +488,7 @@
             "last_commit": "2026-08-17T22:14:00Z",
             "owner": "comol",
             "repo": "ai_rules_1c",
-            "stars": 427
+            "stars": 428
           },
           "title": "cursor_rules_1c"
         }
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:30:09.173Z",
+    "last_updated": "2026-08-22T08:19:13.525Z",
     "original_repository": "Untru/1c-mcp",
     "original_repository_id": 1168595356,
     "original_repository_sha": "24a4526d615ca2c531264145553d5e0d28f6e7ce",
