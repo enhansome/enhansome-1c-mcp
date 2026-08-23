@@ -11,10 +11,10 @@
             "archived": false,
             "id": 1127068869,
             "language": "Java",
-            "last_commit": "2026-08-22T08:13:22Z",
+            "last_commit": "2026-08-23T07:57:45Z",
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
-            "stars": 244
+            "stars": 245
           },
           "title": "EDT-MCP"
         },
@@ -26,7 +26,7 @@
             "archived": false,
             "id": 1152843337,
             "language": "Java",
-            "last_commit": "2026-08-22T04:24:07Z",
+            "last_commit": "2026-08-22T08:42:26Z",
             "owner": "ondysss",
             "repo": "codepilot1c-edt",
             "stars": 145
@@ -80,7 +80,7 @@
             "last_commit": "2026-07-24T10:05:38Z",
             "owner": "ROCTUP",
             "repo": "1c-mcp-toolkit",
-            "stars": 239
+            "stars": 240
           },
           "title": "1c-mcp-toolkit"
         }
@@ -260,7 +260,7 @@
             "archived": false,
             "id": 1175453476,
             "language": "Rust",
-            "last_commit": "2026-08-19T19:20:57Z",
+            "last_commit": "2026-08-22T13:58:53Z",
             "owner": "itrous",
             "repo": "bsl-analyzer",
             "stars": 88
@@ -278,7 +278,7 @@
             "last_commit": "2026-03-22T21:40:47Z",
             "owner": "alkoleft",
             "repo": "mcp-onec-test-runner",
-            "stars": 106
+            "stars": 107
           },
           "title": "mcp-onec-test-runner (METR)"
         }
@@ -470,10 +470,10 @@
             "archived": false,
             "id": 1227187618,
             "language": "Rust",
-            "last_commit": "2026-08-22T00:17:13Z",
+            "last_commit": "2026-08-22T20:03:28Z",
             "owner": "IngvarConsulting",
             "repo": "unica",
-            "stars": 173
+            "stars": 175
           },
           "title": "Unica"
         },
@@ -488,7 +488,7 @@
             "last_commit": "2026-08-17T22:14:00Z",
             "owner": "comol",
             "repo": "ai_rules_1c",
-            "stars": 428
+            "stars": 429
           },
           "title": "cursor_rules_1c"
         }
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:19:13.525Z",
+    "last_updated": "2026-08-23T08:20:28.899Z",
     "original_repository": "Untru/1c-mcp",
     "original_repository_id": 1168595356,
     "original_repository_sha": "24a4526d615ca2c531264145553d5e0d28f6e7ce",
