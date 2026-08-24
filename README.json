@@ -14,7 +14,7 @@
             "last_commit": "2026-08-24T08:05:57Z",
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
-            "stars": 248
+            "stars": 249
           },
           "title": "EDT-MCP"
         },
@@ -65,7 +65,7 @@
             "last_commit": "2026-08-03T14:09:36Z",
             "owner": "vladimir-kharin",
             "repo": "1c_mcp",
-            "stars": 482
+            "stars": 483
           },
           "title": "1c_mcp"
         },
@@ -80,7 +80,7 @@
             "last_commit": "2026-07-24T10:05:38Z",
             "owner": "ROCTUP",
             "repo": "1c-mcp-toolkit",
-            "stars": 241
+            "stars": 243
           },
           "title": "1c-mcp-toolkit"
         }
@@ -146,7 +146,7 @@
             "last_commit": "2026-08-16T15:43:54Z",
             "owner": "Dach-Coin",
             "repo": "rlm-tools-bsl",
-            "stars": 185
+            "stars": 186
           },
           "title": "rlm-tools-bsl"
         },
@@ -238,7 +238,23 @@
           "title": "bsl-mcp"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Универсальный LSP→MCP мост (см. также Tritlo/lsp-mcp",
+              "description": "generic вариант)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 952869992,
+                "language": "TypeScript",
+                "last_commit": "2025-07-21T16:43:01Z",
+                "owner": "Tritlo",
+                "repo": "lsp-mcp",
+                "stars": 123
+              }
+            }
+          ],
           "description": "LSP → MCP транслятор: даёт AI-агентам доступ к возможностям BSL Language Server — навигация по коду, поиск символов, диагностика (100+ проверок), рефакторинг, hover-подсказки.\nВозможности:",
           "node_type": "item",
           "repo_info": {
@@ -260,7 +276,7 @@
             "archived": false,
             "id": 1175453476,
             "language": "Rust",
-            "last_commit": "2026-08-22T13:58:53Z",
+            "last_commit": "2026-08-24T13:09:37Z",
             "owner": "itrous",
             "repo": "bsl-analyzer",
             "stars": 90
@@ -392,7 +408,7 @@
             "last_commit": "2026-06-24T13:36:22Z",
             "owner": "SteelMorgan",
             "repo": "1c-log-checker",
-            "stars": 66
+            "stars": 67
           },
           "title": "1c-log-checker"
         },
@@ -442,7 +458,23 @@
           "title": "compose4mcp"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Требования",
+              "description": "1С-клиенты с MCP WS-режимом, например через onec-client-mcp-devkit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1173408057,
+                "language": "1C Enterprise",
+                "last_commit": "2026-05-26T19:26:11Z",
+                "owner": "1c-neurofish",
+                "repo": "onec-client-mcp-devkit",
+                "stars": 56
+              }
+            }
+          ],
           "description": "Менеджер клиентских сессий 1С для связки 1С-клиентов и AI-агентов. Принимает WebSocket-подключения от 1С-клиентов, агрегирует опубликованные ими MCP-инструменты и отдаёт единый MCP HTTP endpoint.\nВозможности:",
           "node_type": "item",
           "repo_info": {
@@ -470,7 +502,7 @@
             "archived": false,
             "id": 1227187618,
             "language": "Rust",
-            "last_commit": "2026-08-23T18:36:55Z",
+            "last_commit": "2026-08-24T12:55:47Z",
             "owner": "IngvarConsulting",
             "repo": "unica",
             "stars": 179
@@ -494,10 +526,458 @@
         }
       ],
       "title": "Наборы правил и скиллов"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mcp-1c",
+              "description": "Живая база / метаданные ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1174443757,
+                "language": "Go",
+                "last_commit": "2026-08-17T18:53:11Z",
+                "owner": "feenlace",
+                "repo": "mcp-1c",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1c_mcp",
+              "description": "Фреймворк ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 996690677,
+                "language": "1C Enterprise",
+                "last_commit": "2026-08-03T14:09:36Z",
+                "owner": "vladimir-kharin",
+                "repo": "1c_mcp",
+                "stars": 483
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unica",
+              "description": "Плагин и скиллы для Codex и Claude ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1227187618,
+                "language": "Rust",
+                "last_commit": "2026-08-24T12:55:47Z",
+                "owner": "IngvarConsulting",
+                "repo": "unica",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cursor_rules_1c",
+              "description": "Правила и скиллы ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1048024121,
+                "language": "PowerShell",
+                "last_commit": "2026-08-24T01:36:47Z",
+                "owner": "comol",
+                "repo": "ai_rules_1c",
+                "stars": 431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CodePilot1C",
+              "description": "IDE ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1152843337,
+                "language": "Java",
+                "last_commit": "2026-08-22T08:42:26Z",
+                "owner": "ondysss",
+                "repo": "codepilot1c-edt",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1C: Platform Tools MCP",
+              "description": "IDE ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1160221881,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:01:26Z",
+                "owner": "yellow-hammer",
+                "repo": "mcp-1c-platform-tools",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mcp-1c-v1",
+              "description": "RAG / метаданные 🚧",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 999971503,
+                "language": "TypeScript",
+                "last_commit": "2025-08-04T03:33:10Z",
+                "owner": "fserg",
+                "repo": "mcp-1c-v1",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mcp-bsl-platform-context",
+              "description": "Справка платформы ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1012038321,
+                "language": "Kotlin",
+                "last_commit": "2026-03-10T23:43:22Z",
+                "owner": "alkoleft",
+                "repo": "mcp-bsl-platform-context",
+                "stars": 188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EDT-MCP",
+              "description": "IDE ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1127068869,
+                "language": "Java",
+                "last_commit": "2026-08-24T08:05:57Z",
+                "owner": "DitriXNew",
+                "repo": "EDT-MCP",
+                "stars": 249
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mcp-onec-test-runner",
+              "description": "Тестирование ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1029322300,
+                "language": "Kotlin",
+                "last_commit": "2026-03-22T21:40:47Z",
+                "owner": "alkoleft",
+                "repo": "mcp-onec-test-runner",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1c-mcp-toolkit",
+              "description": "Фреймворк ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1154956769,
+                "language": "1C Enterprise",
+                "last_commit": "2026-07-24T10:05:38Z",
+                "owner": "ROCTUP",
+                "repo": "1c-mcp-toolkit",
+                "stars": 243
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1C_MCP_metadata",
+              "description": "Метаданные 🚧",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1003262080,
+                "language": "1C Enterprise",
+                "last_commit": "2025-06-18T16:50:09Z",
+                "owner": "artesk",
+                "repo": "1C_MCP_metadata",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1c-mcp-metacode",
+              "description": "Граф кода ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1062812429,
+                "language": "Python",
+                "last_commit": "2026-08-19T01:09:39Z",
+                "owner": "ROCTUP",
+                "repo": "1c-mcp-metacode",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rlm-tools-bsl",
+              "description": "RLM-анализ BSL ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1180737932,
+                "language": "Python",
+                "last_commit": "2026-08-16T15:43:54Z",
+                "owner": "Dach-Coin",
+                "repo": "rlm-tools-bsl",
+                "stars": 186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1c-syntax-helper-mcp",
+              "description": "Документация ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1045123293,
+                "language": "Python",
+                "last_commit": "2025-12-30T10:42:01Z",
+                "owner": "Antonio1C",
+                "repo": "1c-syntax-helper-mcp",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1c-buddy",
+              "description": "1С:Напарник ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1090201718,
+                "language": "JavaScript",
+                "last_commit": "2026-08-09T19:11:01Z",
+                "owner": "ROCTUP",
+                "repo": "1c-buddy",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bsl-graph",
+              "description": "Графовый анализ 🚧",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1060785744,
+                "language": "Kotlin",
+                "last_commit": "2025-09-20T21:59:54Z",
+                "owner": "alkoleft",
+                "repo": "bsl-graph",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spring-mcp-1c-copilot",
+              "description": "1С:Напарник 🚧",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1071826928,
+                "language": "Kotlin",
+                "last_commit": "2026-07-03T22:12:38Z",
+                "owner": "SteelMorgan",
+                "repo": "spring-mcp-1c-copilot",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "compose4mcp",
+              "description": "Оркестрация ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1078175926,
+                "language": null,
+                "last_commit": "2025-10-17T22:25:30Z",
+                "owner": "pravets",
+                "repo": "compose4mcp",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "v8-session-manager",
+              "description": "Оркестрация сессий 🚧",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1230645542,
+                "language": "Rust",
+                "last_commit": "2026-05-11T14:35:04Z",
+                "owner": "1c-neurofish",
+                "repo": "v8-session-manager",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1c-ai-sandbox",
+              "description": "Песочница 🔬",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1149595732,
+                "language": "PowerShell",
+                "last_commit": "2026-07-07T12:32:25Z",
+                "owner": "SteelMorgan",
+                "repo": "1c-ai-sandbox-client-server",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "onec-help-mcp",
+              "description": "Справка (RAG) ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1155957008,
+                "language": "Python",
+                "last_commit": "2026-02-12T19:38:59Z",
+                "owner": "rzateev",
+                "repo": "onec-help-mcp",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bsl-analyzer",
+              "description": "BSL-анализатор и LSP 🚧",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1175453476,
+                "language": "Rust",
+                "last_commit": "2026-08-24T13:09:37Z",
+                "owner": "itrous",
+                "repo": "bsl-analyzer",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mcp-bsl-lsp-bridge",
+              "description": "BSL LS мост 🚧",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1141694908,
+                "language": "Go",
+                "last_commit": "2026-07-03T19:39:52Z",
+                "owner": "SteelMorgan",
+                "repo": "mcp-bsl-lsp-bridge",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bsl-mcp",
+              "description": "Линтер BSL ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1082476099,
+                "language": "Python",
+                "last_commit": "2025-11-12T19:27:35Z",
+                "owner": "phsin",
+                "repo": "mcp-bsl-ls",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "v8-runner",
+              "description": "Локальный workflow и DevOps 🚧",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1188649228,
+                "language": "Rust",
+                "last_commit": "2026-08-03T00:34:57Z",
+                "owner": "alkoleft",
+                "repo": "v8-runner-rust",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1c-log-checker",
+              "description": "Логи ЖР/ТЖ 🚧",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1101167547,
+                "language": "Go",
+                "last_commit": "2026-06-24T13:36:22Z",
+                "owner": "SteelMorgan",
+                "repo": "1c-log-checker",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1c-rest-mcp",
+              "description": "REST API ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1196390720,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T15:09:35Z",
+                "owner": "theYahia",
+                "repo": "aprovodka",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1c-accounting-mcp",
+              "description": "Бухгалтерия 🔬",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1014030110,
+                "language": "Python",
+                "last_commit": "2025-07-11T18:39:36Z",
+                "owner": "tarasov46",
+                "repo": "1c-accounting-mcp",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open Source"
+        }
+      ],
+      "title": "Сводная таблица"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:38:15.660Z",
+    "last_updated": "2026-08-24T14:40:47.103Z",
     "original_repository": "Untru/1c-mcp",
     "original_repository_id": 1168595356,
     "original_repository_sha": "24a4526d615ca2c531264145553d5e0d28f6e7ce",
