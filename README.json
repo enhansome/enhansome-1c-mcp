@@ -101,7 +101,7 @@
             "last_commit": "2026-08-17T18:53:11Z",
             "owner": "feenlace",
             "repo": "mcp-1c",
-            "stars": 199
+            "stars": 200
           },
           "title": "mcp-1c"
         },
@@ -586,7 +586,7 @@
             "last_commit": "2026-08-25T01:00:30Z",
             "owner": "comol",
             "repo": "ai_rules_1c",
-            "stars": 434
+            "stars": 435
           },
           "title": "ai_rules_1c"
         },
@@ -640,7 +640,7 @@
                 "last_commit": "2026-08-17T18:53:11Z",
                 "owner": "feenlace",
                 "repo": "mcp-1c",
-                "stars": 199
+                "stars": 200
               }
             },
             {
@@ -685,7 +685,7 @@
                 "last_commit": "2026-08-25T01:00:30Z",
                 "owner": "comol",
                 "repo": "ai_rules_1c",
-                "stars": 434
+                "stars": 435
               }
             },
             {
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:34:10.141Z",
+    "last_updated": "2026-08-25T08:32:51.734Z",
     "original_repository": "Untru/1c-mcp",
     "original_repository_id": 1168595356,
     "original_repository_sha": "5d779b3c429710923d54b1ca98237bfa6be21a0a",

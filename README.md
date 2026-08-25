@@ -341,7 +341,7 @@ MCP и REST API сервер для получения метаданных и �
 
 ## Метаданные и анализ кода
 
-### [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 199 | 🐛 3 | 🌐 Go | 📅 2026-08-17
+### [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 200 | 🐛 3 | 🌐 Go | 📅 2026-08-17
 
 MCP-сервер для работы с живой базой 1С:Предприятие. Один Go-бинарник без внешних runtime-зависимостей, подключается к HTTP-сервису 1С и может использовать выгрузку конфигурации для поиска по коду.
 
@@ -932,7 +932,7 @@ CLI и MCP-сервер на Rust для локального цикла раз�
 * Загрузка runtime из релизов с SHA-256-проверкой архивов и файлов
 * Поддержка Windows, Linux и macOS
 
-### [ai\_rules\_1c](https://github.com/comol/ai_rules_1c) ⭐ 434 | 🐛 12 | 🌐 PowerShell | 📅 2026-08-25
+### [ai\_rules\_1c](https://github.com/comol/ai_rules_1c) ⭐ 435 | 🐛 13 | 🌐 PowerShell | 📅 2026-08-25
 
 Портативный набор правил, агентов и скиллов для AI-разработки на платформе 1С (BSL). Бывший `cursor_rules_1c` — переименован и сильно расширен: из Cursor-only проекта вырос в кросс-платформенный тулкит для 11+ AI-инструментов. Не является MCP-сервером напрямую, но активно использует MCP-серверы из этого списка.
 
@@ -1037,10 +1037,10 @@ MCP от Инфостарт для работы с метаданными кон
 
 | Проект                                                                                                                          | Stars                                                                                                    | Категория                          | Статус |
 | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------ |
-| [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 199 \| 🐛 3 \| 🌐 Go \| 📅 2026-08-17                                            | ![Stars](https://img.shields.io/github/stars/feenlace/mcp-1c?style=flat\&label=)                         | Живая база / метаданные            | ✅      |
+| [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 200 \| 🐛 3 \| 🌐 Go \| 📅 2026-08-17                                            | ![Stars](https://img.shields.io/github/stars/feenlace/mcp-1c?style=flat\&label=)                         | Живая база / метаданные            | ✅      |
 | [1c\_mcp](https://github.com/vladimir-kharin/1c_mcp) ⭐ 483 \| 🐛 5 \| 🌐 1C Enterprise \| 📅 2026-08-03                         | ![Stars](https://img.shields.io/github/stars/vladimir-kharin/1c_mcp?style=flat\&label=)                  | Фреймворк                          | ✅      |
 | [Unica](https://github.com/IngvarConsulting/unica) ⭐ 180 \| 🐛 109 \| 🌐 Rust \| 📅 2026-08-24                                  | ![Stars](https://img.shields.io/github/stars/IngvarConsulting/unica?style=flat\&label=)                  | Плагин и скиллы для Codex и Claude | ✅      |
-| [ai\_rules\_1c](https://github.com/comol/ai_rules_1c) ⭐ 434 \| 🐛 12 \| 🌐 PowerShell \| 📅 2026-08-25                          | ![Stars](https://img.shields.io/github/stars/comol/ai_rules_1c?style=flat\&label=)                       | Правила и скиллы                   | ✅      |
+| [ai\_rules\_1c](https://github.com/comol/ai_rules_1c) ⭐ 435 \| 🐛 13 \| 🌐 PowerShell \| 📅 2026-08-25                          | ![Stars](https://img.shields.io/github/stars/comol/ai_rules_1c?style=flat\&label=)                       | Правила и скиллы                   | ✅      |
 | [claude-code-skills-1c](https://github.com/Desko77/claude-code-skills-1c) ⭐ 49 \| 🐛 2 \| 🌐 Python \| 📅 2026-08-24            | ![Stars](https://img.shields.io/github/stars/Desko77/claude-code-skills-1c?style=flat\&label=)           | Skills для Claude Code             | ✅      |
 | [cursor-1c-skills](https://github.com/Desko77/cursor-1c-skills) ⭐ 52 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-25                      | ![Stars](https://img.shields.io/github/stars/Desko77/cursor-1c-skills?style=flat\&label=)                | Skills для Cursor                  | ✅      |
 | [1c-ai-mcp](https://github.com/Desko77/1c-ai-mcp) ⭐ 8 \| 🐛 3 \| 🌐 Python \| 📅 2026-04-08                                     | ![Stars](https://img.shields.io/github/stars/Desko77/1c-ai-mcp?style=flat\&label=)                       | 1С:Напарник                        | ✅      |
