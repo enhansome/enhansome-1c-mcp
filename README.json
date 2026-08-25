@@ -11,10 +11,10 @@
             "archived": false,
             "id": 1127068869,
             "language": "Java",
-            "last_commit": "2026-08-24T08:05:57Z",
+            "last_commit": "2026-08-25T03:24:59Z",
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
-            "stars": 249
+            "stars": 251
           },
           "title": "EDT-MCP"
         },
@@ -101,7 +101,7 @@
             "last_commit": "2026-08-17T18:53:11Z",
             "owner": "feenlace",
             "repo": "mcp-1c",
-            "stars": 198
+            "stars": 199
           },
           "title": "mcp-1c"
         },
@@ -122,7 +122,7 @@
         },
         {
           "children": [],
-          "description": "Загружает метаданные и код конфигурации 1С в графовую БД Neo4j и предоставляет MCP-инструменты для поиска.\nВозможности:",
+          "description": "Загружает метаданные и код конфигурации 1С в графовую БД Neo4j и предоставляет MCP-инструменты для поиска. В релизе (2026-07-12) переписан вокруг встроенного AI-агента и типизированных инструментов; (2026-08-19) — фиксы графов расширений и производительности.\nВозможности:",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -131,7 +131,7 @@
             "last_commit": "2026-08-19T01:09:39Z",
             "owner": "ROCTUP",
             "repo": "1c-mcp-metacode",
-            "stars": 89
+            "stars": 90
           },
           "title": "1c-mcp-metacode"
         },
@@ -146,7 +146,7 @@
             "last_commit": "2026-08-16T15:43:54Z",
             "owner": "Dach-Coin",
             "repo": "rlm-tools-bsl",
-            "stars": 186
+            "stars": 188
           },
           "title": "rlm-tools-bsl"
         },
@@ -276,7 +276,7 @@
             "archived": false,
             "id": 1175453476,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:09:37Z",
+            "last_commit": "2026-08-25T02:26:43Z",
             "owner": "itrous",
             "repo": "bsl-analyzer",
             "stars": 90
@@ -333,6 +333,21 @@
             "stars": 43
           },
           "title": "spring-mcp-1c-copilot"
+        },
+        {
+          "children": [],
+          "description": "MCP-сервер для интеграции IDE с API 1С:Напарник (code.1c.ai). Решает проблему 422-ошибок формата API, встречавшихся в более ранних интеграциях.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1176684285,
+            "language": "Python",
+            "last_commit": "2026-04-08T19:53:22Z",
+            "owner": "Desko77",
+            "repo": "1c-ai-mcp",
+            "stars": 8
+          },
+          "title": "1c-ai-mcp"
         }
       ],
       "title": "Интеграция с 1С:Напарник"
@@ -354,6 +369,21 @@
             "stars": 10
           },
           "title": "1c-rest-mcp"
+        },
+        {
+          "children": [],
+          "description": "Расширение конфигурации для интеграции LLM в 1С:Предприятие. Полноценная ИИ-платформа поверх коннектора: агентская петля с function calling, RAG по базе знаний, MCP-сервер для внешних агентов, мониторинг ошибок с ИИ-диагнозом и генератор диаграмм. Устанавливается как расширение, основную конфигурацию не меняет.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1129258509,
+            "language": "1C Enterprise",
+            "last_commit": "2026-08-24T09:23:14Z",
+            "owner": "andromanpro",
+            "repo": "1c-ai-connector",
+            "stars": 86
+          },
+          "title": "ИИкона (1c-ai-connector)"
         },
         {
           "children": [],
@@ -492,6 +522,42 @@
       "title": "Инфраструктура и DevOps"
     },
     {
+      "description": "Новая облачная платформа 1С (1cmycloud.com) — неофициальные MCP-инструменты уже появились в 2026 году.",
+      "items": [
+        {
+          "children": [],
+          "description": "Неофициальный CLI, MCP-сервер и Python-библиотека для документированного Console API v2 платформы 1C:Enterprise.Element. Управляет полным циклом приложения: сборка /-архива из исходников, загрузка, применение и «честная» проверка деплоя — платформа молча откатывает неудачные деплои, поэтому elemctl отдельно проверяет версию проекта и health-check.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1295803898,
+            "language": "Python",
+            "last_commit": "2026-08-25T05:36:03Z",
+            "owner": "keyfire",
+            "repo": "elemctl",
+            "stars": 4
+          },
+          "title": "elemctl"
+        },
+        {
+          "children": [],
+          "description": "Тулкит для платформы 1C:Element: линтер с автофиксами, LSP-сервер, индекс проекта, поиск по документации платформы, скаффолдинг метаданных и MCP-сервер для AI-агентов.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1312647687,
+            "language": "Python",
+            "last_commit": "2026-08-25T05:36:13Z",
+            "owner": "keyfire",
+            "repo": "xbsl",
+            "stars": 2
+          },
+          "title": "xbsl"
+        }
+      ],
+      "title": "1C:Element"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -505,24 +571,54 @@
             "last_commit": "2026-08-24T12:55:47Z",
             "owner": "IngvarConsulting",
             "repo": "unica",
-            "stars": 179
+            "stars": 180
           },
           "title": "Unica"
         },
         {
           "children": [],
-          "description": "Комплексный набор правил, агентов и скиллов для AI-разработки на платформе 1С в Cursor IDE. Не является MCP-сервером напрямую, но активно использует MCP-серверы из этого списка.\nВозможности:",
+          "description": "Портативный набор правил, агентов и скиллов для AI-разработки на платформе 1С (BSL). Бывший — переименован и сильно расширен: из Cursor-only проекта вырос в кросс-платформенный тулкит для 11+ AI-инструментов. Не является MCP-сервером напрямую, но активно использует MCP-серверы из этого списка.\nВозможности:",
           "node_type": "item",
           "repo_info": {
             "archived": false,
             "id": 1048024121,
             "language": "PowerShell",
-            "last_commit": "2026-08-24T01:36:47Z",
+            "last_commit": "2026-08-25T01:00:30Z",
             "owner": "comol",
             "repo": "ai_rules_1c",
-            "stars": 431
+            "stars": 434
           },
-          "title": "cursor_rules_1c"
+          "title": "ai_rules_1c"
+        },
+        {
+          "children": [],
+          "description": "117 skills и 40 правил для Claude Code: агент собирает исходники 1С (метаданные, формы, расширения, роли, СКД, обработки) из компактного JSON и разбирает их обратно в платформенный XML, не работая с файлами как с текстом.\nВозможности:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1166958971,
+            "language": "Python",
+            "last_commit": "2026-08-24T17:19:51Z",
+            "owner": "Desko77",
+            "repo": "claude-code-skills-1c",
+            "stars": 49
+          },
+          "title": "claude-code-skills-1c"
+        },
+        {
+          "children": [],
+          "description": "Аналог для Cursor IDE — 116 skills и 40 правил на той же XML-модели работы с исходниками 1С.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1169533019,
+            "language": "Python",
+            "last_commit": "2026-08-25T00:17:09Z",
+            "owner": "Desko77",
+            "repo": "cursor-1c-skills",
+            "stars": 52
+          },
+          "title": "cursor-1c-skills"
         }
       ],
       "title": "Наборы правил и скиллов"
@@ -544,7 +640,7 @@
                 "last_commit": "2026-08-17T18:53:11Z",
                 "owner": "feenlace",
                 "repo": "mcp-1c",
-                "stars": 198
+                "stars": 199
               }
             },
             {
@@ -574,22 +670,97 @@
                 "last_commit": "2026-08-24T12:55:47Z",
                 "owner": "IngvarConsulting",
                 "repo": "unica",
-                "stars": 179
+                "stars": 180
               }
             },
             {
               "node_type": "item",
-              "title": "cursor_rules_1c",
+              "title": "ai_rules_1c",
               "description": "Правила и скиллы ✅",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1048024121,
                 "language": "PowerShell",
-                "last_commit": "2026-08-24T01:36:47Z",
+                "last_commit": "2026-08-25T01:00:30Z",
                 "owner": "comol",
                 "repo": "ai_rules_1c",
-                "stars": 431
+                "stars": 434
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-code-skills-1c",
+              "description": "Skills для Claude Code ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1166958971,
+                "language": "Python",
+                "last_commit": "2026-08-24T17:19:51Z",
+                "owner": "Desko77",
+                "repo": "claude-code-skills-1c",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cursor-1c-skills",
+              "description": "Skills для Cursor ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1169533019,
+                "language": "Python",
+                "last_commit": "2026-08-25T00:17:09Z",
+                "owner": "Desko77",
+                "repo": "cursor-1c-skills",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1c-ai-mcp",
+              "description": "1С:Напарник ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1176684285,
+                "language": "Python",
+                "last_commit": "2026-04-08T19:53:22Z",
+                "owner": "Desko77",
+                "repo": "1c-ai-mcp",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elemctl",
+              "description": "1C:Element 🔬",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1295803898,
+                "language": "Python",
+                "last_commit": "2026-08-25T05:36:03Z",
+                "owner": "keyfire",
+                "repo": "elemctl",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xbsl",
+              "description": "1C:Element 🔬",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1312647687,
+                "language": "Python",
+                "last_commit": "2026-08-25T05:36:13Z",
+                "owner": "keyfire",
+                "repo": "xbsl",
+                "stars": 2
               }
             },
             {
@@ -661,10 +832,10 @@
                 "archived": false,
                 "id": 1127068869,
                 "language": "Java",
-                "last_commit": "2026-08-24T08:05:57Z",
+                "last_commit": "2026-08-25T03:24:59Z",
                 "owner": "DitriXNew",
                 "repo": "EDT-MCP",
-                "stars": 249
+                "stars": 251
               }
             },
             {
@@ -724,7 +895,7 @@
                 "last_commit": "2026-08-19T01:09:39Z",
                 "owner": "ROCTUP",
                 "repo": "1c-mcp-metacode",
-                "stars": 89
+                "stars": 90
               }
             },
             {
@@ -739,7 +910,7 @@
                 "last_commit": "2026-08-16T15:43:54Z",
                 "owner": "Dach-Coin",
                 "repo": "rlm-tools-bsl",
-                "stars": 186
+                "stars": 188
               }
             },
             {
@@ -871,7 +1042,7 @@
                 "archived": false,
                 "id": 1175453476,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:09:37Z",
+                "last_commit": "2026-08-25T02:26:43Z",
                 "owner": "itrous",
                 "repo": "bsl-analyzer",
                 "stars": 90
@@ -954,6 +1125,21 @@
             },
             {
               "node_type": "item",
+              "title": "1c-ai-connector (ИИкона)",
+              "description": "ИИ-платформа: агенты, RAG, MCP ✅",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1129258509,
+                "language": "1C Enterprise",
+                "last_commit": "2026-08-24T09:23:14Z",
+                "owner": "andromanpro",
+                "repo": "1c-ai-connector",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
               "title": "1c-accounting-mcp",
               "description": "Бухгалтерия 🔬",
               "children": [],
@@ -977,10 +1163,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:40:47.103Z",
+    "last_updated": "2026-08-25T06:34:10.141Z",
     "original_repository": "Untru/1c-mcp",
     "original_repository_id": 1168595356,
-    "original_repository_sha": "24a4526d615ca2c531264145553d5e0d28f6e7ce",
+    "original_repository_sha": "5d779b3c429710923d54b1ca98237bfa6be21a0a",
     "enhanced_repository": "enhansome/enhansome-1c-mcp",
     "enhanced_repository_description": null,
     "title": "Awesome 1C MCP Servers with stars"
