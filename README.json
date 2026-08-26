@@ -11,10 +11,10 @@
             "archived": false,
             "id": 1127068869,
             "language": "Java",
-            "last_commit": "2026-08-25T03:24:59Z",
+            "last_commit": "2026-08-26T07:39:08Z",
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
-            "stars": 251
+            "stars": 252
           },
           "title": "EDT-MCP"
         },
@@ -44,7 +44,7 @@
             "last_commit": "2026-08-19T09:01:26Z",
             "owner": "yellow-hammer",
             "repo": "mcp-1c-platform-tools",
-            "stars": 30
+            "stars": 34
           },
           "title": "1C: Platform Tools MCP"
         }
@@ -65,7 +65,7 @@
             "last_commit": "2026-08-03T14:09:36Z",
             "owner": "vladimir-kharin",
             "repo": "1c_mcp",
-            "stars": 483
+            "stars": 484
           },
           "title": "1c_mcp"
         },
@@ -80,7 +80,7 @@
             "last_commit": "2026-07-24T10:05:38Z",
             "owner": "ROCTUP",
             "repo": "1c-mcp-toolkit",
-            "stars": 243
+            "stars": 244
           },
           "title": "1c-mcp-toolkit"
         }
@@ -146,7 +146,7 @@
             "last_commit": "2026-08-16T15:43:54Z",
             "owner": "Dach-Coin",
             "repo": "rlm-tools-bsl",
-            "stars": 188
+            "stars": 189
           },
           "title": "rlm-tools-bsl"
         },
@@ -276,10 +276,10 @@
             "archived": false,
             "id": 1175453476,
             "language": "Rust",
-            "last_commit": "2026-08-25T02:26:43Z",
+            "last_commit": "2026-08-25T17:22:33Z",
             "owner": "itrous",
             "repo": "bsl-analyzer",
-            "stars": 90
+            "stars": 91
           },
           "title": "bsl-analyzer"
         },
@@ -381,7 +381,7 @@
             "last_commit": "2026-08-24T09:23:14Z",
             "owner": "andromanpro",
             "repo": "1c-ai-connector",
-            "stars": 86
+            "stars": 87
           },
           "title": "ИИкона (1c-ai-connector)"
         },
@@ -501,7 +501,7 @@
                 "last_commit": "2026-05-26T19:26:11Z",
                 "owner": "1c-neurofish",
                 "repo": "onec-client-mcp-devkit",
-                "stars": 56
+                "stars": 57
               }
             }
           ],
@@ -532,7 +532,7 @@
             "archived": false,
             "id": 1295803898,
             "language": "Python",
-            "last_commit": "2026-08-25T05:36:03Z",
+            "last_commit": "2026-08-26T07:05:04Z",
             "owner": "keyfire",
             "repo": "elemctl",
             "stars": 4
@@ -547,10 +547,10 @@
             "archived": false,
             "id": 1312647687,
             "language": "Python",
-            "last_commit": "2026-08-25T05:36:13Z",
+            "last_commit": "2026-08-26T07:01:45Z",
             "owner": "keyfire",
             "repo": "xbsl",
-            "stars": 2
+            "stars": 1
           },
           "title": "xbsl"
         }
@@ -571,7 +571,7 @@
             "last_commit": "2026-08-24T12:55:47Z",
             "owner": "IngvarConsulting",
             "repo": "unica",
-            "stars": 180
+            "stars": 182
           },
           "title": "Unica"
         },
@@ -583,10 +583,10 @@
             "archived": false,
             "id": 1048024121,
             "language": "PowerShell",
-            "last_commit": "2026-08-25T01:00:30Z",
+            "last_commit": "2026-08-25T12:25:33Z",
             "owner": "comol",
             "repo": "ai_rules_1c",
-            "stars": 435
+            "stars": 438
           },
           "title": "ai_rules_1c"
         },
@@ -598,10 +598,10 @@
             "archived": false,
             "id": 1166958971,
             "language": "Python",
-            "last_commit": "2026-08-24T17:19:51Z",
+            "last_commit": "2026-08-26T07:29:28Z",
             "owner": "Desko77",
             "repo": "claude-code-skills-1c",
-            "stars": 49
+            "stars": 50
           },
           "title": "claude-code-skills-1c"
         },
@@ -613,10 +613,10 @@
             "archived": false,
             "id": 1169533019,
             "language": "Python",
-            "last_commit": "2026-08-25T00:17:09Z",
+            "last_commit": "2026-08-26T07:32:53Z",
             "owner": "Desko77",
             "repo": "cursor-1c-skills",
-            "stars": 52
+            "stars": 53
           },
           "title": "cursor-1c-skills"
         }
@@ -655,7 +655,7 @@
                 "last_commit": "2026-08-03T14:09:36Z",
                 "owner": "vladimir-kharin",
                 "repo": "1c_mcp",
-                "stars": 483
+                "stars": 484
               }
             },
             {
@@ -670,7 +670,7 @@
                 "last_commit": "2026-08-24T12:55:47Z",
                 "owner": "IngvarConsulting",
                 "repo": "unica",
-                "stars": 180
+                "stars": 182
               }
             },
             {
@@ -682,10 +682,10 @@
                 "archived": false,
                 "id": 1048024121,
                 "language": "PowerShell",
-                "last_commit": "2026-08-25T01:00:30Z",
+                "last_commit": "2026-08-25T12:25:33Z",
                 "owner": "comol",
                 "repo": "ai_rules_1c",
-                "stars": 435
+                "stars": 438
               }
             },
             {
@@ -697,10 +697,10 @@
                 "archived": false,
                 "id": 1166958971,
                 "language": "Python",
-                "last_commit": "2026-08-24T17:19:51Z",
+                "last_commit": "2026-08-26T07:29:28Z",
                 "owner": "Desko77",
                 "repo": "claude-code-skills-1c",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -712,10 +712,10 @@
                 "archived": false,
                 "id": 1169533019,
                 "language": "Python",
-                "last_commit": "2026-08-25T00:17:09Z",
+                "last_commit": "2026-08-26T07:32:53Z",
                 "owner": "Desko77",
                 "repo": "cursor-1c-skills",
-                "stars": 52
+                "stars": 53
               }
             },
             {
@@ -742,7 +742,7 @@
                 "archived": false,
                 "id": 1295803898,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:36:03Z",
+                "last_commit": "2026-08-26T07:05:04Z",
                 "owner": "keyfire",
                 "repo": "elemctl",
                 "stars": 4
@@ -757,10 +757,10 @@
                 "archived": false,
                 "id": 1312647687,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:36:13Z",
+                "last_commit": "2026-08-26T07:01:45Z",
                 "owner": "keyfire",
                 "repo": "xbsl",
-                "stars": 2
+                "stars": 1
               }
             },
             {
@@ -790,7 +790,7 @@
                 "last_commit": "2026-08-19T09:01:26Z",
                 "owner": "yellow-hammer",
                 "repo": "mcp-1c-platform-tools",
-                "stars": 30
+                "stars": 34
               }
             },
             {
@@ -832,10 +832,10 @@
                 "archived": false,
                 "id": 1127068869,
                 "language": "Java",
-                "last_commit": "2026-08-25T03:24:59Z",
+                "last_commit": "2026-08-26T07:39:08Z",
                 "owner": "DitriXNew",
                 "repo": "EDT-MCP",
-                "stars": 251
+                "stars": 252
               }
             },
             {
@@ -865,7 +865,7 @@
                 "last_commit": "2026-07-24T10:05:38Z",
                 "owner": "ROCTUP",
                 "repo": "1c-mcp-toolkit",
-                "stars": 243
+                "stars": 244
               }
             },
             {
@@ -910,7 +910,7 @@
                 "last_commit": "2026-08-16T15:43:54Z",
                 "owner": "Dach-Coin",
                 "repo": "rlm-tools-bsl",
-                "stars": 188
+                "stars": 189
               }
             },
             {
@@ -1042,10 +1042,10 @@
                 "archived": false,
                 "id": 1175453476,
                 "language": "Rust",
-                "last_commit": "2026-08-25T02:26:43Z",
+                "last_commit": "2026-08-25T17:22:33Z",
                 "owner": "itrous",
                 "repo": "bsl-analyzer",
-                "stars": 90
+                "stars": 91
               }
             },
             {
@@ -1135,7 +1135,7 @@
                 "last_commit": "2026-08-24T09:23:14Z",
                 "owner": "andromanpro",
                 "repo": "1c-ai-connector",
-                "stars": 86
+                "stars": 87
               }
             },
             {
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:32:51.734Z",
+    "last_updated": "2026-08-26T08:33:55.348Z",
     "original_repository": "Untru/1c-mcp",
     "original_repository_id": 1168595356,
     "original_repository_sha": "5d779b3c429710923d54b1ca98237bfa6be21a0a",
