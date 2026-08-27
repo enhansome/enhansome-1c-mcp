@@ -11,10 +11,10 @@
             "archived": false,
             "id": 1127068869,
             "language": "Java",
-            "last_commit": "2026-08-26T07:39:08Z",
+            "last_commit": "2026-08-27T10:44:03Z",
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
-            "stars": 252
+            "stars": 254
           },
           "title": "EDT-MCP"
         },
@@ -44,7 +44,7 @@
             "last_commit": "2026-08-19T09:01:26Z",
             "owner": "yellow-hammer",
             "repo": "mcp-1c-platform-tools",
-            "stars": 34
+            "stars": 35
           },
           "title": "1C: Platform Tools MCP"
         }
@@ -65,7 +65,7 @@
             "last_commit": "2026-08-03T14:09:36Z",
             "owner": "vladimir-kharin",
             "repo": "1c_mcp",
-            "stars": 484
+            "stars": 485
           },
           "title": "1c_mcp"
         },
@@ -80,7 +80,7 @@
             "last_commit": "2026-07-24T10:05:38Z",
             "owner": "ROCTUP",
             "repo": "1c-mcp-toolkit",
-            "stars": 244
+            "stars": 247
           },
           "title": "1c-mcp-toolkit"
         }
@@ -101,7 +101,7 @@
             "last_commit": "2026-08-17T18:53:11Z",
             "owner": "feenlace",
             "repo": "mcp-1c",
-            "stars": 200
+            "stars": 204
           },
           "title": "mcp-1c"
         },
@@ -131,7 +131,7 @@
             "last_commit": "2026-08-19T01:09:39Z",
             "owner": "ROCTUP",
             "repo": "1c-mcp-metacode",
-            "stars": 90
+            "stars": 91
           },
           "title": "1c-mcp-metacode"
         },
@@ -146,7 +146,7 @@
             "last_commit": "2026-08-16T15:43:54Z",
             "owner": "Dach-Coin",
             "repo": "rlm-tools-bsl",
-            "stars": 189
+            "stars": 190
           },
           "title": "rlm-tools-bsl"
         },
@@ -182,7 +182,7 @@
             "last_commit": "2026-03-10T23:43:22Z",
             "owner": "alkoleft",
             "repo": "mcp-bsl-platform-context",
-            "stars": 188
+            "stars": 189
           },
           "title": "mcp-bsl-platform-context"
         },
@@ -212,7 +212,7 @@
             "last_commit": "2025-12-30T10:42:01Z",
             "owner": "Antonio1C",
             "repo": "1c-syntax-helper-mcp",
-            "stars": 70
+            "stars": 69
           },
           "title": "1c-syntax-helper-mcp"
         }
@@ -276,7 +276,7 @@
             "archived": false,
             "id": 1175453476,
             "language": "Rust",
-            "last_commit": "2026-08-25T17:22:33Z",
+            "last_commit": "2026-08-26T11:32:44Z",
             "owner": "itrous",
             "repo": "bsl-analyzer",
             "stars": 91
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-09T19:11:01Z",
             "owner": "ROCTUP",
             "repo": "1c-buddy",
-            "stars": 98
+            "stars": 99
           },
           "title": "1c-buddy"
         },
@@ -366,7 +366,7 @@
             "last_commit": "2026-08-12T15:09:35Z",
             "owner": "theYahia",
             "repo": "aprovodka",
-            "stars": 10
+            "stars": 11
           },
           "title": "1c-rest-mcp"
         },
@@ -381,7 +381,7 @@
             "last_commit": "2026-08-24T09:23:14Z",
             "owner": "andromanpro",
             "repo": "1c-ai-connector",
-            "stars": 87
+            "stars": 88
           },
           "title": "ИИкона (1c-ai-connector)"
         },
@@ -438,7 +438,7 @@
             "last_commit": "2026-06-24T13:36:22Z",
             "owner": "SteelMorgan",
             "repo": "1c-log-checker",
-            "stars": 67
+            "stars": 69
           },
           "title": "1c-log-checker"
         },
@@ -468,7 +468,7 @@
             "last_commit": "2026-08-03T00:34:57Z",
             "owner": "alkoleft",
             "repo": "v8-runner-rust",
-            "stars": 54
+            "stars": 55
           },
           "title": "v8-runner"
         },
@@ -532,7 +532,7 @@
             "archived": false,
             "id": 1295803898,
             "language": "Python",
-            "last_commit": "2026-08-26T07:05:04Z",
+            "last_commit": "2026-08-27T10:25:54Z",
             "owner": "keyfire",
             "repo": "elemctl",
             "stars": 4
@@ -547,7 +547,7 @@
             "archived": false,
             "id": 1312647687,
             "language": "Python",
-            "last_commit": "2026-08-26T07:01:45Z",
+            "last_commit": "2026-08-27T10:21:16Z",
             "owner": "keyfire",
             "repo": "xbsl",
             "stars": 1
@@ -568,7 +568,7 @@
             "archived": false,
             "id": 1227187618,
             "language": "Rust",
-            "last_commit": "2026-08-24T12:55:47Z",
+            "last_commit": "2026-08-27T09:00:25Z",
             "owner": "IngvarConsulting",
             "repo": "unica",
             "stars": 182
@@ -586,7 +586,7 @@
             "last_commit": "2026-08-25T12:25:33Z",
             "owner": "comol",
             "repo": "ai_rules_1c",
-            "stars": 438
+            "stars": 441
           },
           "title": "ai_rules_1c"
         },
@@ -598,7 +598,7 @@
             "archived": false,
             "id": 1166958971,
             "language": "Python",
-            "last_commit": "2026-08-26T07:29:28Z",
+            "last_commit": "2026-08-26T12:37:17Z",
             "owner": "Desko77",
             "repo": "claude-code-skills-1c",
             "stars": 50
@@ -613,7 +613,7 @@
             "archived": false,
             "id": 1169533019,
             "language": "Python",
-            "last_commit": "2026-08-26T07:32:53Z",
+            "last_commit": "2026-08-26T12:37:54Z",
             "owner": "Desko77",
             "repo": "cursor-1c-skills",
             "stars": 53
@@ -640,7 +640,7 @@
                 "last_commit": "2026-08-17T18:53:11Z",
                 "owner": "feenlace",
                 "repo": "mcp-1c",
-                "stars": 200
+                "stars": 204
               }
             },
             {
@@ -655,7 +655,7 @@
                 "last_commit": "2026-08-03T14:09:36Z",
                 "owner": "vladimir-kharin",
                 "repo": "1c_mcp",
-                "stars": 484
+                "stars": 485
               }
             },
             {
@@ -667,7 +667,7 @@
                 "archived": false,
                 "id": 1227187618,
                 "language": "Rust",
-                "last_commit": "2026-08-24T12:55:47Z",
+                "last_commit": "2026-08-27T09:00:25Z",
                 "owner": "IngvarConsulting",
                 "repo": "unica",
                 "stars": 182
@@ -685,7 +685,7 @@
                 "last_commit": "2026-08-25T12:25:33Z",
                 "owner": "comol",
                 "repo": "ai_rules_1c",
-                "stars": 438
+                "stars": 441
               }
             },
             {
@@ -697,7 +697,7 @@
                 "archived": false,
                 "id": 1166958971,
                 "language": "Python",
-                "last_commit": "2026-08-26T07:29:28Z",
+                "last_commit": "2026-08-26T12:37:17Z",
                 "owner": "Desko77",
                 "repo": "claude-code-skills-1c",
                 "stars": 50
@@ -712,7 +712,7 @@
                 "archived": false,
                 "id": 1169533019,
                 "language": "Python",
-                "last_commit": "2026-08-26T07:32:53Z",
+                "last_commit": "2026-08-26T12:37:54Z",
                 "owner": "Desko77",
                 "repo": "cursor-1c-skills",
                 "stars": 53
@@ -742,7 +742,7 @@
                 "archived": false,
                 "id": 1295803898,
                 "language": "Python",
-                "last_commit": "2026-08-26T07:05:04Z",
+                "last_commit": "2026-08-27T10:25:54Z",
                 "owner": "keyfire",
                 "repo": "elemctl",
                 "stars": 4
@@ -757,7 +757,7 @@
                 "archived": false,
                 "id": 1312647687,
                 "language": "Python",
-                "last_commit": "2026-08-26T07:01:45Z",
+                "last_commit": "2026-08-27T10:21:16Z",
                 "owner": "keyfire",
                 "repo": "xbsl",
                 "stars": 1
@@ -790,7 +790,7 @@
                 "last_commit": "2026-08-19T09:01:26Z",
                 "owner": "yellow-hammer",
                 "repo": "mcp-1c-platform-tools",
-                "stars": 34
+                "stars": 35
               }
             },
             {
@@ -820,7 +820,7 @@
                 "last_commit": "2026-03-10T23:43:22Z",
                 "owner": "alkoleft",
                 "repo": "mcp-bsl-platform-context",
-                "stars": 188
+                "stars": 189
               }
             },
             {
@@ -832,10 +832,10 @@
                 "archived": false,
                 "id": 1127068869,
                 "language": "Java",
-                "last_commit": "2026-08-26T07:39:08Z",
+                "last_commit": "2026-08-27T10:44:03Z",
                 "owner": "DitriXNew",
                 "repo": "EDT-MCP",
-                "stars": 252
+                "stars": 254
               }
             },
             {
@@ -865,7 +865,7 @@
                 "last_commit": "2026-07-24T10:05:38Z",
                 "owner": "ROCTUP",
                 "repo": "1c-mcp-toolkit",
-                "stars": 244
+                "stars": 247
               }
             },
             {
@@ -895,7 +895,7 @@
                 "last_commit": "2026-08-19T01:09:39Z",
                 "owner": "ROCTUP",
                 "repo": "1c-mcp-metacode",
-                "stars": 90
+                "stars": 91
               }
             },
             {
@@ -910,7 +910,7 @@
                 "last_commit": "2026-08-16T15:43:54Z",
                 "owner": "Dach-Coin",
                 "repo": "rlm-tools-bsl",
-                "stars": 189
+                "stars": 190
               }
             },
             {
@@ -925,7 +925,7 @@
                 "last_commit": "2025-12-30T10:42:01Z",
                 "owner": "Antonio1C",
                 "repo": "1c-syntax-helper-mcp",
-                "stars": 70
+                "stars": 69
               }
             },
             {
@@ -940,7 +940,7 @@
                 "last_commit": "2026-08-09T19:11:01Z",
                 "owner": "ROCTUP",
                 "repo": "1c-buddy",
-                "stars": 98
+                "stars": 99
               }
             },
             {
@@ -1042,7 +1042,7 @@
                 "archived": false,
                 "id": 1175453476,
                 "language": "Rust",
-                "last_commit": "2026-08-25T17:22:33Z",
+                "last_commit": "2026-08-26T11:32:44Z",
                 "owner": "itrous",
                 "repo": "bsl-analyzer",
                 "stars": 91
@@ -1090,7 +1090,7 @@
                 "last_commit": "2026-08-03T00:34:57Z",
                 "owner": "alkoleft",
                 "repo": "v8-runner-rust",
-                "stars": 54
+                "stars": 55
               }
             },
             {
@@ -1105,7 +1105,7 @@
                 "last_commit": "2026-06-24T13:36:22Z",
                 "owner": "SteelMorgan",
                 "repo": "1c-log-checker",
-                "stars": 67
+                "stars": 69
               }
             },
             {
@@ -1120,7 +1120,7 @@
                 "last_commit": "2026-08-12T15:09:35Z",
                 "owner": "theYahia",
                 "repo": "aprovodka",
-                "stars": 10
+                "stars": 11
               }
             },
             {
@@ -1135,7 +1135,7 @@
                 "last_commit": "2026-08-24T09:23:14Z",
                 "owner": "andromanpro",
                 "repo": "1c-ai-connector",
-                "stars": 87
+                "stars": 88
               }
             },
             {
@@ -1163,9 +1163,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:33:55.348Z",
-    "original_repository": "Untru/1c-mcp",
-    "original_repository_id": 1168595356,
+    "last_updated": "2026-08-27T11:17:36.549Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1168595356,
+      "language": null,
+      "last_commit": "2026-08-25T01:36:25Z",
+      "owner": "Untru",
+      "repo": "1c-mcp",
+      "stars": 150
+    },
     "original_repository_sha": "5d779b3c429710923d54b1ca98237bfa6be21a0a",
     "enhanced_repository": "enhansome/enhansome-1c-mcp",
     "enhanced_repository_description": null,
