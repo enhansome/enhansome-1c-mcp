@@ -11,10 +11,10 @@
             "archived": false,
             "id": 1127068869,
             "language": "Java",
-            "last_commit": "2026-08-27T10:44:03Z",
+            "last_commit": "2026-08-27T17:56:25Z",
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
-            "stars": 254
+            "stars": 256
           },
           "title": "EDT-MCP"
         },
@@ -29,7 +29,7 @@
             "last_commit": "2026-08-22T08:42:26Z",
             "owner": "ondysss",
             "repo": "codepilot1c-edt",
-            "stars": 145
+            "stars": 146
           },
           "title": "CodePilot1C"
         },
@@ -514,7 +514,7 @@
             "last_commit": "2026-05-11T14:35:04Z",
             "owner": "1c-neurofish",
             "repo": "v8-session-manager",
-            "stars": 10
+            "stars": 11
           },
           "title": "v8-session-manager"
         }
@@ -568,7 +568,7 @@
             "archived": false,
             "id": 1227187618,
             "language": "Rust",
-            "last_commit": "2026-08-27T09:00:25Z",
+            "last_commit": "2026-08-27T11:21:24Z",
             "owner": "IngvarConsulting",
             "repo": "unica",
             "stars": 182
@@ -586,7 +586,7 @@
             "last_commit": "2026-08-25T12:25:33Z",
             "owner": "comol",
             "repo": "ai_rules_1c",
-            "stars": 441
+            "stars": 442
           },
           "title": "ai_rules_1c"
         },
@@ -598,7 +598,7 @@
             "archived": false,
             "id": 1166958971,
             "language": "Python",
-            "last_commit": "2026-08-26T12:37:17Z",
+            "last_commit": "2026-08-27T15:12:26Z",
             "owner": "Desko77",
             "repo": "claude-code-skills-1c",
             "stars": 50
@@ -613,7 +613,7 @@
             "archived": false,
             "id": 1169533019,
             "language": "Python",
-            "last_commit": "2026-08-26T12:37:54Z",
+            "last_commit": "2026-08-27T15:11:48Z",
             "owner": "Desko77",
             "repo": "cursor-1c-skills",
             "stars": 53
@@ -667,7 +667,7 @@
                 "archived": false,
                 "id": 1227187618,
                 "language": "Rust",
-                "last_commit": "2026-08-27T09:00:25Z",
+                "last_commit": "2026-08-27T11:21:24Z",
                 "owner": "IngvarConsulting",
                 "repo": "unica",
                 "stars": 182
@@ -685,7 +685,7 @@
                 "last_commit": "2026-08-25T12:25:33Z",
                 "owner": "comol",
                 "repo": "ai_rules_1c",
-                "stars": 441
+                "stars": 442
               }
             },
             {
@@ -697,7 +697,7 @@
                 "archived": false,
                 "id": 1166958971,
                 "language": "Python",
-                "last_commit": "2026-08-26T12:37:17Z",
+                "last_commit": "2026-08-27T15:12:26Z",
                 "owner": "Desko77",
                 "repo": "claude-code-skills-1c",
                 "stars": 50
@@ -712,7 +712,7 @@
                 "archived": false,
                 "id": 1169533019,
                 "language": "Python",
-                "last_commit": "2026-08-26T12:37:54Z",
+                "last_commit": "2026-08-27T15:11:48Z",
                 "owner": "Desko77",
                 "repo": "cursor-1c-skills",
                 "stars": 53
@@ -775,7 +775,7 @@
                 "last_commit": "2026-08-22T08:42:26Z",
                 "owner": "ondysss",
                 "repo": "codepilot1c-edt",
-                "stars": 145
+                "stars": 146
               }
             },
             {
@@ -832,10 +832,10 @@
                 "archived": false,
                 "id": 1127068869,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:44:03Z",
+                "last_commit": "2026-08-27T17:56:25Z",
                 "owner": "DitriXNew",
                 "repo": "EDT-MCP",
-                "stars": 254
+                "stars": 256
               }
             },
             {
@@ -1000,7 +1000,7 @@
                 "last_commit": "2026-05-11T14:35:04Z",
                 "owner": "1c-neurofish",
                 "repo": "v8-session-manager",
-                "stars": 10
+                "stars": 11
               }
             },
             {
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:17:36.549Z",
+    "last_updated": "2026-08-27T18:40:49.260Z",
     "original_repository_info": {
       "archived": false,
       "id": 1168595356,
