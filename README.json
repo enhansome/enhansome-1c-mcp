@@ -11,12 +11,13 @@
             "archived": false,
             "id": 1127068869,
             "language": "Java",
-            "last_commit": "2026-08-27T17:56:25Z",
+            "last_commit": "2026-08-28T16:47:06Z",
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
             "stars": 256
           },
-          "title": "EDT-MCP"
+          "title": "EDT-MCP",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -31,7 +32,8 @@
             "repo": "codepilot1c-edt",
             "stars": 146
           },
-          "title": "CodePilot1C"
+          "title": "CodePilot1C",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -46,7 +48,8 @@
             "repo": "mcp-1c-platform-tools",
             "stars": 35
           },
-          "title": "1C: Platform Tools MCP"
+          "title": "1C: Platform Tools MCP",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         }
       ],
       "title": "IDE-интеграции"
@@ -67,7 +70,8 @@
             "repo": "1c_mcp",
             "stars": 485
           },
-          "title": "1c_mcp"
+          "title": "1c_mcp",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -82,7 +86,8 @@
             "repo": "1c-mcp-toolkit",
             "stars": 247
           },
-          "title": "1c-mcp-toolkit"
+          "title": "1c-mcp-toolkit",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         }
       ],
       "title": "Фреймворки для создания MCP-серверов"
@@ -101,9 +106,10 @@
             "last_commit": "2026-08-17T18:53:11Z",
             "owner": "feenlace",
             "repo": "mcp-1c",
-            "stars": 204
+            "stars": 208
           },
-          "title": "mcp-1c"
+          "title": "mcp-1c",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -118,7 +124,8 @@
             "repo": "1C_MCP_metadata",
             "stars": 60
           },
-          "title": "1C_MCP_metadata"
+          "title": "1C_MCP_metadata",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -131,9 +138,10 @@
             "last_commit": "2026-08-19T01:09:39Z",
             "owner": "ROCTUP",
             "repo": "1c-mcp-metacode",
-            "stars": 91
+            "stars": 92
           },
-          "title": "1c-mcp-metacode"
+          "title": "1c-mcp-metacode",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -148,7 +156,8 @@
             "repo": "rlm-tools-bsl",
             "stars": 190
           },
-          "title": "rlm-tools-bsl"
+          "title": "rlm-tools-bsl",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -163,7 +172,8 @@
             "repo": "mcp-1c-v1",
             "stars": 164
           },
-          "title": "mcp-1c-v1"
+          "title": "mcp-1c-v1",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         }
       ],
       "title": "Метаданные и анализ кода"
@@ -184,7 +194,8 @@
             "repo": "mcp-bsl-platform-context",
             "stars": 189
           },
-          "title": "mcp-bsl-platform-context"
+          "title": "mcp-bsl-platform-context",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -199,7 +210,8 @@
             "repo": "onec-help-mcp",
             "stars": 22
           },
-          "title": "onec-help-mcp"
+          "title": "onec-help-mcp",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -214,7 +226,8 @@
             "repo": "1c-syntax-helper-mcp",
             "stars": 69
           },
-          "title": "1c-syntax-helper-mcp"
+          "title": "1c-syntax-helper-mcp",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         }
       ],
       "title": "Справка и документация платформы"
@@ -235,7 +248,8 @@
             "repo": "mcp-bsl-ls",
             "stars": 5
           },
-          "title": "bsl-mcp"
+          "title": "bsl-mcp",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [
@@ -252,7 +266,8 @@
                 "owner": "Tritlo",
                 "repo": "lsp-mcp",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             }
           ],
           "description": "LSP → MCP транслятор: даёт AI-агентам доступ к возможностям BSL Language Server — навигация по коду, поиск символов, диагностика (100+ проверок), рефакторинг, hover-подсказки.\nВозможности:",
@@ -266,7 +281,8 @@
             "repo": "mcp-bsl-lsp-bridge",
             "stars": 67
           },
-          "title": "mcp-bsl-lsp-bridge"
+          "title": "mcp-bsl-lsp-bridge",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -276,12 +292,13 @@
             "archived": false,
             "id": 1175453476,
             "language": "Rust",
-            "last_commit": "2026-08-26T11:32:44Z",
+            "last_commit": "2026-08-27T20:01:19Z",
             "owner": "itrous",
             "repo": "bsl-analyzer",
-            "stars": 91
+            "stars": 92
           },
-          "title": "bsl-analyzer"
+          "title": "bsl-analyzer",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -296,7 +313,8 @@
             "repo": "mcp-onec-test-runner",
             "stars": 107
           },
-          "title": "mcp-onec-test-runner (METR)"
+          "title": "mcp-onec-test-runner (METR)",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         }
       ],
       "title": "Тестирование и проверка синтаксиса"
@@ -315,9 +333,10 @@
             "last_commit": "2026-08-09T19:11:01Z",
             "owner": "ROCTUP",
             "repo": "1c-buddy",
-            "stars": 99
+            "stars": 100
           },
-          "title": "1c-buddy"
+          "title": "1c-buddy",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -332,7 +351,8 @@
             "repo": "spring-mcp-1c-copilot",
             "stars": 43
           },
-          "title": "spring-mcp-1c-copilot"
+          "title": "spring-mcp-1c-copilot",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -347,7 +367,8 @@
             "repo": "1c-ai-mcp",
             "stars": 8
           },
-          "title": "1c-ai-mcp"
+          "title": "1c-ai-mcp",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         }
       ],
       "title": "Интеграция с 1С:Напарник"
@@ -368,7 +389,8 @@
             "repo": "aprovodka",
             "stars": 11
           },
-          "title": "1c-rest-mcp"
+          "title": "1c-rest-mcp",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -383,7 +405,8 @@
             "repo": "1c-ai-connector",
             "stars": 88
           },
-          "title": "ИИкона (1c-ai-connector)"
+          "title": "ИИкона (1c-ai-connector)",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -398,7 +421,8 @@
             "repo": "1c-accounting-mcp",
             "stars": 4
           },
-          "title": "1c-accounting-mcp"
+          "title": "1c-accounting-mcp",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         }
       ],
       "title": "Интеграция с учётными системами"
@@ -417,9 +441,10 @@
             "last_commit": "2025-09-20T21:59:54Z",
             "owner": "alkoleft",
             "repo": "bsl-graph",
-            "stars": 46
+            "stars": 47
           },
-          "title": "bsl-graph"
+          "title": "bsl-graph",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         }
       ],
       "title": "Графовый анализ"
@@ -440,7 +465,8 @@
             "repo": "1c-log-checker",
             "stars": 69
           },
-          "title": "1c-log-checker"
+          "title": "1c-log-checker",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -455,7 +481,8 @@
             "repo": "1c-ai-sandbox-client-server",
             "stars": 43
           },
-          "title": "1c-ai-sandbox-client-server"
+          "title": "1c-ai-sandbox-client-server",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -470,7 +497,8 @@
             "repo": "v8-runner-rust",
             "stars": 55
           },
-          "title": "v8-runner"
+          "title": "v8-runner",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -485,7 +513,8 @@
             "repo": "compose4mcp",
             "stars": 37
           },
-          "title": "compose4mcp"
+          "title": "compose4mcp",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [
@@ -502,7 +531,8 @@
                 "owner": "1c-neurofish",
                 "repo": "onec-client-mcp-devkit",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             }
           ],
           "description": "Менеджер клиентских сессий 1С для связки 1С-клиентов и AI-агентов. Принимает WebSocket-подключения от 1С-клиентов, агрегирует опубликованные ими MCP-инструменты и отдаёт единый MCP HTTP endpoint.\nВозможности:",
@@ -516,7 +546,8 @@
             "repo": "v8-session-manager",
             "stars": 11
           },
-          "title": "v8-session-manager"
+          "title": "v8-session-manager",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         }
       ],
       "title": "Инфраструктура и DevOps"
@@ -532,12 +563,13 @@
             "archived": false,
             "id": 1295803898,
             "language": "Python",
-            "last_commit": "2026-08-27T10:25:54Z",
+            "last_commit": "2026-08-28T18:04:42Z",
             "owner": "keyfire",
             "repo": "elemctl",
             "stars": 4
           },
-          "title": "elemctl"
+          "title": "elemctl",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -547,12 +579,13 @@
             "archived": false,
             "id": 1312647687,
             "language": "Python",
-            "last_commit": "2026-08-27T10:21:16Z",
+            "last_commit": "2026-08-28T18:25:29Z",
             "owner": "keyfire",
             "repo": "xbsl",
             "stars": 1
           },
-          "title": "xbsl"
+          "title": "xbsl",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         }
       ],
       "title": "1C:Element"
@@ -568,12 +601,13 @@
             "archived": false,
             "id": 1227187618,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:21:24Z",
+            "last_commit": "2026-08-28T14:25:15Z",
             "owner": "IngvarConsulting",
             "repo": "unica",
-            "stars": 182
+            "stars": 183
           },
-          "title": "Unica"
+          "title": "Unica",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -583,12 +617,13 @@
             "archived": false,
             "id": 1048024121,
             "language": "PowerShell",
-            "last_commit": "2026-08-25T12:25:33Z",
+            "last_commit": "2026-08-27T23:18:49Z",
             "owner": "comol",
             "repo": "ai_rules_1c",
             "stars": 442
           },
-          "title": "ai_rules_1c"
+          "title": "ai_rules_1c",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -598,12 +633,13 @@
             "archived": false,
             "id": 1166958971,
             "language": "Python",
-            "last_commit": "2026-08-27T15:12:26Z",
+            "last_commit": "2026-08-28T11:38:15Z",
             "owner": "Desko77",
             "repo": "claude-code-skills-1c",
             "stars": 50
           },
-          "title": "claude-code-skills-1c"
+          "title": "claude-code-skills-1c",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
           "children": [],
@@ -613,12 +649,13 @@
             "archived": false,
             "id": 1169533019,
             "language": "Python",
-            "last_commit": "2026-08-27T15:11:48Z",
+            "last_commit": "2026-08-28T11:43:58Z",
             "owner": "Desko77",
             "repo": "cursor-1c-skills",
             "stars": 53
           },
-          "title": "cursor-1c-skills"
+          "title": "cursor-1c-skills",
+          "first_seen": "2026-08-28T19:48:31.789Z"
         }
       ],
       "title": "Наборы правил и скиллов"
@@ -640,8 +677,9 @@
                 "last_commit": "2026-08-17T18:53:11Z",
                 "owner": "feenlace",
                 "repo": "mcp-1c",
-                "stars": 204
-              }
+                "stars": 208
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -656,7 +694,8 @@
                 "owner": "vladimir-kharin",
                 "repo": "1c_mcp",
                 "stars": 485
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -667,11 +706,12 @@
                 "archived": false,
                 "id": 1227187618,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:21:24Z",
+                "last_commit": "2026-08-28T14:25:15Z",
                 "owner": "IngvarConsulting",
                 "repo": "unica",
-                "stars": 182
-              }
+                "stars": 183
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -682,11 +722,12 @@
                 "archived": false,
                 "id": 1048024121,
                 "language": "PowerShell",
-                "last_commit": "2026-08-25T12:25:33Z",
+                "last_commit": "2026-08-27T23:18:49Z",
                 "owner": "comol",
                 "repo": "ai_rules_1c",
                 "stars": 442
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -697,11 +738,12 @@
                 "archived": false,
                 "id": 1166958971,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:12:26Z",
+                "last_commit": "2026-08-28T11:38:15Z",
                 "owner": "Desko77",
                 "repo": "claude-code-skills-1c",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -712,11 +754,12 @@
                 "archived": false,
                 "id": 1169533019,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:11:48Z",
+                "last_commit": "2026-08-28T11:43:58Z",
                 "owner": "Desko77",
                 "repo": "cursor-1c-skills",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -731,7 +774,8 @@
                 "owner": "Desko77",
                 "repo": "1c-ai-mcp",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -742,11 +786,12 @@
                 "archived": false,
                 "id": 1295803898,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:25:54Z",
+                "last_commit": "2026-08-28T18:04:42Z",
                 "owner": "keyfire",
                 "repo": "elemctl",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -757,11 +802,12 @@
                 "archived": false,
                 "id": 1312647687,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:21:16Z",
+                "last_commit": "2026-08-28T18:25:29Z",
                 "owner": "keyfire",
                 "repo": "xbsl",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -776,7 +822,8 @@
                 "owner": "ondysss",
                 "repo": "codepilot1c-edt",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -791,7 +838,8 @@
                 "owner": "yellow-hammer",
                 "repo": "mcp-1c-platform-tools",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -806,7 +854,8 @@
                 "owner": "fserg",
                 "repo": "mcp-1c-v1",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -821,7 +870,8 @@
                 "owner": "alkoleft",
                 "repo": "mcp-bsl-platform-context",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -832,11 +882,12 @@
                 "archived": false,
                 "id": 1127068869,
                 "language": "Java",
-                "last_commit": "2026-08-27T17:56:25Z",
+                "last_commit": "2026-08-28T16:47:06Z",
                 "owner": "DitriXNew",
                 "repo": "EDT-MCP",
                 "stars": 256
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -851,7 +902,8 @@
                 "owner": "alkoleft",
                 "repo": "mcp-onec-test-runner",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -866,7 +918,8 @@
                 "owner": "ROCTUP",
                 "repo": "1c-mcp-toolkit",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -881,7 +934,8 @@
                 "owner": "artesk",
                 "repo": "1C_MCP_metadata",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -895,8 +949,9 @@
                 "last_commit": "2026-08-19T01:09:39Z",
                 "owner": "ROCTUP",
                 "repo": "1c-mcp-metacode",
-                "stars": 91
-              }
+                "stars": 92
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -911,7 +966,8 @@
                 "owner": "Dach-Coin",
                 "repo": "rlm-tools-bsl",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -926,7 +982,8 @@
                 "owner": "Antonio1C",
                 "repo": "1c-syntax-helper-mcp",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -940,8 +997,9 @@
                 "last_commit": "2026-08-09T19:11:01Z",
                 "owner": "ROCTUP",
                 "repo": "1c-buddy",
-                "stars": 99
-              }
+                "stars": 100
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -955,8 +1013,9 @@
                 "last_commit": "2025-09-20T21:59:54Z",
                 "owner": "alkoleft",
                 "repo": "bsl-graph",
-                "stars": 46
-              }
+                "stars": 47
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -971,7 +1030,8 @@
                 "owner": "SteelMorgan",
                 "repo": "spring-mcp-1c-copilot",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -986,7 +1046,8 @@
                 "owner": "pravets",
                 "repo": "compose4mcp",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -1001,7 +1062,8 @@
                 "owner": "1c-neurofish",
                 "repo": "v8-session-manager",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -1016,7 +1078,8 @@
                 "owner": "SteelMorgan",
                 "repo": "1c-ai-sandbox-client-server",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -1031,7 +1094,8 @@
                 "owner": "rzateev",
                 "repo": "onec-help-mcp",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -1042,11 +1106,12 @@
                 "archived": false,
                 "id": 1175453476,
                 "language": "Rust",
-                "last_commit": "2026-08-26T11:32:44Z",
+                "last_commit": "2026-08-27T20:01:19Z",
                 "owner": "itrous",
                 "repo": "bsl-analyzer",
-                "stars": 91
-              }
+                "stars": 92
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -1061,7 +1126,8 @@
                 "owner": "SteelMorgan",
                 "repo": "mcp-bsl-lsp-bridge",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -1076,7 +1142,8 @@
                 "owner": "phsin",
                 "repo": "mcp-bsl-ls",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -1091,7 +1158,8 @@
                 "owner": "alkoleft",
                 "repo": "v8-runner-rust",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -1106,7 +1174,8 @@
                 "owner": "SteelMorgan",
                 "repo": "1c-log-checker",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -1121,7 +1190,8 @@
                 "owner": "theYahia",
                 "repo": "aprovodka",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -1136,7 +1206,8 @@
                 "owner": "andromanpro",
                 "repo": "1c-ai-connector",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
               "node_type": "item",
@@ -1151,7 +1222,8 @@
                 "owner": "tarasov46",
                 "repo": "1c-accounting-mcp",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:48:31.789Z"
             }
           ],
           "description": null,
@@ -1163,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:40:49.260Z",
+    "last_updated": "2026-08-28T19:48:31.789Z",
     "original_repository_info": {
       "archived": false,
       "id": 1168595356,
@@ -1171,7 +1243,7 @@
       "last_commit": "2026-08-25T01:36:25Z",
       "owner": "Untru",
       "repo": "1c-mcp",
-      "stars": 150
+      "stars": 152
     },
     "original_repository_sha": "5d779b3c429710923d54b1ca98237bfa6be21a0a",
     "enhanced_repository": "enhansome/enhansome-1c-mcp",
