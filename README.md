@@ -216,7 +216,7 @@ MCP-обёртка над LSP, REST API или другим протоколом
 
 ## IDE-интеграции
 
-### [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 256 | 🐛 46 | 🌐 Java | 📅 2026-08-28
+### [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 257 | 🐛 45 | 🌐 Java | 📅 2026-08-29
 
 MCP-сервер в виде плагина для 1C:EDT, обеспечивающий глубокую интеграцию AI-ассистентов с рабочим пространством IDE.
 
@@ -1050,7 +1050,7 @@ MCP от Инфостарт для работы с метаданными кон
 | [1C: Platform Tools MCP](https://github.com/yellow-hammer/mcp-1c-platform-tools) ⭐ 35 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-08-19 | ![Stars](https://img.shields.io/github/stars/yellow-hammer/mcp-1c-platform-tools?style=flat\&label=)     | IDE                                | ✅      |
 | [mcp-1c-v1](https://github.com/FSerg/mcp-1c-v1) ⭐ 164 \| 🐛 1 \| 🌐 TypeScript \| 📅 2025-08-04                                 | ![Stars](https://img.shields.io/github/stars/FSerg/mcp-1c-v1?style=flat\&label=)                         | RAG / метаданные                   | 🚧     |
 | [mcp-bsl-platform-context](https://github.com/alkoleft/mcp-bsl-platform-context) ⭐ 189 \| 🐛 11 \| 🌐 Kotlin \| 📅 2026-03-10   | ![Stars](https://img.shields.io/github/stars/alkoleft/mcp-bsl-platform-context?style=flat\&label=)       | Справка платформы                  | ✅      |
-| [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 256 \| 🐛 46 \| 🌐 Java \| 📅 2026-08-28                                      | ![Stars](https://img.shields.io/github/stars/DitriXNew/EDT-MCP?style=flat\&label=)                       | IDE                                | ✅      |
+| [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 257 \| 🐛 45 \| 🌐 Java \| 📅 2026-08-29                                      | ![Stars](https://img.shields.io/github/stars/DitriXNew/EDT-MCP?style=flat\&label=)                       | IDE                                | ✅      |
 | [mcp-onec-test-runner](https://github.com/alkoleft/mcp-onec-test-runner) ⭐ 107 \| 🐛 21 \| 🌐 Kotlin \| 📅 2026-03-22           | ![Stars](https://img.shields.io/github/stars/alkoleft/mcp-onec-test-runner?style=flat\&label=)           | Тестирование                       | ✅      |
 | [1c-mcp-toolkit](https://github.com/ROCTUP/1c-mcp-toolkit) ⭐ 247 \| 🐛 11 \| 🌐 1C Enterprise \| 📅 2026-07-24                  | ![Stars](https://img.shields.io/github/stars/ROCTUP/1c-mcp-toolkit?style=flat\&label=)                   | Фреймворк                          | ✅      |
 | [http1c](https://mcpmarket.com/server/http1c)                                                                                   | —                                                                                                        | Фреймворк                          | ✅      |
@@ -1110,4 +1110,4 @@ MCP от Инфостарт для работы с метаданными кон
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
