@@ -14,8 +14,8 @@
             "id": 1127068869,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T03:33:26Z",
-            "open_issues": 45,
+            "last_commit": "2026-08-29T06:50:54Z",
+            "open_issues": 48,
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
             "stars": 257,
@@ -148,7 +148,7 @@
             "open_issues": 3,
             "owner": "feenlace",
             "repo": "mcp-1c",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "1c",
               "1c-enterprise",
@@ -410,10 +410,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:01:19Z",
-            "open_issues": 68,
+            "open_issues": 69,
             "owner": "itrous",
             "repo": "bsl-analyzer",
-            "stars": 92,
+            "stars": 93,
             "topics": []
           },
           "title": "bsl-analyzer",
@@ -766,7 +766,7 @@
                 "open_issues": 8,
                 "owner": "1c-neurofish",
                 "repo": "onec-client-mcp-devkit",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:48:31.789Z"
@@ -860,7 +860,7 @@
             "open_issues": 117,
             "owner": "IngvarConsulting",
             "repo": "unica",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "1c-enterprise",
               "claude-code-plugin",
@@ -887,7 +887,7 @@
             "open_issues": 14,
             "owner": "comol",
             "repo": "ai_rules_1c",
-            "stars": 442,
+            "stars": 443,
             "topics": []
           },
           "title": "ai_rules_1c",
@@ -990,7 +990,7 @@
                 "open_issues": 3,
                 "owner": "feenlace",
                 "repo": "mcp-1c",
-                "stars": 208,
+                "stars": 209,
                 "topics": [
                   "1c",
                   "1c-enterprise",
@@ -1048,7 +1048,7 @@
                 "open_issues": 117,
                 "owner": "IngvarConsulting",
                 "repo": "unica",
-                "stars": 183,
+                "stars": 184,
                 "topics": [
                   "1c-enterprise",
                   "claude-code-plugin",
@@ -1075,7 +1075,7 @@
                 "open_issues": 14,
                 "owner": "comol",
                 "repo": "ai_rules_1c",
-                "stars": 442,
+                "stars": 443,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:48:31.789Z"
@@ -1319,8 +1319,8 @@
                 "id": 1127068869,
                 "language": "Java",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T03:33:26Z",
-                "open_issues": 45,
+                "last_commit": "2026-08-29T06:50:54Z",
+                "open_issues": 48,
                 "owner": "DitriXNew",
                 "repo": "EDT-MCP",
                 "stars": 257,
@@ -1638,10 +1638,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T20:01:19Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "itrous",
                 "repo": "bsl-analyzer",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:48:31.789Z"
@@ -1843,7 +1843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:54:37.386Z",
+    "last_updated": "2026-08-29T13:30:17.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of MCP servers for 1C:Enterprise ecosystem | Каталог MCP-серверов для экосистемы 1С:Предприятие",
