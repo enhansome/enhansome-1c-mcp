@@ -14,7 +14,7 @@
             "id": 1127068869,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T12:19:23Z",
+            "last_commit": "2026-09-10T12:21:38Z",
             "open_issues": 52,
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
@@ -95,7 +95,7 @@
             "open_issues": 3,
             "owner": "vladimir-kharin",
             "repo": "1c_mcp",
-            "stars": 490,
+            "stars": 493,
             "topics": [
               "mcp"
             ]
@@ -148,7 +148,7 @@
             "open_issues": 3,
             "owner": "feenlace",
             "repo": "mcp-1c",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "1c",
               "1c-enterprise",
@@ -410,7 +410,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T05:13:02Z",
-            "open_issues": 82,
+            "open_issues": 73,
             "owner": "itrous",
             "repo": "bsl-analyzer",
             "stars": 96,
@@ -829,7 +829,7 @@
             "id": 1312647687,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T06:30:57Z",
+            "last_commit": "2026-09-09T20:22:12Z",
             "open_issues": 0,
             "owner": "keyfire",
             "repo": "xbsl",
@@ -856,11 +856,11 @@
             "id": 1227187618,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T12:32:50Z",
-            "open_issues": 146,
+            "last_commit": "2026-09-10T11:04:39Z",
+            "open_issues": 145,
             "owner": "IngvarConsulting",
             "repo": "unica",
-            "stars": 191,
+            "stars": 193,
             "topics": [
               "1c-enterprise",
               "claude-code-plugin",
@@ -887,7 +887,7 @@
             "open_issues": 14,
             "owner": "comol",
             "repo": "ai_rules_1c",
-            "stars": 453,
+            "stars": 452,
             "topics": []
           },
           "title": "ai_rules_1c",
@@ -908,7 +908,7 @@
             "open_issues": 2,
             "owner": "Desko77",
             "repo": "claude-code-skills-1c",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "1c",
               "1c-development",
@@ -945,7 +945,7 @@
             "open_issues": 0,
             "owner": "Desko77",
             "repo": "cursor-1c-skills",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "1c",
               "1c-development",
@@ -990,7 +990,7 @@
                 "open_issues": 3,
                 "owner": "feenlace",
                 "repo": "mcp-1c",
-                "stars": 223,
+                "stars": 224,
                 "topics": [
                   "1c",
                   "1c-enterprise",
@@ -1025,7 +1025,7 @@
                 "open_issues": 3,
                 "owner": "vladimir-kharin",
                 "repo": "1c_mcp",
-                "stars": 490,
+                "stars": 493,
                 "topics": [
                   "mcp"
                 ]
@@ -1044,11 +1044,11 @@
                 "id": 1227187618,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T12:32:50Z",
-                "open_issues": 146,
+                "last_commit": "2026-09-10T11:04:39Z",
+                "open_issues": 145,
                 "owner": "IngvarConsulting",
                 "repo": "unica",
-                "stars": 191,
+                "stars": 193,
                 "topics": [
                   "1c-enterprise",
                   "claude-code-plugin",
@@ -1075,7 +1075,7 @@
                 "open_issues": 14,
                 "owner": "comol",
                 "repo": "ai_rules_1c",
-                "stars": 453,
+                "stars": 452,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:48:31.789Z"
@@ -1096,7 +1096,7 @@
                 "open_issues": 2,
                 "owner": "Desko77",
                 "repo": "claude-code-skills-1c",
-                "stars": 60,
+                "stars": 61,
                 "topics": [
                   "1c",
                   "1c-development",
@@ -1133,7 +1133,7 @@
                 "open_issues": 0,
                 "owner": "Desko77",
                 "repo": "cursor-1c-skills",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "1c",
                   "1c-development",
@@ -1207,7 +1207,7 @@
                 "id": 1312647687,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T06:30:57Z",
+                "last_commit": "2026-09-09T20:22:12Z",
                 "open_issues": 0,
                 "owner": "keyfire",
                 "repo": "xbsl",
@@ -1319,7 +1319,7 @@
                 "id": 1127068869,
                 "language": "Java",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-09T12:19:23Z",
+                "last_commit": "2026-09-10T12:21:38Z",
                 "open_issues": 52,
                 "owner": "DitriXNew",
                 "repo": "EDT-MCP",
@@ -1638,7 +1638,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T05:13:02Z",
-                "open_issues": 82,
+                "open_issues": 73,
                 "owner": "itrous",
                 "repo": "bsl-analyzer",
                 "stars": 96,
@@ -1843,7 +1843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T12:36:10.716Z",
+    "last_updated": "2026-09-10T12:33:15.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of MCP servers for 1C:Enterprise ecosystem | Каталог MCP-серверов для экосистемы 1С:Предприятие",
@@ -1855,7 +1855,7 @@
       "open_issues": 1,
       "owner": "Untru",
       "repo": "1c-mcp",
-      "stars": 163,
+      "stars": 164,
       "topics": [
         "1c",
         "1c-enterprise",
