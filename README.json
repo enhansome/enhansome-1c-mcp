@@ -18,7 +18,7 @@
             "open_issues": 54,
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
-            "stars": 277,
+            "stars": 278,
             "topics": [
               "1c-enterprise",
               "edt",
@@ -61,7 +61,7 @@
             "id": 1160221881,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T14:05:00Z",
+            "last_commit": "2026-09-16T13:31:36Z",
             "open_issues": 0,
             "owner": "yellow-hammer",
             "repo": "mcp-1c-platform-tools",
@@ -95,7 +95,7 @@
             "open_issues": 6,
             "owner": "vladimir-kharin",
             "repo": "1c_mcp",
-            "stars": 503,
+            "stars": 504,
             "topics": [
               "mcp"
             ]
@@ -115,10 +115,10 @@
             "language": "1C Enterprise",
             "license": "GPL-3.0",
             "last_commit": "2026-07-24T10:05:38Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "ROCTUP",
             "repo": "1c-mcp-toolkit",
-            "stars": 268,
+            "stars": 273,
             "topics": [
               "1c",
               "mcp"
@@ -276,7 +276,7 @@
             "open_issues": 11,
             "owner": "alkoleft",
             "repo": "mcp-bsl-platform-context",
-            "stars": 192,
+            "stars": 194,
             "topics": [
               "bsl",
               "mcp",
@@ -567,7 +567,7 @@
             "open_issues": 0,
             "owner": "andromanpro",
             "repo": "1c-ai-connector",
-            "stars": 91,
+            "stars": 93,
             "topics": [
               "1c-edt",
               "1c-enterprise",
@@ -808,7 +808,7 @@
             "id": 1295803898,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-13T16:21:11Z",
+            "last_commit": "2026-09-17T11:58:50Z",
             "open_issues": 0,
             "owner": "keyfire",
             "repo": "elemctl",
@@ -860,7 +860,7 @@
             "open_issues": 148,
             "owner": "IngvarConsulting",
             "repo": "unica",
-            "stars": 195,
+            "stars": 196,
             "topics": [
               "1c-enterprise",
               "claude-code-plugin",
@@ -904,11 +904,11 @@
             "id": 1166958971,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T11:15:57Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-16T16:44:27Z",
+            "open_issues": 3,
             "owner": "Desko77",
             "repo": "claude-code-skills-1c",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "1c",
               "1c-development",
@@ -941,7 +941,7 @@
             "id": 1169533019,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T11:16:23Z",
+            "last_commit": "2026-09-16T16:44:40Z",
             "open_issues": 0,
             "owner": "Desko77",
             "repo": "cursor-1c-skills",
@@ -1025,7 +1025,7 @@
                 "open_issues": 6,
                 "owner": "vladimir-kharin",
                 "repo": "1c_mcp",
-                "stars": 503,
+                "stars": 504,
                 "topics": [
                   "mcp"
                 ]
@@ -1048,7 +1048,7 @@
                 "open_issues": 148,
                 "owner": "IngvarConsulting",
                 "repo": "unica",
-                "stars": 195,
+                "stars": 196,
                 "topics": [
                   "1c-enterprise",
                   "claude-code-plugin",
@@ -1092,11 +1092,11 @@
                 "id": 1166958971,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T11:15:57Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-16T16:44:27Z",
+                "open_issues": 3,
                 "owner": "Desko77",
                 "repo": "claude-code-skills-1c",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "1c",
                   "1c-development",
@@ -1129,7 +1129,7 @@
                 "id": 1169533019,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T11:16:23Z",
+                "last_commit": "2026-09-16T16:44:40Z",
                 "open_issues": 0,
                 "owner": "Desko77",
                 "repo": "cursor-1c-skills",
@@ -1186,7 +1186,7 @@
                 "id": 1295803898,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-13T16:21:11Z",
+                "last_commit": "2026-09-17T11:58:50Z",
                 "open_issues": 0,
                 "owner": "keyfire",
                 "repo": "elemctl",
@@ -1249,7 +1249,7 @@
                 "id": 1160221881,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T14:05:00Z",
+                "last_commit": "2026-09-16T13:31:36Z",
                 "open_issues": 0,
                 "owner": "yellow-hammer",
                 "repo": "mcp-1c-platform-tools",
@@ -1298,7 +1298,7 @@
                 "open_issues": 11,
                 "owner": "alkoleft",
                 "repo": "mcp-bsl-platform-context",
-                "stars": 192,
+                "stars": 194,
                 "topics": [
                   "bsl",
                   "mcp",
@@ -1323,7 +1323,7 @@
                 "open_issues": 54,
                 "owner": "DitriXNew",
                 "repo": "EDT-MCP",
-                "stars": 277,
+                "stars": 278,
                 "topics": [
                   "1c-enterprise",
                   "edt",
@@ -1367,10 +1367,10 @@
                 "language": "1C Enterprise",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-24T10:05:38Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "ROCTUP",
                 "repo": "1c-mcp-toolkit",
-                "stars": 268,
+                "stars": 273,
                 "topics": [
                   "1c",
                   "mcp"
@@ -1788,7 +1788,7 @@
                 "open_issues": 0,
                 "owner": "andromanpro",
                 "repo": "1c-ai-connector",
-                "stars": 91,
+                "stars": 93,
                 "topics": [
                   "1c-edt",
                   "1c-enterprise",
@@ -1843,7 +1843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:58:44.433Z",
+    "last_updated": "2026-09-17T12:55:06.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of MCP servers for 1C:Enterprise ecosystem | Каталог MCP-серверов для экосистемы 1С:Предприятие",
