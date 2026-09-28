@@ -1,12 +1,85 @@
 {
   "items": [
     {
-      "description": null,
+      "description": "Open-source проекты каталога по числу звёзд на GitHub. Таблица пересобирается автоматически каждый понедельник (workflow, скрипт).",
       "items": [
         {
-          "children": [],
-          "description": "MCP-сервер в виде плагина для 1C:EDT, обеспечивающий глубокую интеграцию AI-ассистентов с рабочим пространством IDE.\nВозможности:",
           "node_type": "item",
+          "title": "cc-1c-skills",
+          "description": "643 Самый популярный набор skills для 1С: полный цикл разработки для Claude Code, Cursor и Codex Плагины, правила и skills 2026-09-28",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Набор навыков для AI(ИИ)-агентов (Claude Code, Cursor, Codex и др.), помогающий охватить полный цикл разработки на платформе 1С:Предприятие 8.3. Даёт модели абстракции над XML-форматами и CLI конфигуратора, а также глаза и руки для тестирования через веб-клиент. AI skills for 1C:Enterprise 8.3.",
+            "homepage": null,
+            "id": 1152709086,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-28T10:46:55Z",
+            "open_issues": 12,
+            "owner": "Nikolay-Shirokov",
+            "repo": "cc-1c-skills",
+            "stars": 643,
+            "topics": [
+              "1c",
+              "1c-enterprise",
+              "skills",
+              "test-automation",
+              "web-client",
+              "web-testing"
+            ]
+          },
+          "first_seen": "2026-09-28T16:18:39.546Z"
+        },
+        {
+          "node_type": "item",
+          "title": "1c_mcp",
+          "description": "518 Фреймворк, чтобы сделать MCP-сервер из самой базы 1С Живая база и фреймворки 2026-09-27",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Инструмент для создания MCP-серверов в 1С:Предприятие путем разработки расширения конфигурации. Позволяет интегрировать данные и функциональность 1С с AI-ассистентами (Claude, Cursor и т.д.). Включает Python-прокси и пример расширения 1С с готовыми инструментами.",
+            "homepage": null,
+            "id": 996690677,
+            "language": "1C Enterprise",
+            "license": null,
+            "last_commit": "2026-09-27T14:34:27Z",
+            "open_issues": 7,
+            "owner": "vladimir-kharin",
+            "repo": "1c_mcp",
+            "stars": 518,
+            "topics": [
+              "mcp"
+            ]
+          },
+          "first_seen": "2026-08-28T19:48:31.789Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ai_rules_1c",
+          "description": "466 Правила, субагенты и skills для AI-разработки на 1С — для любого агента Плагины, правила и skills 2026-09-27",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Rules\\skills\\subagens for vibecoding in 1C(bsl)",
+            "homepage": null,
+            "id": 1048024121,
+            "language": "PowerShell",
+            "license": null,
+            "last_commit": "2026-09-27T19:54:21Z",
+            "open_issues": 0,
+            "owner": "comol",
+            "repo": "ai_rules_1c",
+            "stars": 466,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:48:31.789Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EDT-MCP",
+          "description": "289 Плагин, который открывает AI-агенту рабочее пространство 1C:EDT IDE-интеграции 2026-09-27",
+          "children": [],
           "repo_info": {
             "archived": false,
             "description": "MCP for 1C:EDT",
@@ -14,8 +87,8 @@
             "id": 1127068869,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-27T07:09:55Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-27T15:17:01Z",
+            "open_issues": 79,
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
             "stars": 289,
@@ -26,87 +99,13 @@
               "mcp-server"
             ]
           },
-          "title": "EDT-MCP",
           "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
-          "children": [],
-          "description": "AI-плагин для 1C:EDT с чатом, агентным режимом и MCP Host. Добавлен по открытому issue Untru/1c-mcp#1.\nВозможности:",
           "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "CodePilot1C plugin for 1C:EDT (Eclipse RCP/OSGi) — OSS edition",
-            "homepage": null,
-            "id": 1152843337,
-            "language": "Java",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T10:09:12Z",
-            "open_issues": 63,
-            "owner": "ondysss",
-            "repo": "codepilot1c-edt",
-            "stars": 153,
-            "topics": []
-          },
-          "title": "CodePilot1C",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
+          "title": "1c-mcp-toolkit",
+          "description": "279 Живая база для агента за пять минут — просто открыть обработку Живая база и фреймворки 2026-07-24",
           "children": [],
-          "description": "MCP-сервер для вызова команд VS Code-расширения 1C: Platform Tools из Cursor, VS Code и других MCP-клиентов.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "MCP-сервер расширения 1C: Platform Tools для агентов Visual Studio Code (Cursor) по IPC.",
-            "homepage": "https://marketplace.visualstudio.com/items?itemName=yellow-hammer.mcp-1c-platform-tools",
-            "id": 1160221881,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-24T17:05:51Z",
-            "open_issues": 0,
-            "owner": "yellow-hammer",
-            "repo": "mcp-1c-platform-tools",
-            "stars": 37,
-            "topics": [
-              "1c-enterprise",
-              "vscode-mcp"
-            ]
-          },
-          "title": "1C: Platform Tools MCP",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        }
-      ],
-      "title": "IDE-интеграции"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "Фреймворк для создания MCP-серверов внутри 1С:Предприятие через расширения конфигурации. Готовое расширение берёт на себя всю механику протокола — разработчику достаточно реализовать бизнес-логику инструментов.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Инструмент для создания MCP-серверов в 1С:Предприятие путем разработки расширения конфигурации. Позволяет интегрировать данные и функциональность 1С с AI-ассистентами (Claude, Cursor и т.д.). Включает Python-прокси и пример расширения 1С с готовыми инструментами.",
-            "homepage": null,
-            "id": 996690677,
-            "language": "1C Enterprise",
-            "license": null,
-            "last_commit": "2026-09-27T08:28:15Z",
-            "open_issues": 7,
-            "owner": "vladimir-kharin",
-            "repo": "1c_mcp",
-            "stars": 515,
-            "topics": [
-              "mcp"
-            ]
-          },
-          "title": "1c_mcp",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
-          "children": [],
-          "description": "MCP и REST API сервер для получения метаданных и данных из базы 1С. Уникальная особенность — встроенный HTTP-сервер прямо в обработке .\nВозможности:",
-          "node_type": "item",
           "repo_info": {
             "archived": false,
             "description": "MCP и REST API сервер для получения метаданных и данных из базы 1С",
@@ -118,25 +117,19 @@
             "open_issues": 17,
             "owner": "ROCTUP",
             "repo": "1c-mcp-toolkit",
-            "stars": 279,
+            "stars": 280,
             "topics": [
               "1c",
               "mcp"
             ]
           },
-          "title": "1c-mcp-toolkit",
           "first_seen": "2026-08-28T19:48:31.789Z"
-        }
-      ],
-      "title": "Фреймворки для создания MCP-серверов"
-    },
-    {
-      "description": null,
-      "items": [
+        },
         {
-          "children": [],
-          "description": "MCP-сервер для работы с живой базой 1С:Предприятие. Один Go-бинарник без внешних runtime-зависимостей, подключается к HTTP-сервису 1С и может использовать выгрузку конфигурации для поиска по коду.\nВозможности:",
           "node_type": "item",
+          "title": "mcp-1c",
+          "description": "233 Один Go-бинарник, который даёт агенту и живую базу, и поиск по коду Метаданные и анализ кода 2026-09-26",
+          "children": [],
           "repo_info": {
             "archived": false,
             "description": "MCP server for 1С:Enterprise — AI assistant sees your configuration and generates accurate BSL code. One binary, zero dependencies, 11 tools.",
@@ -148,7 +141,7 @@
             "open_issues": 2,
             "owner": "feenlace",
             "repo": "mcp-1c",
-            "stars": 232,
+            "stars": 233,
             "topics": [
               "1c",
               "1c-enterprise",
@@ -165,58 +158,40 @@
               "query-optimization"
             ]
           },
-          "title": "mcp-1c",
           "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
-          "children": [],
-          "description": "MCP-сервер для получения метаданных конфигурации 1С. Расширение 1С с HTTP-сервисом + PowerShell-мост для stdio.\nВозможности:",
           "node_type": "item",
+          "title": "Unica",
+          "description": "205 Плагин для Claude Code и Codex: skills плюс собственный MCP runtime для 1С Плагины, правила и skills 2026-09-28",
+          "children": [],
           "repo_info": {
             "archived": false,
-            "description": "MCP сервер для получения метаданных конфигурации 1С",
-            "homepage": null,
-            "id": 1003262080,
-            "language": "1C Enterprise",
-            "license": null,
-            "last_commit": "2025-06-18T16:50:09Z",
-            "open_issues": 2,
-            "owner": "artesk",
-            "repo": "1C_MCP_metadata",
-            "stars": 63,
-            "topics": []
-          },
-          "title": "1C_MCP_metadata",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
-          "children": [],
-          "description": "Загружает метаданные и код конфигурации 1С в графовую БД Neo4j и предоставляет MCP-инструменты для поиска. В релизе (2026-07-12) переписан вокруг встроенного AI-агента и типизированных инструментов; (2026-08-19) — фиксы графов расширений и производительности.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "MCP сервер с встроенным AI агентом для поиска  по графу метаданных и кода конфигураций 1С",
-            "homepage": null,
-            "id": 1062812429,
-            "language": "Python",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-08-19T01:09:39Z",
-            "open_issues": 9,
-            "owner": "ROCTUP",
-            "repo": "1c-mcp-metacode",
-            "stars": 102,
+            "description": "Unica (Ю́ника) — публичный плагин Codex и Claude Code для разработки на 1С:Предприятии.",
+            "homepage": "https://ingvarconsulting.github.io/unica/",
+            "id": 1227187618,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-28T10:18:04Z",
+            "open_issues": 246,
+            "owner": "IngvarConsulting",
+            "repo": "unica",
+            "stars": 205,
             "topics": [
-              "1c",
-              "mcp"
+              "1c-enterprise",
+              "claude-code-plugin",
+              "codex-plugin",
+              "mcp",
+              "skills"
             ]
           },
-          "title": "1c-mcp-metacode",
           "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
-          "children": [],
-          "description": "MCP-сервер для токен-эффективного анализа больших кодовых баз 1С без обязательного RAG. Адаптирует RLM-подход под BSL, исходники CF, EDT, CFE и MDO, XML-метаданные и кириллический код.\nВозможности:",
           "node_type": "item",
+          "title": "rlm-tools-bsl",
+          "description": "198 Анализ огромных конфигураций (ERP, УХ) без RAG и без траты токенов на чтение файлов Метаданные и анализ кода 2026-09-28",
+          "children": [],
           "repo_info": {
             "archived": false,
             "description": "MCP-сервер для токен-эффективного анализа кодовых баз 1С (BSL) — 66 хелперов, SQLite-индекс, поддержка CF/EDT/CFE",
@@ -224,47 +199,20 @@
             "id": 1180737932,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-26T16:00:22Z",
+            "last_commit": "2026-09-28T12:40:28Z",
             "open_issues": 4,
             "owner": "Dach-Coin",
             "repo": "rlm-tools-bsl",
             "stars": 198,
             "topics": []
           },
-          "title": "rlm-tools-bsl",
           "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
-          "children": [],
-          "description": "MCP-сервер с RAG (Retrieval-Augmented Generation) для описания структуры конфигурации 1С. Семантический поиск через векторную БД Qdrant.\nВозможности:",
           "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "MCP сервер с RAG описанием структуры конфигурации 1С",
-            "homepage": null,
-            "id": 999971503,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2025-08-04T03:33:10Z",
-            "open_issues": 1,
-            "owner": "fserg",
-            "repo": "mcp-1c-v1",
-            "stars": 165,
-            "topics": []
-          },
-          "title": "mcp-1c-v1",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        }
-      ],
-      "title": "Метаданные и анализ кода"
-    },
-    {
-      "description": null,
-      "items": [
-        {
+          "title": "mcp-bsl-platform-context",
+          "description": "196 Синтакс-помощник для AI — чтобы агент перестал выдумывать методы платформы Справка платформы 2026-03-10",
           "children": [],
-          "description": "MCP-сервер — интерактивный «Синтакс-помощник» для AI. Справка по синтаксису и объектной модели платформы 1С:Предприятие.\nВозможности:",
-          "node_type": "item",
           "repo_info": {
             "archived": false,
             "description": "MCP сервер для AI-ассистентов (справка по синтаксису и объектной модели 1С:Предприятие)",
@@ -283,146 +231,88 @@
               "mcp-server"
             ]
           },
-          "title": "mcp-bsl-platform-context",
           "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
-          "children": [],
-          "description": "MCP-сервер с RAG-поиском по официальной справке платформы 1С. Гибридный поиск (BM25 + семантика) с поддержкой нескольких версий платформы.\nВозможности:",
           "node_type": "item",
+          "title": "mcp-1c-v1",
+          "description": "166 RAG по структуре конфигурации: «найди, где хранится X» на естественном языке Метаданные и анализ кода 2025-08-04",
+          "children": [],
           "repo_info": {
             "archived": false,
-            "description": "MCP сервер по справке платформы 1С с поддержкой семантического поиска",
+            "description": "MCP сервер с RAG описанием структуры конфигурации 1С",
             "homepage": null,
-            "id": 1155957008,
-            "language": "Python",
+            "id": 999971503,
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-02-12T19:38:59Z",
+            "last_commit": "2025-08-04T03:33:10Z",
             "open_issues": 1,
-            "owner": "rzateev",
-            "repo": "onec-help-mcp",
-            "stars": 22,
+            "owner": "fserg",
+            "repo": "mcp-1c-v1",
+            "stars": 166,
             "topics": []
           },
-          "title": "onec-help-mcp",
           "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
-          "children": [],
-          "description": "MCP-сервер для быстрого поиска по документации синтаксиса 1С. Централизованный сервис для нескольких пользователей.\nВозможности:",
           "node_type": "item",
+          "title": "CodePilot1C",
+          "description": "153 AI-ассистент, встроенный прямо в EDT: чат, агентный режим и MCP Host IDE-интеграции 2026-09-25",
+          "children": [],
           "repo_info": {
             "archived": false,
-            "description": "MCP сервер для поиска по синтаксису 1С",
+            "description": "CodePilot1C plugin for 1C:EDT (Eclipse RCP/OSGi) — OSS edition",
             "homepage": null,
-            "id": 1045123293,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-09-11T19:42:10Z",
-            "open_issues": 4,
-            "owner": "Antonio1C",
-            "repo": "1c-syntax-helper-mcp",
-            "stars": 73,
+            "id": 1152843337,
+            "language": "Java",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-25T10:09:12Z",
+            "open_issues": 63,
+            "owner": "ondysss",
+            "repo": "codepilot1c-edt",
+            "stars": 153,
             "topics": []
           },
-          "title": "1c-syntax-helper-mcp",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        }
-      ],
-      "title": "Справка и документация платформы"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "MCP-сервер для анализа и форматирования кода 1С через BSL Language Server. Проверяет и файлы, возвращает ошибки и предупреждения в JSON.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1082476099,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-11-12T19:27:35Z",
-            "open_issues": 0,
-            "owner": "phsin",
-            "repo": "mcp-bsl-ls",
-            "stars": 5,
-            "topics": []
-          },
-          "title": "bsl-mcp",
           "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Универсальный LSP→MCP мост (см. также Tritlo/lsp-mcp",
-              "description": "generic вариант)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An MCP server that lets you interact with LSP servers",
-                "homepage": null,
-                "id": 952869992,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2025-07-21T16:43:01Z",
-                "open_issues": 7,
-                "owner": "Tritlo",
-                "repo": "lsp-mcp",
-                "stars": 124,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            }
-          ],
-          "description": "LSP → MCP транслятор: даёт AI-агентам доступ к возможностям BSL Language Server — навигация по коду, поиск символов, диагностика (100+ проверок), рефакторинг, hover-подсказки.\nВозможности:",
           "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "MCP-сервер, который даёт ИИ-агентам (Cursor, Claude Code и др.) доступ к возможностям BSL Language Server для работы с кодом 1С и OneScript: навигация, поиск, диагностика, рефакторинг. Цель - обеспечить детерминированные операции над кодом и экономия токенов (конечно модель всё может сделать грепами, но сколько токенов сожжет?)",
-            "homepage": null,
-            "id": 1141694908,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-07-03T19:39:52Z",
-            "open_issues": 0,
-            "owner": "SteelMorgan",
-            "repo": "mcp-bsl-lsp-bridge",
-            "stars": 67,
-            "topics": []
-          },
-          "title": "mcp-bsl-lsp-bridge",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
+          "title": "code-index-mcp",
+          "description": "130 Быстрый индекс кода для агента: один бинарник, SQLite, ответ за миллисекунды Метаданные и анализ кода 2026-09-28",
           "children": [],
-          "description": "Высокопроизводительный анализатор BSL на Rust с CLI, LSP и встроенным MCP-сервером. Даёт IDE и AI-агентам диагностику, навигацию, поиск по проекту и справке, а также машинно-читаемые отчёты для CI/CD.\nВозможности:",
-          "node_type": "item",
           "repo_info": {
             "archived": false,
-            "description": "Анализатор кода BSL (1С:Предприятие) с поддержкой LSP. Написан на Rust.",
-            "homepage": "https://t.me/+K7CcQPNZobE3YjUy",
-            "id": 1175453476,
+            "description": "Поиск по коду для ИИ-агентов: 32 инструмента MCP, индекс на SQLite, один бинарник без зависимостей. Разбирает выгрузки 1С:Предприятие — Конфигуратор и EDT; конфигурация на 88 тыс. файлов индексируется за 6 минут, ответ на запрос — 10 мс. Code index MCP server: tree-sitter AST for 14 languages, 20 universal tools + 12 for 1C/BSL.",
+            "homepage": "https://infostart.ru/1c/tools/2677918/",
+            "id": 1194762164,
             "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-26T10:13:22Z",
-            "open_issues": 74,
-            "owner": "itrous",
-            "repo": "bsl-analyzer",
-            "stars": 102,
-            "topics": []
+            "license": "MIT",
+            "last_commit": "2026-09-28T04:29:27Z",
+            "open_issues": 1,
+            "owner": "Regsorm",
+            "repo": "code-index-mcp",
+            "stars": 130,
+            "topics": [
+              "1c-enterprise",
+              "ast",
+              "bsl",
+              "code-index",
+              "code-search",
+              "developer-tools",
+              "mcp",
+              "model-context-protocol",
+              "onescript",
+              "rust",
+              "tree-sitter"
+            ]
           },
-          "title": "bsl-analyzer",
-          "first_seen": "2026-08-28T19:48:31.789Z"
+          "first_seen": "2026-09-28T16:18:39.546Z"
         },
         {
-          "children": [],
-          "description": "MCP-сервер для запуска YaXUnit-тестов и сборки проектов 1С из AI-ассистентов.\nВозможности:",
           "node_type": "item",
+          "title": "mcp-onec-test-runner",
+          "description": "113 METR — агент сам запускает YaXUnit-тесты, сборку и синтакс-контроль Проверка кода и тестирование 2026-03-22",
+          "children": [],
           "repo_info": {
             "archived": false,
             "description": "MCP‑сервер для сборки (обновления базы) и запуска тестов YaXUnit в проектах 1С:Предприятие из AI‑ассистентов (Claude, GPT, VS Code и др.).",
@@ -437,19 +327,13 @@
             "stars": 113,
             "topics": []
           },
-          "title": "mcp-onec-test-runner (METR)",
           "first_seen": "2026-08-28T19:48:31.789Z"
-        }
-      ],
-      "title": "Тестирование и проверка синтаксиса"
-    },
-    {
-      "description": null,
-      "items": [
+        },
         {
-          "children": [],
-          "description": "Чат, MCP-сервер и OpenAI-совместимый API-шлюз для общения с 1С:Напарник. Веб-интерфейс с подсветкой BSL/XML, визуализацией диаграмм и историей разговоров.\nВозможности:",
           "node_type": "item",
+          "title": "1c-buddy",
+          "description": "102 Веб-чат, MCP-сервер и OpenAI-совместимый шлюз к Напарнику 1С:Напарник 2026-08-09",
+          "children": [],
           "repo_info": {
             "archived": false,
             "description": "Чат, MCP и OpenAI API сервер для общения с 1С:Напарник",
@@ -467,760 +351,147 @@
               "mcp"
             ]
           },
-          "title": "1c-buddy",
           "first_seen": "2026-08-28T19:48:31.789Z"
         },
         {
-          "children": [],
-          "description": "MCP-сервер на Spring Boot для интеграции с API 1С:Напарник. SSE-транспорт и Swagger UI.\nВозможности:",
           "node_type": "item",
+          "title": "1c-mcp-metacode",
+          "description": "102 Конфигурация в виде графа в Neo4j: объекты, модули, процедуры и связи между ними Метаданные и анализ кода 2026-08-19",
+          "children": [],
           "repo_info": {
             "archived": false,
-            "description": "МСР-сервер для обращения к 1С.Напарник (поддержка SSE и docker-контейнеризации)",
+            "description": "MCP сервер с встроенным AI агентом для поиска  по графу метаданных и кода конфигураций 1С",
             "homepage": null,
-            "id": 1071826928,
-            "language": "Kotlin",
-            "license": "NOASSERTION",
-            "last_commit": "2026-07-03T22:12:38Z",
-            "open_issues": 0,
-            "owner": "SteelMorgan",
-            "repo": "spring-mcp-1c-copilot",
-            "stars": 46,
-            "topics": []
-          },
-          "title": "spring-mcp-1c-copilot",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
-          "children": [],
-          "description": "MCP-сервер для интеграции IDE с API 1С:Напарник (code.1c.ai). Решает проблему 422-ошибок формата API, встречавшихся в более ранних интеграциях.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "MCP-сервер для интеграции IDE с API 1С:Напарник (code.1c.ai)",
-            "homepage": null,
-            "id": 1176684285,
+            "id": 1062812429,
             "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-22T10:28:19Z",
-            "open_issues": 2,
-            "owner": "Desko77",
-            "repo": "1c-ai-mcp",
-            "stars": 8,
-            "topics": []
-          },
-          "title": "1c-ai-mcp",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        }
-      ],
-      "title": "Интеграция с 1С:Напарник"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "MCP-сервер для работы с опубликованным REST API 1С:Предприятие. Ориентирован на базовые операции с каталогами и документами.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "aprovodka — MCP server for 1C:Enterprise via REST/OData 3.0. 34 tools: catalogs, documents, registers, accounting, batch, change-tracking. No BSL extension required.",
-            "homepage": "https://theyahia.github.io/aprovodka/",
-            "id": 1196390720,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-09-05T13:51:49Z",
-            "open_issues": 0,
-            "owner": "theYahia",
-            "repo": "aprovodka",
-            "stars": 12,
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-19T01:09:39Z",
+            "open_issues": 10,
+            "owner": "ROCTUP",
+            "repo": "1c-mcp-metacode",
+            "stars": 102,
             "topics": [
               "1c",
-              "ai-agents",
-              "anthropic",
-              "claude",
-              "emerging-markets",
-              "erp",
-              "mcp",
-              "mcp-servers",
-              "model-context-protocol",
-              "russia",
-              "russian-api",
-              "typescript"
-            ]
-          },
-          "title": "1c-rest-mcp",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
-          "children": [],
-          "description": "Расширение конфигурации для интеграции LLM в 1С:Предприятие. Полноценная ИИ-платформа поверх коннектора: агентская петля с function calling, RAG по базе знаний, MCP-сервер для внешних агентов, мониторинг ошибок с ИИ-диагнозом и генератор диаграмм. Устанавливается как расширение, основную конфигурацию не меняет.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "ИИкона — AI-коннектор для 1С:Предприятие 8.3: LLM-провайдеры, агентская петля (function calling), RAG, MCP-сервер, мониторинг ошибок с ИИ-анализом, генератор диаграмм",
-            "homepage": "https://androman.pro",
-            "id": 1129258509,
-            "language": "1C Enterprise",
-            "license": "MIT",
-            "last_commit": "2026-09-24T08:12:59Z",
-            "open_issues": 0,
-            "owner": "andromanpro",
-            "repo": "1c-ai-connector",
-            "stars": 97,
-            "topics": [
-              "1c-edt",
-              "1c-enterprise",
-              "ai",
-              "anthropic",
-              "bsl",
-              "claude",
-              "connector",
-              "function-calling",
-              "gemini",
-              "gigachat",
-              "gpt",
-              "integration",
-              "llm",
-              "mcp",
-              "openai",
-              "qdrant",
-              "rag",
-              "yandexgpt"
-            ]
-          },
-          "title": "ИИкона (1c-ai-connector)",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
-          "children": [],
-          "description": "MCP-сервер для интеграции AI-ассистентов с 1С:Бухгалтерией. Ранняя стадия разработки.",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "MCP server for 1C Enterprise Accounting integration",
-            "homepage": null,
-            "id": 1014030110,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-07-11T18:39:36Z",
-            "open_issues": 0,
-            "owner": "tarasov46",
-            "repo": "1c-accounting-mcp",
-            "stars": 4,
-            "topics": []
-          },
-          "title": "1c-accounting-mcp",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        }
-      ],
-      "title": "Интеграция с учётными системами"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "Анализатор и визуализатор конфигураций 1С. Строит граф знаний в NebulaGraph с MCP-доступом.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "BSL Graph: Анализатор и визуализатор конфигураций 1С: Предприятие",
-            "homepage": null,
-            "id": 1060785744,
-            "language": "Kotlin",
-            "license": "MIT",
-            "last_commit": "2025-09-20T21:59:54Z",
-            "open_issues": 2,
-            "owner": "alkoleft",
-            "repo": "bsl-graph",
-            "stars": 48,
-            "topics": [
-              "1c-enterprise",
-              "bsl",
-              "graph",
-              "nebula",
-              "nebula-graph"
-            ]
-          },
-          "title": "bsl-graph",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        }
-      ],
-      "title": "Графовый анализ"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "MCP-сервер для работы с журналом регистрации (ЖР) и технологическим журналом (ТЖ) 1С. Парсинг логов через ClickHouse + Grafana, MCP-доступ для AI-агента.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Сервис для парсинга 1С ЖР и ТЖ (кликхаус + графана). МСР-сервер для доступа к логам и работе с ТЖ (создание, конфигурирование, чтение логов) ИИ-агентом",
-            "homepage": null,
-            "id": 1101167547,
-            "language": "Go",
-            "license": "NOASSERTION",
-            "last_commit": "2026-06-24T13:36:22Z",
-            "open_issues": 0,
-            "owner": "SteelMorgan",
-            "repo": "1c-log-checker",
-            "stars": 73,
-            "topics": []
-          },
-          "title": "1c-log-checker",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
-          "children": [],
-          "description": "Docker-песочница для безопасной работы AI-агента с 1С. Полноценное окружение (клиент + сервер + веб-публикация + БД), изолированное от продуктивных данных.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Песочница под ИИ‑агента для работы с 1С (клиент-сервер). Зачем это нужно? - Что бы ИИ-агент по ошибке вам что нито не удалил (например, весь диск D). Думаете с Вами точно такого не случится? - Я тоже так думал, пока \"случайно\" не потерял 10 лет семейных фото :-)",
-            "homepage": null,
-            "id": 1149595732,
-            "language": "PowerShell",
-            "license": "MIT",
-            "last_commit": "2026-07-07T12:32:25Z",
-            "open_issues": 0,
-            "owner": "SteelMorgan",
-            "repo": "1c-ai-sandbox-client-server",
-            "stars": 43,
-            "topics": []
-          },
-          "title": "1c-ai-sandbox-client-server",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
-          "children": [],
-          "description": "CLI и MCP-сервер на Rust для локального цикла разработки 1С. Один entrypoint собирает исходники, готовит информационную базу, запускает проверки и тесты, выгружает изменения обратно в файлы и отдаёт AI-агентам ограниченную MCP-поверхность.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1188649228,
-            "language": "Rust",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-08-03T00:34:57Z",
-            "open_issues": 21,
-            "owner": "alkoleft",
-            "repo": "v8-runner-rust",
-            "stars": 63,
-            "topics": [
-              "1c-enterprise",
-              "cli",
-              "mcp",
-              "rust",
-              "stdio-mcp",
-              "streamable-http",
-              "yaxunit"
-            ]
-          },
-          "title": "v8-runner",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
-          "children": [],
-          "description": "Коллекция Docker Compose конфигов для оркестрации MCP-серверов для 1С-разработки.\nВключённые серверы:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Конфиги Docker Compose для запуска различных MCP-серверов для 1С",
-            "homepage": null,
-            "id": 1078175926,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2025-10-17T22:25:30Z",
-            "open_issues": 1,
-            "owner": "pravets",
-            "repo": "compose4mcp",
-            "stars": 37,
-            "topics": [
-              "docker",
-              "docker-compose",
               "mcp"
             ]
           },
-          "title": "compose4mcp",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Требования",
-              "description": "1С-клиенты с MCP WS-режимом, например через onec-client-mcp-devkit",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Реализация MCP сервера, который запускается в клиенте 1С:Предприятие",
-                "homepage": null,
-                "id": 1173408057,
-                "language": "1C Enterprise",
-                "license": "LGPL-3.0",
-                "last_commit": "2026-05-26T19:26:11Z",
-                "open_issues": 9,
-                "owner": "1c-neurofish",
-                "repo": "onec-client-mcp-devkit",
-                "stars": 60,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            }
-          ],
-          "description": "Менеджер клиентских сессий 1С для связки 1С-клиентов и AI-агентов. Принимает WebSocket-подключения от 1С-клиентов, агрегирует опубликованные ими MCP-инструменты и отдаёт единый MCP HTTP endpoint.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Менеджер WS-сессий для расширения https://github.com/1c-neurofish/onec-client-mcp-devkit",
-            "homepage": null,
-            "id": 1230645542,
-            "language": "Rust",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-09-27T10:05:16Z",
-            "open_issues": 0,
-            "owner": "1c-neurofish",
-            "repo": "v8-session-manager",
-            "stars": 11,
-            "topics": []
-          },
-          "title": "v8-session-manager",
           "first_seen": "2026-08-28T19:48:31.789Z"
         }
       ],
-      "title": "Инфраструктура и DevOps"
+      "title": "Топ по звёздам"
     },
     {
-      "description": "Новая облачная платформа 1С (1cmycloud.com) — неофициальные MCP-инструменты уже появились в 2026 году.",
-      "items": [
-        {
-          "children": [],
-          "description": "Неофициальный CLI, MCP-сервер и Python-библиотека для документированного Console API v2 платформы 1C:Enterprise.Element. Управляет полным циклом приложения: сборка /-архива из исходников, загрузка, применение и «честная» проверка деплоя — платформа молча откатывает неудачные деплои, поэтому elemctl отдельно проверяет версию проекта и health-check.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "CLI, MCP server, and library for the documented Console API v2 of 1C:Enterprise.Element (1cmycloud): apps, builds, and deploys with reliable apply-verification.",
-            "homepage": "https://docs.keyfire.ru/elemctl/",
-            "id": 1295803898,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-27T09:14:06Z",
-            "open_issues": 2,
-            "owner": "keyfire",
-            "repo": "elemctl",
-            "stars": 10,
-            "topics": []
-          },
-          "title": "elemctl",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
-          "children": [],
-          "description": "Тулкит для платформы 1C:Element: линтер с автофиксами, LSP-сервер, индекс проекта, поиск по документации платформы, скаффолдинг метаданных и MCP-сервер для AI-агентов.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "The XBSL (1C:Element) toolkit - linter with autofixes, LSP server, docs search, metadata scaffolding, MCP server for AI agents, VS Code extension. Bilingual ru/en",
-            "homepage": "https://docs.keyfire.ru/xbsl/",
-            "id": 1312647687,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-27T12:58:49Z",
-            "open_issues": 2,
-            "owner": "keyfire",
-            "repo": "xbsl",
-            "stars": 3,
-            "topics": []
-          },
-          "title": "xbsl",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        }
-      ],
-      "title": "1C:Element"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "Плагин для Codex и Claude Code, который помогает работать с проектами 1С:Предприятие. Это не самостоятельный MCP-сервер общего назначения, а воспроизводимый набор skills, MCP-сервер , сценарии и pinned-инструменты для 1С-разработки.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Unica (Ю́ника) — публичный плагин Codex и Claude Code для разработки на 1С:Предприятии.",
-            "homepage": "https://ingvarconsulting.github.io/unica/",
-            "id": 1227187618,
-            "language": "Rust",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-27T10:53:02Z",
-            "open_issues": 240,
-            "owner": "IngvarConsulting",
-            "repo": "unica",
-            "stars": 203,
-            "topics": [
-              "1c-enterprise",
-              "claude-code-plugin",
-              "codex-plugin",
-              "mcp",
-              "skills"
-            ]
-          },
-          "title": "Unica",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
-          "children": [],
-          "description": "Портативный набор правил, агентов и скиллов для AI-разработки на платформе 1С (BSL). Бывший — переименован и сильно расширен: из Cursor-only проекта вырос в кросс-платформенный тулкит для 11+ AI-инструментов. Не является MCP-сервером напрямую, но активно использует MCP-серверы из этого списка.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Rules\\skills\\subagens for vibecoding in 1C(bsl)",
-            "homepage": null,
-            "id": 1048024121,
-            "language": "PowerShell",
-            "license": null,
-            "last_commit": "2026-09-27T02:35:17Z",
-            "open_issues": 16,
-            "owner": "comol",
-            "repo": "ai_rules_1c",
-            "stars": 466,
-            "topics": []
-          },
-          "title": "ai_rules_1c",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
-          "children": [],
-          "description": "117 skills и 40 правил для Claude Code: агент собирает исходники 1С (метаданные, формы, расширения, роли, СКД, обработки) из компактного JSON и разбирает их обратно в платформенный XML, не работая с файлами как с текстом.\nВозможности:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "116 скилов и 40 правил для Claude Code: агент собирает исходники 1С (метаданные, формы, расширения, роли, СКД, обработки) из компактного JSON и разбирает обратно. Базовые операции - без Конфигуратора.",
-            "homepage": null,
-            "id": 1166958971,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-24T10:53:41Z",
-            "open_issues": 1,
-            "owner": "Desko77",
-            "repo": "claude-code-skills-1c",
-            "stars": 72,
-            "topics": [
-              "1c",
-              "1c-development",
-              "1c-edt",
-              "1c-enterprise",
-              "ai-agent",
-              "anthropic",
-              "bsl",
-              "claude",
-              "claude-code",
-              "claude-skills",
-              "code-generation",
-              "developer-tools",
-              "llm",
-              "mcp",
-              "onec"
-            ]
-          },
-          "title": "claude-code-skills-1c",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        },
-        {
-          "children": [],
-          "description": "Аналог для Cursor IDE — 116 skills и 40 правил на той же XML-модели работы с исходниками 1С.",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "115 скилов и 40 правил для Cursor IDE: агент собирает исходники 1С (метаданные, формы, расширения, роли, СКД, обработки) из компактного JSON и разбирает обратно. Базовые операции - без Конфигуратора.",
-            "homepage": null,
-            "id": 1169533019,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-24T10:53:47Z",
-            "open_issues": 0,
-            "owner": "Desko77",
-            "repo": "cursor-1c-skills",
-            "stars": 63,
-            "topics": [
-              "1c",
-              "1c-development",
-              "1c-edt",
-              "1c-enterprise",
-              "ai-agent",
-              "bsl",
-              "code-generation",
-              "cursor",
-              "cursor-ide",
-              "cursor-skills",
-              "developer-tools",
-              "llm",
-              "mcp",
-              "onec"
-            ]
-          },
-          "title": "cursor-1c-skills",
-          "first_seen": "2026-08-28T19:48:31.789Z"
-        }
-      ],
-      "title": "Наборы правил и скиллов"
-    },
-    {
-      "description": null,
+      "description": "Строка под названием: стек · транспорт MCP · требования · статус. Статусы: ✅ стабилен и развивается · 🚧 бета, API может меняться · 🔬 эксперимент · 📦 не поддерживается.",
       "items": [
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "mcp-1c",
-              "description": "Живая база / метаданные ✅",
               "children": [],
+              "description": "Плагин, который открывает AI-агенту рабочее пространство 1C:EDT. Агент видит проект так же, как вы в IDE: ходит по метаданным и модулям, строит иерархию вызовов, получает подсказки Content Assist, проверяет текст запроса (включая режим СКД), снимает скриншоты форм, обновляет базу и запускает отладку. Главный выбор, если вы живёте в EDT и хотите, чтобы агент опирался на её понимание кода, а не на grep по файлам.\nС версии 2.18 умеет ещё и создать EDT-проект из /// и выгрузить конфигурацию обратно в /.\nJava · HTTP, SSE · EDT 2025.2+ · ✅",
+              "node_type": "item",
               "repo_info": {
                 "archived": false,
-                "description": "MCP server for 1С:Enterprise — AI assistant sees your configuration and generates accurate BSL code. One binary, zero dependencies, 11 tools.",
-                "homepage": "https://feenlace.ru",
-                "id": 1174443757,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-09-26T18:09:40Z",
-                "open_issues": 2,
-                "owner": "feenlace",
-                "repo": "mcp-1c",
-                "stars": 232,
-                "topics": [
-                  "1c",
-                  "1c-enterprise",
-                  "ai",
-                  "ai-assistant",
-                  "bsl",
-                  "code-analysis",
-                  "developer-tools",
-                  "go",
-                  "golang",
-                  "mcp",
-                  "mcp-server",
-                  "model-context-protocol",
-                  "query-optimization"
-                ]
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "1c_mcp",
-              "description": "Фреймворк ✅",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Инструмент для создания MCP-серверов в 1С:Предприятие путем разработки расширения конфигурации. Позволяет интегрировать данные и функциональность 1С с AI-ассистентами (Claude, Cursor и т.д.). Включает Python-прокси и пример расширения 1С с готовыми инструментами.",
+                "description": "MCP for 1C:EDT",
                 "homepage": null,
-                "id": 996690677,
-                "language": "1C Enterprise",
-                "license": null,
-                "last_commit": "2026-09-27T08:28:15Z",
-                "open_issues": 7,
-                "owner": "vladimir-kharin",
-                "repo": "1c_mcp",
-                "stars": 515,
-                "topics": [
-                  "mcp"
-                ]
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Unica",
-              "description": "Плагин и скиллы для Codex и Claude ✅",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Unica (Ю́ника) — публичный плагин Codex и Claude Code для разработки на 1С:Предприятии.",
-                "homepage": "https://ingvarconsulting.github.io/unica/",
-                "id": 1227187618,
-                "language": "Rust",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-27T10:53:02Z",
-                "open_issues": 240,
-                "owner": "IngvarConsulting",
-                "repo": "unica",
-                "stars": 203,
+                "id": 1127068869,
+                "language": "Java",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-09-27T15:17:01Z",
+                "open_issues": 79,
+                "owner": "DitriXNew",
+                "repo": "EDT-MCP",
+                "stars": 289,
                 "topics": [
                   "1c-enterprise",
-                  "claude-code-plugin",
-                  "codex-plugin",
+                  "edt",
                   "mcp",
-                  "skills"
+                  "mcp-server"
                 ]
               },
+              "title": "EDT-MCP",
               "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
-              "node_type": "item",
-              "title": "ai_rules_1c",
-              "description": "Правила и скиллы ✅",
               "children": [],
+              "description": "Живая семантическая модель EDT для агента — не только чтение, но и запись. Агент спрашивает не файлы, а запущенную IDE: реальные ошибки валидации EDT, типы метаданных, перекрёстные ссылки, проверку запроса по метаданным проекта, синтакс-помощник. Плюс инструменты записи и рефакторинга, работа с ИБ и отладчик. Запись защищена токеном и сначала возвращает план. Автор — тот же, что у elemctl и xbsl.\nJava · HTTP (localhost) · EDT · 🚧",
+              "node_type": "item",
               "repo_info": {
                 "archived": false,
-                "description": "Rules\\skills\\subagens for vibecoding in 1C(bsl)",
-                "homepage": null,
-                "id": 1048024121,
-                "language": "PowerShell",
-                "license": null,
-                "last_commit": "2026-09-27T02:35:17Z",
-                "open_issues": 16,
-                "owner": "comol",
-                "repo": "ai_rules_1c",
-                "stars": 466,
+                "description": "Live 1C:EDT semantic model over MCP – read + write/refactor + debug, localhost. Eclipse/OSGi plugin for AI agents and tools",
+                "homepage": "https://docs.keyfire.ru/edt-bridge/",
+                "id": 1280241714,
+                "language": "Java",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-23T05:14:43Z",
+                "open_issues": 0,
+                "owner": "keyfire",
+                "repo": "edt-bridge",
+                "stars": 27,
                 "topics": []
               },
-              "first_seen": "2026-08-28T19:48:31.789Z"
+              "title": "edt-bridge",
+              "first_seen": "2026-09-28T16:18:39.546Z"
             },
             {
-              "node_type": "item",
-              "title": "claude-code-skills-1c",
-              "description": "Skills для Claude Code ✅",
               "children": [],
+              "description": "MCP-сервер внутри EDT, который отвечает на вопросы «что от чего зависит». Какие формы, роли и подсистемы используют справочник, на какой объект указывает ссылка — всё через семантическую модель EDT, а не поиском по XML. Есть валидация и живая отладка. Работает в паре с claude-code-skills-1c того же автора. EDT 2026.1–2026.2.\nJava · HTTP · EDT 2026.1+ · 🚧",
+              "node_type": "item",
               "repo_info": {
                 "archived": false,
-                "description": "116 скилов и 40 правил для Claude Code: агент собирает исходники 1С (метаданные, формы, расширения, роли, СКД, обработки) из компактного JSON и разбирает обратно. Базовые операции - без Конфигуратора.",
-                "homepage": null,
-                "id": 1166958971,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-24T10:53:41Z",
-                "open_issues": 1,
-                "owner": "Desko77",
-                "repo": "claude-code-skills-1c",
-                "stars": 72,
-                "topics": [
-                  "1c",
-                  "1c-development",
-                  "1c-edt",
-                  "1c-enterprise",
-                  "ai-agent",
-                  "anthropic",
-                  "bsl",
-                  "claude",
-                  "claude-code",
-                  "claude-skills",
-                  "code-generation",
-                  "developer-tools",
-                  "llm",
-                  "mcp",
-                  "onec"
-                ]
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "cursor-1c-skills",
-              "description": "Skills для Cursor ✅",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "115 скилов и 40 правил для Cursor IDE: агент собирает исходники 1С (метаданные, формы, расширения, роли, СКД, обработки) из компактного JSON и разбирает обратно. Базовые операции - без Конфигуратора.",
-                "homepage": null,
-                "id": 1169533019,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-24T10:53:47Z",
+                "description": "MCP-сервер внутри 1C:EDT: дает AI-агентам семантический доступ к проекту - код BSL, метаданные, валидация и живая отладка",
+                "homepage": "https://desko77.github.io/ai-edt/",
+                "id": 1323136625,
+                "language": "Java",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-09-24T12:02:54Z",
                 "open_issues": 0,
                 "owner": "Desko77",
-                "repo": "cursor-1c-skills",
-                "stars": 63,
+                "repo": "ai-edt",
+                "stars": 16,
                 "topics": [
                   "1c",
-                  "1c-development",
                   "1c-edt",
                   "1c-enterprise",
                   "ai-agent",
+                  "ai-assistant",
+                  "ai-tools",
                   "bsl",
-                  "code-generation",
-                  "cursor",
-                  "cursor-ide",
-                  "cursor-skills",
-                  "developer-tools",
-                  "llm",
+                  "claude-code",
+                  "eclipse-plugin",
+                  "edt",
                   "mcp",
-                  "onec"
+                  "mcp-server",
+                  "model-context-protocol"
                 ]
               },
-              "first_seen": "2026-08-28T19:48:31.789Z"
+              "title": "AI-EDT",
+              "first_seen": "2026-09-28T16:18:39.546Z"
             },
             {
-              "node_type": "item",
-              "title": "1c-ai-mcp",
-              "description": "1С:Напарник ✅",
               "children": [],
+              "description": "Плагин EDT со 106 MCP-инструментами — самый широкий охват IDE. Workspace, модули, метаданные, формы, СКД, информационные базы (включая синхронизацию /), журнал регистрации, отладка, запуск клиента и xUnitFor1C. Внимание: у репозитория нет лицензии, для коммерческого использования уточняйте у автора.\nJava · HTTP, SSE · EDT 2023.x–2026.x · 🚧",
+              "node_type": "item",
               "repo_info": {
                 "archived": false,
-                "description": "MCP-сервер для интеграции IDE с API 1С:Напарник (code.1c.ai)",
-                "homepage": null,
-                "id": 1176684285,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-22T10:28:19Z",
-                "open_issues": 2,
-                "owner": "Desko77",
-                "repo": "1c-ai-mcp",
-                "stars": 8,
+                "description": "MCP server plugin for 1C:Enterprise Development Tools - 106 MCP tools for managing projects, BSL modules, metadata, forms, DCS reports, infobases (incl. .dt/.cfe sync), the event log, debugging, client launching and xUnitFor1C from any MCP client.",
+                "homepage": "https://fedukhin-sys.github.io/1C_EDT_MCP_PUBLIC/",
+                "id": 1250553890,
+                "language": "Java",
+                "license": null,
+                "last_commit": "2026-09-28T05:50:12Z",
+                "open_issues": 1,
+                "owner": "fedukhin-sys",
+                "repo": "1C_EDT_MCP_PUBLIC",
+                "stars": 16,
                 "topics": []
               },
-              "first_seen": "2026-08-28T19:48:31.789Z"
+              "title": "1C_EDT_MCP_PUBLIC",
+              "first_seen": "2026-09-28T16:18:39.546Z"
             },
             {
-              "node_type": "item",
-              "title": "elemctl",
-              "description": "1C:Element 🔬",
               "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CLI, MCP server, and library for the documented Console API v2 of 1C:Enterprise.Element (1cmycloud): apps, builds, and deploys with reliable apply-verification.",
-                "homepage": "https://docs.keyfire.ru/elemctl/",
-                "id": 1295803898,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-27T09:14:06Z",
-                "open_issues": 2,
-                "owner": "keyfire",
-                "repo": "elemctl",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
+              "description": "AI-ассистент, встроенный прямо в EDT: чат, агентный режим и MCP Host. Не сервер для внешнего агента, а сам агент внутри IDE. Работает с BSL AST, формами и метаданными, умеет запускать QA-команды и подключать сторонние MCP-серверы. Можно подставить свою модель. Удобен тем, кто не хочет выходить из EDT в терминал.\nJava · MCP Host · EDT, JDK 17 · ✅",
               "node_type": "item",
-              "title": "xbsl",
-              "description": "1C:Element 🔬",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The XBSL (1C:Element) toolkit - linter with autofixes, LSP server, docs search, metadata scaffolding, MCP server for AI agents, VS Code extension. Bilingual ru/en",
-                "homepage": "https://docs.keyfire.ru/xbsl/",
-                "id": 1312647687,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-27T12:58:49Z",
-                "open_issues": 2,
-                "owner": "keyfire",
-                "repo": "xbsl",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CodePilot1C",
-              "description": "IDE ✅",
-              "children": [],
               "repo_info": {
                 "archived": false,
                 "description": "CodePilot1C plugin for 1C:EDT (Eclipse RCP/OSGi) — OSS edition",
@@ -1235,13 +506,13 @@
                 "stars": 153,
                 "topics": []
               },
+              "title": "CodePilot1C",
               "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
-              "node_type": "item",
-              "title": "1C: Platform Tools MCP",
-              "description": "IDE ✅",
               "children": [],
+              "description": "MCP-обёртка над VS Code-расширением 1C: Platform Tools. Всё, что расширение умеет делать с проектом 1С (сборка, выгрузка, запуск и т. п.), становится доступным агенту в Cursor, VS Code или любом MCP-клиенте. С версии 0.3 — ещё и запросы к данным базы через OData. Для тех, кто ведёт 1С-проекты в VS Code, а не в EDT.\nTypeScript · stdio · VS Code/Cursor + расширение · ✅",
+              "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "description": "MCP-сервер расширения 1C: Platform Tools для агентов Visual Studio Code (Cursor) по IPC.",
@@ -1253,112 +524,70 @@
                 "open_issues": 0,
                 "owner": "yellow-hammer",
                 "repo": "mcp-1c-platform-tools",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "1c-enterprise",
                   "vscode-mcp"
                 ]
               },
+              "title": "1C: Platform Tools MCP",
               "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
-              "node_type": "item",
-              "title": "mcp-1c-v1",
-              "description": "RAG / метаданные 🚧",
               "children": [],
+              "description": "Лёгкий редактор BSL и «глаза» для агента без запуска 1С. Standalone-редактор на Monaco, просмотр форм и макетов так, как они выглядят в Конфигураторе, отчёты проверок кода и MCP-инструменты, чтобы агент мог «увидеть» форму. Ставится одной командой PowerShell и сам подключается к Claude Code, Codex и Cursor.\nJavaScript · MCP · Windows · ✅",
+              "node_type": "item",
               "repo_info": {
                 "archived": false,
-                "description": "MCP сервер с RAG описанием структуры конфигурации 1С",
+                "description": "BslEdit — standalone editor for 1C:Enterprise BSL/OS files (Monaco) + BSLView Total Commander Lister plugin, form/template preview and MCP tools",
                 "homepage": null,
-                "id": 999971503,
-                "language": "TypeScript",
+                "id": 1194822225,
+                "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2025-08-04T03:33:10Z",
-                "open_issues": 1,
-                "owner": "fserg",
-                "repo": "mcp-1c-v1",
-                "stars": 165,
+                "last_commit": "2026-09-26T12:17:35Z",
+                "open_issues": 0,
+                "owner": "alonehobo",
+                "repo": "BslEdit",
+                "stars": 33,
                 "topics": []
               },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
+              "title": "BslEdit",
+              "first_seen": "2026-09-28T16:18:39.546Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IDE-интеграции"
+        },
+        {
+          "children": [
             {
-              "node_type": "item",
-              "title": "mcp-bsl-platform-context",
-              "description": "Справка платформы ✅",
               "children": [],
+              "description": "Фреймворк, чтобы сделать MCP-сервер из самой базы 1С. Ставите расширение — вся механика протокола уже внутри. Вам остаётся на BSL описать свои инструменты ( / ), и агент сможет вызывать вашу бизнес-логику. Поддерживает resources и prompts, подключается напрямую по HTTP, через Python-прокси (stdio + OAuth2) или в Docker. Самый популярный проект каталога.\nBSL, Python · HTTP, stdio · 8.3+ · ✅",
+              "node_type": "item",
               "repo_info": {
                 "archived": false,
-                "description": "MCP сервер для AI-ассистентов (справка по синтаксису и объектной модели 1С:Предприятие)",
+                "description": "Инструмент для создания MCP-серверов в 1С:Предприятие путем разработки расширения конфигурации. Позволяет интегрировать данные и функциональность 1С с AI-ассистентами (Claude, Cursor и т.д.). Включает Python-прокси и пример расширения 1С с готовыми инструментами.",
                 "homepage": null,
-                "id": 1012038321,
-                "language": "Kotlin",
-                "license": "MIT",
-                "last_commit": "2026-03-10T23:43:22Z",
-                "open_issues": 12,
-                "owner": "alkoleft",
-                "repo": "mcp-bsl-platform-context",
-                "stars": 196,
+                "id": 996690677,
+                "language": "1C Enterprise",
+                "license": null,
+                "last_commit": "2026-09-27T14:34:27Z",
+                "open_issues": 7,
+                "owner": "vladimir-kharin",
+                "repo": "1c_mcp",
+                "stars": 518,
                 "topics": [
-                  "bsl",
-                  "mcp",
-                  "mcp-server"
+                  "mcp"
                 ]
               },
+              "title": "1c_mcp",
               "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
-              "node_type": "item",
-              "title": "EDT-MCP",
-              "description": "IDE ✅",
               "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP for 1C:EDT",
-                "homepage": null,
-                "id": 1127068869,
-                "language": "Java",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-09-27T07:09:55Z",
-                "open_issues": 73,
-                "owner": "DitriXNew",
-                "repo": "EDT-MCP",
-                "stars": 289,
-                "topics": [
-                  "1c-enterprise",
-                  "edt",
-                  "mcp",
-                  "mcp-server"
-                ]
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
+              "description": "Живая база для агента за пять минут — просто открыть обработку. HTTP-сервер поднимается прямо внутри : не нужно менять конфигурацию, публиковать базу на веб-сервере или возиться с COM. Агент выполняет запросы и код, читает метаданные, журнал регистрации и объекты по ссылке. Есть REST API для агентов без MCP, анонимизация чувствительных данных и готовые skills. Хороший вариант «подключиться к клиентской базе и посмотреть».\nBSL, Python · HTTP · 8.2.13+ · ✅",
               "node_type": "item",
-              "title": "mcp-onec-test-runner",
-              "description": "Тестирование ✅",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP‑сервер для сборки (обновления базы) и запуска тестов YaXUnit в проектах 1С:Предприятие из AI‑ассистентов (Claude, GPT, VS Code и др.).",
-                "homepage": null,
-                "id": 1029322300,
-                "language": "Kotlin",
-                "license": "GPL-3.0",
-                "last_commit": "2026-03-22T21:40:47Z",
-                "open_issues": 21,
-                "owner": "alkoleft",
-                "repo": "mcp-onec-test-runner",
-                "stars": 113,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "1c-mcp-toolkit",
-              "description": "Фреймворк ✅",
-              "children": [],
               "repo_info": {
                 "archived": false,
                 "description": "MCP и REST API сервер для получения метаданных и данных из базы 1С",
@@ -1370,413 +599,19 @@
                 "open_issues": 17,
                 "owner": "ROCTUP",
                 "repo": "1c-mcp-toolkit",
-                "stars": 279,
+                "stars": 280,
                 "topics": [
                   "1c",
                   "mcp"
                 ]
               },
+              "title": "1c-mcp-toolkit",
               "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
-              "node_type": "item",
-              "title": "1C_MCP_metadata",
-              "description": "Метаданные 🚧",
               "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP сервер для получения метаданных конфигурации 1С",
-                "homepage": null,
-                "id": 1003262080,
-                "language": "1C Enterprise",
-                "license": null,
-                "last_commit": "2025-06-18T16:50:09Z",
-                "open_issues": 2,
-                "owner": "artesk",
-                "repo": "1C_MCP_metadata",
-                "stars": 63,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
+              "description": "ИИ-платформа внутри 1С, которая ставится расширением. Не только MCP-сервер для внешних агентов, но и агентская петля с function calling к пяти+ провайдерам (OpenAI, Anthropic, Google, DeepSeek, GigaChat, Yandex), RAG по базе знаний на Qdrant, мониторинг ошибок с ИИ-диагнозом и алертами в Telegram, генератор диаграмм. Подходит, когда AI нужен пользователям самой 1С, а не только разработчику.\nBSL · HTTP · 8.3.24+, БСП 3.1.10+ · ✅",
               "node_type": "item",
-              "title": "1c-mcp-metacode",
-              "description": "Граф кода ✅",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP сервер с встроенным AI агентом для поиска  по графу метаданных и кода конфигураций 1С",
-                "homepage": null,
-                "id": 1062812429,
-                "language": "Python",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-08-19T01:09:39Z",
-                "open_issues": 9,
-                "owner": "ROCTUP",
-                "repo": "1c-mcp-metacode",
-                "stars": 102,
-                "topics": [
-                  "1c",
-                  "mcp"
-                ]
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rlm-tools-bsl",
-              "description": "RLM-анализ BSL ✅",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP-сервер для токен-эффективного анализа кодовых баз 1С (BSL) — 66 хелперов, SQLite-индекс, поддержка CF/EDT/CFE",
-                "homepage": null,
-                "id": 1180737932,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-26T16:00:22Z",
-                "open_issues": 4,
-                "owner": "Dach-Coin",
-                "repo": "rlm-tools-bsl",
-                "stars": 198,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "1c-syntax-helper-mcp",
-              "description": "Документация ✅",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP сервер для поиска по синтаксису 1С",
-                "homepage": null,
-                "id": 1045123293,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-09-11T19:42:10Z",
-                "open_issues": 4,
-                "owner": "Antonio1C",
-                "repo": "1c-syntax-helper-mcp",
-                "stars": 73,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "1c-buddy",
-              "description": "1С:Напарник ✅",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Чат, MCP и OpenAI API сервер для общения с 1С:Напарник",
-                "homepage": null,
-                "id": 1090201718,
-                "language": "JavaScript",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-08-09T19:11:01Z",
-                "open_issues": 3,
-                "owner": "ROCTUP",
-                "repo": "1c-buddy",
-                "stars": 102,
-                "topics": [
-                  "1c",
-                  "mcp"
-                ]
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "bsl-graph",
-              "description": "Графовый анализ 🚧",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "BSL Graph: Анализатор и визуализатор конфигураций 1С: Предприятие",
-                "homepage": null,
-                "id": 1060785744,
-                "language": "Kotlin",
-                "license": "MIT",
-                "last_commit": "2025-09-20T21:59:54Z",
-                "open_issues": 2,
-                "owner": "alkoleft",
-                "repo": "bsl-graph",
-                "stars": 48,
-                "topics": [
-                  "1c-enterprise",
-                  "bsl",
-                  "graph",
-                  "nebula",
-                  "nebula-graph"
-                ]
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "spring-mcp-1c-copilot",
-              "description": "1С:Напарник 🚧",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "МСР-сервер для обращения к 1С.Напарник (поддержка SSE и docker-контейнеризации)",
-                "homepage": null,
-                "id": 1071826928,
-                "language": "Kotlin",
-                "license": "NOASSERTION",
-                "last_commit": "2026-07-03T22:12:38Z",
-                "open_issues": 0,
-                "owner": "SteelMorgan",
-                "repo": "spring-mcp-1c-copilot",
-                "stars": 46,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "compose4mcp",
-              "description": "Оркестрация ✅",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Конфиги Docker Compose для запуска различных MCP-серверов для 1С",
-                "homepage": null,
-                "id": 1078175926,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2025-10-17T22:25:30Z",
-                "open_issues": 1,
-                "owner": "pravets",
-                "repo": "compose4mcp",
-                "stars": 37,
-                "topics": [
-                  "docker",
-                  "docker-compose",
-                  "mcp"
-                ]
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "v8-session-manager",
-              "description": "Оркестрация сессий 🚧",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Менеджер WS-сессий для расширения https://github.com/1c-neurofish/onec-client-mcp-devkit",
-                "homepage": null,
-                "id": 1230645542,
-                "language": "Rust",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-09-27T10:05:16Z",
-                "open_issues": 0,
-                "owner": "1c-neurofish",
-                "repo": "v8-session-manager",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "1c-ai-sandbox",
-              "description": "Песочница 🔬",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Песочница под ИИ‑агента для работы с 1С (клиент-сервер). Зачем это нужно? - Что бы ИИ-агент по ошибке вам что нито не удалил (например, весь диск D). Думаете с Вами точно такого не случится? - Я тоже так думал, пока \"случайно\" не потерял 10 лет семейных фото :-)",
-                "homepage": null,
-                "id": 1149595732,
-                "language": "PowerShell",
-                "license": "MIT",
-                "last_commit": "2026-07-07T12:32:25Z",
-                "open_issues": 0,
-                "owner": "SteelMorgan",
-                "repo": "1c-ai-sandbox-client-server",
-                "stars": 43,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "onec-help-mcp",
-              "description": "Справка (RAG) ✅",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP сервер по справке платформы 1С с поддержкой семантического поиска",
-                "homepage": null,
-                "id": 1155957008,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-02-12T19:38:59Z",
-                "open_issues": 1,
-                "owner": "rzateev",
-                "repo": "onec-help-mcp",
-                "stars": 22,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "bsl-analyzer",
-              "description": "BSL-анализатор и LSP 🚧",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Анализатор кода BSL (1С:Предприятие) с поддержкой LSP. Написан на Rust.",
-                "homepage": "https://t.me/+K7CcQPNZobE3YjUy",
-                "id": 1175453476,
-                "language": "Rust",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-26T10:13:22Z",
-                "open_issues": 74,
-                "owner": "itrous",
-                "repo": "bsl-analyzer",
-                "stars": 102,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "mcp-bsl-lsp-bridge",
-              "description": "BSL LS мост 🚧",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP-сервер, который даёт ИИ-агентам (Cursor, Claude Code и др.) доступ к возможностям BSL Language Server для работы с кодом 1С и OneScript: навигация, поиск, диагностика, рефакторинг. Цель - обеспечить детерминированные операции над кодом и экономия токенов (конечно модель всё может сделать грепами, но сколько токенов сожжет?)",
-                "homepage": null,
-                "id": 1141694908,
-                "language": "Go",
-                "license": "Apache-2.0",
-                "last_commit": "2026-07-03T19:39:52Z",
-                "open_issues": 0,
-                "owner": "SteelMorgan",
-                "repo": "mcp-bsl-lsp-bridge",
-                "stars": 67,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "bsl-mcp",
-              "description": "Линтер BSL ✅",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1082476099,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-11-12T19:27:35Z",
-                "open_issues": 0,
-                "owner": "phsin",
-                "repo": "mcp-bsl-ls",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "v8-runner",
-              "description": "Локальный workflow и DevOps 🚧",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1188649228,
-                "language": "Rust",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-08-03T00:34:57Z",
-                "open_issues": 21,
-                "owner": "alkoleft",
-                "repo": "v8-runner-rust",
-                "stars": 63,
-                "topics": [
-                  "1c-enterprise",
-                  "cli",
-                  "mcp",
-                  "rust",
-                  "stdio-mcp",
-                  "streamable-http",
-                  "yaxunit"
-                ]
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "1c-log-checker",
-              "description": "Логи ЖР/ТЖ 🚧",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Сервис для парсинга 1С ЖР и ТЖ (кликхаус + графана). МСР-сервер для доступа к логам и работе с ТЖ (создание, конфигурирование, чтение логов) ИИ-агентом",
-                "homepage": null,
-                "id": 1101167547,
-                "language": "Go",
-                "license": "NOASSERTION",
-                "last_commit": "2026-06-24T13:36:22Z",
-                "open_issues": 0,
-                "owner": "SteelMorgan",
-                "repo": "1c-log-checker",
-                "stars": 73,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "1c-rest-mcp",
-              "description": "REST API ✅",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "aprovodka — MCP server for 1C:Enterprise via REST/OData 3.0. 34 tools: catalogs, documents, registers, accounting, batch, change-tracking. No BSL extension required.",
-                "homepage": "https://theyahia.github.io/aprovodka/",
-                "id": 1196390720,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-09-05T13:51:49Z",
-                "open_issues": 0,
-                "owner": "theYahia",
-                "repo": "aprovodka",
-                "stars": 12,
-                "topics": [
-                  "1c",
-                  "ai-agents",
-                  "anthropic",
-                  "claude",
-                  "emerging-markets",
-                  "erp",
-                  "mcp",
-                  "mcp-servers",
-                  "model-context-protocol",
-                  "russia",
-                  "russian-api",
-                  "typescript"
-                ]
-              },
-              "first_seen": "2026-08-28T19:48:31.789Z"
-            },
-            {
-              "node_type": "item",
-              "title": "1c-ai-connector (ИИкона)",
-              "description": "ИИ-платформа: агенты, RAG, MCP ✅",
-              "children": [],
               "repo_info": {
                 "archived": false,
                 "description": "ИИкона — AI-коннектор для 1С:Предприятие 8.3: LLM-провайдеры, агентская петля (function calling), RAG, MCP-сервер, мониторинг ошибок с ИИ-анализом, генератор диаграмм",
@@ -1810,13 +645,771 @@
                   "yandexgpt"
                 ]
               },
+              "title": "ИИкона (1c-ai-connector)",
               "first_seen": "2026-08-28T19:48:31.789Z"
             },
             {
-              "node_type": "item",
-              "title": "1c-accounting-mcp",
-              "description": "Бухгалтерия 🔬",
               "children": [],
+              "description": "MCP-сервер, который живёт прямо в клиенте 1С:Предприятие. Расширение поднимает сервер в клиентском контуре через внешнюю компоненту WebTransport: агенту доступны tools, resources и prompts от имени открытого сеанса пользователя. На нём, например, строят «ИИ-оператора», который работает в интерфейсе вместо человека. Стабильного релиза пока нет.\nBSL · WebTransport · 🚧",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Реализация MCP сервера, который запускается в клиенте 1С:Предприятие",
+                "homepage": null,
+                "id": 1173408057,
+                "language": "1C Enterprise",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-05-26T19:26:11Z",
+                "open_issues": 9,
+                "owner": "1c-neurofish",
+                "repo": "onec-client-mcp-devkit",
+                "stars": 60,
+                "topics": []
+              },
+              "title": "onec-client-mcp-devkit",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Собирает инструменты нескольких открытых клиентов 1С в один MCP endpoint. Клиенты 1С подключаются по WebSocket и публикуют свои tools (например, через onec-client-mcp-devkit), а агент видит их единым списком с префиксами по сессиям. Нужен, когда агент должен работать с несколькими базами или сеансами одновременно.\nRust · HTTP · 🚧",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Менеджер WS-сессий для расширения https://github.com/1c-neurofish/onec-client-mcp-devkit",
+                "homepage": null,
+                "id": 1230645542,
+                "language": "Rust",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-09-27T10:05:16Z",
+                "open_issues": 0,
+                "owner": "1c-neurofish",
+                "repo": "v8-session-manager",
+                "stars": 11,
+                "topics": []
+              },
+              "title": "v8-session-manager",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Живая база и фреймворки"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Один Go-бинарник, который даёт агенту и живую базу, и поиск по коду. Подключается к HTTP-сервису 1С (расширение ставит сам): метаданные, формы, запросы с параметрами, журнал регистрации. Если рядом лежит выгрузка конфигурации — ищет по BSL (BM25, regex, точное совпадение). Без Python, Docker и прочего рантайма — скачал и запустил.\nGo · stdio · 8.3+ · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP server for 1С:Enterprise — AI assistant sees your configuration and generates accurate BSL code. One binary, zero dependencies, 11 tools.",
+                "homepage": "https://feenlace.ru",
+                "id": 1174443757,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-09-26T18:09:40Z",
+                "open_issues": 2,
+                "owner": "feenlace",
+                "repo": "mcp-1c",
+                "stars": 233,
+                "topics": [
+                  "1c",
+                  "1c-enterprise",
+                  "ai",
+                  "ai-assistant",
+                  "bsl",
+                  "code-analysis",
+                  "developer-tools",
+                  "go",
+                  "golang",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "query-optimization"
+                ]
+              },
+              "title": "mcp-1c",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Анализ огромных конфигураций (ERP, УХ) без RAG и без траты токенов на чтение файлов. Вместо того чтобы агент сам читал тысячи модулей, он пишет короткие скрипты в песочнице с 60+ хелперами поверх SQLite-индекса методов и графа вызовов. Понимает CF, EDT, CFE, MDO и кириллицу. Хорош для вопросов «как устроен этот механизм» и «где это вызывается».\nPython · HTTP, stdio · платформа не нужна · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP-сервер для токен-эффективного анализа кодовых баз 1С (BSL) — 66 хелперов, SQLite-индекс, поддержка CF/EDT/CFE",
+                "homepage": null,
+                "id": 1180737932,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-28T12:40:28Z",
+                "open_issues": 4,
+                "owner": "Dach-Coin",
+                "repo": "rlm-tools-bsl",
+                "stars": 198,
+                "topics": []
+              },
+              "title": "rlm-tools-bsl",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Быстрый индекс кода для агента: один бинарник, SQLite, ответ за миллисекунды. Разбирает выгрузки Конфигуратора и EDT (конфигурация на 88 тыс. файлов индексируется минут за шесть) и даёт 32 инструмента: 20 универсальных на tree-sitter для 14 языков и 12 специально под 1С/BSL. Ставится одной командой, без Python и Docker. Хорош, когда агенту нужно быстро найти «где объявлено» и «кто вызывает» в большой конфигурации.\nRust · stdio · платформа не нужна · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Поиск по коду для ИИ-агентов: 32 инструмента MCP, индекс на SQLite, один бинарник без зависимостей. Разбирает выгрузки 1С:Предприятие — Конфигуратор и EDT; конфигурация на 88 тыс. файлов индексируется за 6 минут, ответ на запрос — 10 мс. Code index MCP server: tree-sitter AST for 14 languages, 20 universal tools + 12 for 1C/BSL.",
+                "homepage": "https://infostart.ru/1c/tools/2677918/",
+                "id": 1194762164,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-09-28T04:29:27Z",
+                "open_issues": 1,
+                "owner": "Regsorm",
+                "repo": "code-index-mcp",
+                "stars": 130,
+                "topics": [
+                  "1c-enterprise",
+                  "ast",
+                  "bsl",
+                  "code-index",
+                  "code-search",
+                  "developer-tools",
+                  "mcp",
+                  "model-context-protocol",
+                  "onescript",
+                  "rust",
+                  "tree-sitter"
+                ]
+              },
+              "title": "code-index-mcp",
+              "first_seen": "2026-09-28T16:18:39.546Z"
+            },
+            {
+              "children": [],
+              "description": "Индекс и поиск по исходникам 1С: процедуры, метаданные, связи и граф вызовов. Работает с XML/BSL-выгрузкой конфигурации или расширения. Режим — структурный поиск через SQLite/FTS без внешних embedding API, полный режим добавляет векторный поиск. Переиндексация после новой выгрузки.\nPython · MCP · Docker · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP-сервер для 1С/BSL: векторный поиск, структурный индекс, граф вызовов",
+                "homepage": null,
+                "id": 1169242166,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-07-26T21:10:47Z",
+                "open_issues": 1,
+                "owner": "Arman-Kudaibergenov",
+                "repo": "bsl-atlas",
+                "stars": 78,
+                "topics": []
+              },
+              "title": "bsl-atlas",
+              "first_seen": "2026-09-28T16:18:39.546Z"
+            },
+            {
+              "children": [],
+              "description": "Конфигурация в виде графа в Neo4j: объекты, модули, процедуры и связи между ними. Грузит метаданные прямо из XML-выгрузки (можно по расписанию), учитывает расширения, строит граф вызовов, делает семантический поиск по BSL и AI-саммари объектов. С версии 2.0 — 22 типизированных инструмента и веб-консоль со встроенным агентом. Для тех, кому нужен «гугл по конфигурации» для всей команды.\nPython · stdio · Neo4j · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP сервер с встроенным AI агентом для поиска  по графу метаданных и кода конфигураций 1С",
+                "homepage": null,
+                "id": 1062812429,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-19T01:09:39Z",
+                "open_issues": 10,
+                "owner": "ROCTUP",
+                "repo": "1c-mcp-metacode",
+                "stars": 102,
+                "topics": [
+                  "1c",
+                  "mcp"
+                ]
+              },
+              "title": "1c-mcp-metacode",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Граф знаний конфигурации в NebulaGraph с интерактивной визуализацией. Разбирает выгрузку Конфигуратора или EDT и позволяет и человеку (веб-интерфейс на Sigma.js), и агенту (MCP) исследовать связи между объектами. Не обновлялся с осени 2025.\nKotlin · MCP, REST · JDK 17, NebulaGraph · 🚧",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "BSL Graph: Анализатор и визуализатор конфигураций 1С: Предприятие",
+                "homepage": null,
+                "id": 1060785744,
+                "language": "Kotlin",
+                "license": "MIT",
+                "last_commit": "2025-09-20T21:59:54Z",
+                "open_issues": 2,
+                "owner": "alkoleft",
+                "repo": "bsl-graph",
+                "stars": 48,
+                "topics": [
+                  "1c-enterprise",
+                  "bsl",
+                  "graph",
+                  "nebula",
+                  "nebula-graph"
+                ]
+              },
+              "title": "bsl-graph",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "RAG по структуре конфигурации: «найди, где хранится X» на естественном языке. Обработка выгружает структуру, Docker Compose поднимает Qdrant, эмбеддинги, загрузчик и MCP-сервер. Один из первых проектов в нише, давно не обновлялся.\nTypeScript · HTTP · Docker · 🚧",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP сервер с RAG описанием структуры конфигурации 1С",
+                "homepage": null,
+                "id": 999971503,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2025-08-04T03:33:10Z",
+                "open_issues": 1,
+                "owner": "fserg",
+                "repo": "mcp-1c-v1",
+                "stars": 166,
+                "topics": []
+              },
+              "title": "mcp-1c-v1",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Метаданные конфигурации через расширение с HTTP-сервисом и PowerShell-мостом. Структура, поиск по имени/синониму и проверка текста запроса. Минималистичный вариант без Python и Docker. Не обновлялся с 2025 года.\nBSL, PowerShell · stdio · 8.3+ · 🚧",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP сервер для получения метаданных конфигурации 1С",
+                "homepage": null,
+                "id": 1003262080,
+                "language": "1C Enterprise",
+                "license": null,
+                "last_commit": "2025-06-18T16:50:09Z",
+                "open_issues": 2,
+                "owner": "artesk",
+                "repo": "1C_MCP_metadata",
+                "stars": 63,
+                "topics": []
+              },
+              "title": "1C_MCP_metadata",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Метаданные и анализ кода"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Синтакс-помощник для AI — чтобы агент перестал выдумывать методы платформы. Нечёткий поиск по типам, методам, свойствам и конструкторам, данные берутся из установленной платформы. Подключается первым делом почти в любой связке.\nKotlin · stdio, SSE · JDK 17, 8.3.20+ · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP сервер для AI-ассистентов (справка по синтаксису и объектной модели 1С:Предприятие)",
+                "homepage": null,
+                "id": 1012038321,
+                "language": "Kotlin",
+                "license": "MIT",
+                "last_commit": "2026-03-10T23:43:22Z",
+                "open_issues": 12,
+                "owner": "alkoleft",
+                "repo": "mcp-bsl-platform-context",
+                "stars": 196,
+                "topics": [
+                  "bsl",
+                  "mcp",
+                  "mcp-server"
+                ]
+              },
+              "title": "mcp-bsl-platform-context",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Справка платформы плюс проверка, что агент не выдумал метод или значение перечисления. Берёт данные из синтакс-помощника платформы (, запускать 1С не нужно) и умеет статически проверять BSL-выражения по реальному индексу: существует ли такой метод у типа, есть ли такое системное перечисление. Ловит именно те галлюцинации, которые линтер пропускает.\nRust · MCP · 🚧",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP-сервер контекста платформы 1С (типы, методы, перечисления + валидация BSL-выражений)",
+                "homepage": null,
+                "id": 1246695181,
+                "language": "Rust",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-19T11:08:55Z",
+                "open_issues": 0,
+                "owner": "Regsorm",
+                "repo": "bsl-context",
+                "stars": 25,
+                "topics": []
+              },
+              "title": "bsl-context",
+              "first_seen": "2026-09-28T16:18:39.546Z"
+            },
+            {
+              "children": [],
+              "description": "Python-порт mcp-bsl-platform-context с гибридным поиском и стандартами кода. Keyword, semantic (Qdrant) и hybrid-поиск по API платформы, документация по строгой типизации BSL и стилю, автоопределение версии платформы. Не требует Java.\nPython · stdio, SSE, HTTP · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP-сервер: документация API платформы 1С, строгая типизация BSL, стандарты кода. Keyword, semantic и hybrid поиск для AI-ассистентов.",
+                "homepage": "https://github.com/DitriXNew/mcp-bsl-platform-context",
+                "id": 1156659922,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-21T18:54:48Z",
+                "open_issues": 0,
+                "owner": "Desko77",
+                "repo": "mcp-bsl-platform-help-context",
+                "stars": 18,
+                "topics": [
+                  "1c",
+                  "1c-enterprise",
+                  "ai-assistant",
+                  "bsl",
+                  "mcp",
+                  "mcp-server",
+                  "platform-api",
+                  "python",
+                  "qdrant",
+                  "rag",
+                  "semantic-search"
+                ]
+              },
+              "title": "mcp-bsl-platform-help-context",
+              "first_seen": "2026-09-28T16:18:39.546Z"
+            },
+            {
+              "children": [],
+              "description": "Поиск по официальной справке нескольких версий платформы (BM25 + семантика). Отвечает и на точные запросы по имени метода, и на вопросы «как сделать X». Есть REST API для скриптов.\nPython · MCP, REST · Docker, Qdrant · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP сервер по справке платформы 1С с поддержкой семантического поиска",
+                "homepage": null,
+                "id": 1155957008,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-02-12T19:38:59Z",
+                "open_issues": 1,
+                "owner": "rzateev",
+                "repo": "onec-help-mcp",
+                "stars": 22,
+                "topics": []
+              },
+              "title": "onec-help-mcp",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Справка из -файла платформы на Elasticsearch — один сервер на всю команду. Поднимается в Docker, держит десяток одновременных пользователей.\nPython · HTTP · Docker, Elasticsearch · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP сервер для поиска по синтаксису 1С",
+                "homepage": null,
+                "id": 1045123293,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-11T19:42:10Z",
+                "open_issues": 4,
+                "owner": "Antonio1C",
+                "repo": "1c-syntax-helper-mcp",
+                "stars": 73,
+                "topics": []
+              },
+              "title": "1c-syntax-helper-mcp",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Справка платформы"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Быстрый анализатор BSL на Rust: линтер, LSP и MCP в одном бинарнике. 180 диагностик, LSP для VS Code/Cursor/Zed, CLI с отчётами SARIF/JSONL для CI и MCP-профили для справки и работы с проектом. Агент может сам проверить только что написанный код, не дожидаясь EDT.\nRust · stdio, LSP · платформа не нужна · 🚧",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Анализатор кода BSL (1С:Предприятие) с поддержкой LSP. Написан на Rust.",
+                "homepage": "https://t.me/+K7CcQPNZobE3YjUy",
+                "id": 1175453476,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-27T23:33:57Z",
+                "open_issues": 74,
+                "owner": "itrous",
+                "repo": "bsl-analyzer",
+                "stars": 102,
+                "topics": []
+              },
+              "title": "bsl-analyzer",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "METR — агент сам запускает YaXUnit-тесты, сборку и синтакс-контроль. Работает с форматами Конфигуратора и EDT, умеет быстро конвертировать через EDT CLI. Замыкает цикл «написал → проверил → исправил» без человека.\nKotlin · stdio · JDK 17, 8.3.10+, YaXUnit · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP‑сервер для сборки (обновления базы) и запуска тестов YaXUnit в проектах 1С:Предприятие из AI‑ассистентов (Claude, GPT, VS Code и др.).",
+                "homepage": null,
+                "id": 1029322300,
+                "language": "Kotlin",
+                "license": "GPL-3.0",
+                "last_commit": "2026-03-22T21:40:47Z",
+                "open_issues": 21,
+                "owner": "alkoleft",
+                "repo": "mcp-onec-test-runner",
+                "stars": 113,
+                "topics": []
+              },
+              "title": "mcp-onec-test-runner",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Мост к BSL Language Server: навигация, символы, 100+ диагностик и рефакторинг через MCP. Если BSL LS у вас уже настроен — это самый короткий путь дать его возможности агенту.\nMCP · BSL LS · 🚧",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP-сервер, который даёт ИИ-агентам (Cursor, Claude Code и др.) доступ к возможностям BSL Language Server для работы с кодом 1С и OneScript: навигация, поиск, диагностика, рефакторинг. Цель - обеспечить детерминированные операции над кодом и экономия токенов (конечно модель всё может сделать грепами, но сколько токенов сожжет?)",
+                "homepage": null,
+                "id": 1141694908,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-28T16:11:46Z",
+                "open_issues": 0,
+                "owner": "SteelMorgan",
+                "repo": "mcp-bsl-lsp-bridge",
+                "stars": 67,
+                "topics": []
+              },
+              "title": "mcp-bsl-lsp-bridge",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Проверка и форматирование / через BSL Language Server с ответом в JSON. Простой линтер для агента: файл или каталог на вход — список ошибок на выходе. Не обновлялся с ноября 2025.\nPython · stdio · JRE, BSL LS · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1082476099,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-11-12T19:27:35Z",
+                "open_issues": 0,
+                "owner": "phsin",
+                "repo": "mcp-bsl-ls",
+                "stars": 5,
+                "topics": []
+              },
+              "title": "bsl-mcp",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Менеджер нескольких BSL Language Server сразу — по одному на каждый проект. Запускает инстансы BSL LS с прогрессом индексации, отдаёт диагностику и навигацию (символы, ссылки, входящие/исходящие вызовы) через MCP или CLI для skills. Без Docker, нужна только JVM.\nRust · MCP, CLI · JVM, BSL LS · 🚧",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Кросплатформенный менеджер запуска и MCP-bridge для нескольких инстансов bsl-language-server",
+                "homepage": null,
+                "id": 1187928046,
+                "language": "Rust",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-04-14T22:36:48Z",
+                "open_issues": 3,
+                "owner": "fserg",
+                "repo": "1c-lsp-mcp-skill",
+                "stars": 24,
+                "topics": []
+              },
+              "title": "1c-lsp-mcp-skill",
+              "first_seen": "2026-09-28T16:18:39.546Z"
+            },
+            {
+              "children": [],
+              "description": "Открытый бенчмарк: какая нейросеть лучше пишет код на 1С. Не MCP-сервер, но полезен при выборе модели для агента. Код, сгенерированный Claude, GPT, Gemini, DeepSeek, YandexGPT и GigaChat, реально исполняется в 1С и оценивается по синтаксису, смыслу, оптимальности и использованию платформы. Результаты на prism.genlab-1c.ru, датасет на HuggingFace.\nPython · бенчмарк · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Открытый бенчмарк LLM: какая нейросеть лучше пишет код 1С:Предприятие (BSL). Объективная оценка LLM по методике SMOP с реальным исполнением в 1С — Claude, GPT, Gemini, DeepSeek, YandexGPT, GigaChat.",
+                "homepage": "http://prism.genlab-1c.ru/",
+                "id": 1265231988,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-25T01:00:28Z",
+                "open_issues": 3,
+                "owner": "genlab-1c",
+                "repo": "prism",
+                "stars": 47,
+                "topics": [
+                  "1c",
+                  "1c-enterprise",
+                  "agentic",
+                  "ai",
+                  "ai-code-generation",
+                  "benchmark",
+                  "bsl",
+                  "code-generation",
+                  "code-quality",
+                  "evaluation",
+                  "function-calling",
+                  "llm",
+                  "llm-benchmark",
+                  "llm-evaluation",
+                  "onescript",
+                  "smop"
+                ]
+              },
+              "title": "PRISM",
+              "first_seen": "2026-09-28T16:18:39.546Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Проверка кода и тестирование"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Агент кликает по интерфейсу 1С сам: открывает формы, заполняет документы, проверяет результат. MCP-сервер напрямую подключается к клиенту тестирования 1С по его сетевому протоколу, без менеджера тестирования и без Vanessa. Может сам запустить тест-клиент (файловая или серверная база), ходить по дереву окно → форма → элементы, читать и заполнять поля, таблицы и табличные документы, делать снимки формы и сравнивать состояния, снимать скриншоты окна, не отбирая фокус. Умеет записывать и воспроизводить сценарии (uilog) и дружит с pytest. Опционально — выполнение BSL-кода и запросов через обработку. Автор 1c-mcp-toolkit и 1c-buddy, проект вышел в сентябре 2026 и быстро развивается.\nPython · stdio, HTTP · 8.3.27+ / 8.5 · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP-сервер для прямой работы с клиентом тестирования без менеджера тестирования",
+                "homepage": null,
+                "id": 1366867635,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-09-23T22:06:54Z",
+                "open_issues": 7,
+                "owner": "ROCTUP",
+                "repo": "1c-testpilot",
+                "stars": 42,
+                "topics": [
+                  "1c",
+                  "mc",
+                  "testclient"
+                ]
+              },
+              "title": "1C Testpilot",
+              "first_seen": "2026-09-28T16:18:39.546Z"
+            },
+            {
+              "children": [],
+              "description": "QA-менеджер и MCP-сервер на нативном протоколе TestManager/TestClient. Гоняет BDD/Gherkin-сценарии, читает и проверяет управляемые формы, выдаёт отчёты JUnit/Allure — всё без рантайма Vanessa. Публичный MVP, автор прямо пишет, что не стабилен.\nPython · MCP · 🔬",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source native 1C TestClient QA manager and MCP server — public MVP prerelease",
+                "homepage": "https://github.com/vlikhobabin/qa-mcp-public/releases/tag/v0.1.0",
+                "id": 1366075366,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-11T12:41:30Z",
+                "open_issues": 0,
+                "owner": "vlikhobabin",
+                "repo": "qa-mcp-public",
+                "stars": 4,
+                "topics": []
+              },
+              "title": "qa-mcp",
+              "first_seen": "2026-09-28T16:18:39.546Z"
+            }
+          ],
+          "description": "Агент открывает формы, заполняет поля и проверяет результат в настоящем клиенте 1С — через штатный клиент тестирования (), без Vanessa Automation.",
+          "node_type": "group",
+          "title": "UI-тестирование и агент в интерфейсе"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Самая полная обёртка над Напарником: 12 инструментов. Проверка, ревью, переписывание и доработка кода, поиск по ИТС и справке, сравнение версий документации. Режим Direct вызывает инструменты Напарника напрямую, а не через текстовый промпт.\nPython · HTTP, SSE · Docker · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "MCP-сервер для интеграции IDE с API 1С:Напарник (code.1c.ai)",
+                "homepage": null,
+                "id": 1176684285,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-22T10:28:19Z",
+                "open_issues": 2,
+                "owner": "Desko77",
+                "repo": "1c-ai-mcp",
+                "stars": 8,
+                "topics": []
+              },
+              "title": "1c-ai-mcp",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Веб-чат, MCP-сервер и OpenAI-совместимый шлюз к Напарнику. Можно подключить Напарника как «модель» в любой инструмент, который умеет OpenAI API.\nJS, Python · MCP, OpenAI API · Docker · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Чат, MCP и OpenAI API сервер для общения с 1С:Напарник",
+                "homepage": null,
+                "id": 1090201718,
+                "language": "JavaScript",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-09T19:11:01Z",
+                "open_issues": 3,
+                "owner": "ROCTUP",
+                "repo": "1c-buddy",
+                "stars": 102,
+                "topics": [
+                  "1c",
+                  "mcp"
+                ]
+              },
+              "title": "1c-buddy",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "MCP-сервер к Напарнику на Spring Boot со Swagger UI.\nKotlin · SSE · JDK 17 · 🚧",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "МСР-сервер для обращения к 1С.Напарник (поддержка SSE и docker-контейнеризации)",
+                "homepage": null,
+                "id": 1071826928,
+                "language": "Kotlin",
+                "license": "NOASSERTION",
+                "last_commit": "2026-07-03T22:12:38Z",
+                "open_issues": 0,
+                "owner": "SteelMorgan",
+                "repo": "spring-mcp-1c-copilot",
+                "stars": 46,
+                "topics": []
+              },
+              "title": "spring-mcp-1c-copilot",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            }
+          ],
+          "description": "Серверы, которые дают внешнему агенту доступ к 1С:Напарнику — официальной нейросети 1С, обученной на типовых и стандартах. Нужен токен (подписка ИТС).",
+          "node_type": "group",
+          "title": "1С:Напарник"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Агент читает и пишет данные учёта через штатный OData — без расширений и BSL. Бывший . 34 инструмента: справочники, документы, регистры, бухгалтерия, пакетные операции, отслеживание изменений. Запуск одной командой . Подходит для аналитики и операций с данными, когда OData уже опубликован.\nTypeScript · stdio, HTTP · Node.js 18+, OData · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "aprovodka — MCP server for 1C:Enterprise via REST/OData 3.0. 34 tools: catalogs, documents, registers, accounting, batch, change-tracking. No BSL extension required.",
+                "homepage": "https://theyahia.github.io/aprovodka/",
+                "id": 1196390720,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-09-05T13:51:49Z",
+                "open_issues": 0,
+                "owner": "theYahia",
+                "repo": "aprovodka",
+                "stars": 12,
+                "topics": [
+                  "1c",
+                  "ai-agents",
+                  "anthropic",
+                  "claude",
+                  "emerging-markets",
+                  "erp",
+                  "mcp",
+                  "mcp-servers",
+                  "model-context-protocol",
+                  "russia",
+                  "russian-api",
+                  "typescript"
+                ]
+              },
+              "title": "aprovodka",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Бухгалтер спрашивает словами — агент отвечает цифрами из рабочей базы. «Покажи остатки по складам», «сколько продали такого-то товара» — без знания языка запросов. Только чтение, права пользователя соблюдаются, персональные данные обезличиваются автоматически. Заодно отдаёт разработчику точную структуру метаданных любой конфигурации. Ставится расширением, базу не меняет.\nGo, BSL · stdio · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "ИИ-агент (Claude, Cursor) читает данные рабочей базы 1С простым языком, без знания языка запросов — для бухгалтеров и аналитиков; и отдаёт структуру метаданных любой конфигурации — контекст для разработчиков. Бесплатно, только чтение, анонимизация ПДн. Free MCP server: 1C data & metadata for AI.",
+                "homepage": "https://prepod2003.github.io/rsv-data-pro/",
+                "id": 1272521786,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-09-07T14:46:42Z",
+                "open_issues": 2,
+                "owner": "prepod2003",
+                "repo": "mcp-rsv-data",
+                "stars": 54,
+                "topics": [
+                  "1c",
+                  "1c-enterprise",
+                  "ai",
+                  "llm",
+                  "mcp",
+                  "model-context-protocol"
+                ]
+              },
+              "title": "mcp-rsv-data",
+              "first_seen": "2026-09-28T16:18:39.546Z"
+            },
+            {
+              "children": [],
+              "description": "MCP-сервер на стороне 1С:ERP с 90+ инструментами. Движок, на котором INFATON строит «цифровых двойников» и AI-агентов над ERP. Открыт под MIT — можно встроить в свой продукт.\nBSL · HTTP (JSON-RPC) · 1С:ERP · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "INFATON MCP Server — 91 tools for 1C:Enterprise ERP via Model Context Protocol (JSON-RPC 2.0). Digital twins & AI agents over 1C:ERP — infaton.ru, chatmcp.ru.",
+                "homepage": "https://infaton.ru",
+                "id": 1215659290,
+                "language": "1C Enterprise",
+                "license": "MIT",
+                "last_commit": "2026-09-11T09:05:54Z",
+                "open_issues": 0,
+                "owner": "infaton",
+                "repo": "MCP35",
+                "stars": 40,
+                "topics": [
+                  "1c",
+                  "1c-enterprise",
+                  "ai-agent",
+                  "bsl",
+                  "digital-twin",
+                  "erp",
+                  "json-rpc",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "onescript"
+                ]
+              },
+              "title": "INFATON MCP35",
+              "first_seen": "2026-09-28T16:18:39.546Z"
+            },
+            {
+              "children": [],
+              "description": "Интеграция AI с 1С:Бухгалтерией. Ранний прототип, давно без обновлений.\nPython, JS · stdio · 🔬",
+              "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "description": "MCP server for 1C Enterprise Accounting integration",
@@ -1831,31 +1424,401 @@
                 "stars": 4,
                 "topics": []
               },
+              "title": "1c-accounting-mcp",
               "first_seen": "2026-08-28T19:48:31.789Z"
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "Open Source"
+          "title": "Учётные системы и данные"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Весь локальный цикл разработки одной командой — и безопасный MCP для агента. Один описывает исходники, рабочую базу и тесты; дальше v8-runner сам собирает (Designer или IBCMD), готовит ИБ, гоняет синтакс-контроль, YaXUnit и Vanessa и выгружает изменения обратно. Агенту отдаётся ограниченный набор из 8 инструментов вместо доступа к shell.\nRust · stdio, HTTP · Designer/IBCMD · 🚧",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1188649228,
+                "language": "Rust",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-03T00:34:57Z",
+                "open_issues": 21,
+                "owner": "alkoleft",
+                "repo": "v8-runner-rust",
+                "stars": 63,
+                "topics": [
+                  "1c-enterprise",
+                  "cli",
+                  "mcp",
+                  "rust",
+                  "stdio-mcp",
+                  "streamable-http",
+                  "yaxunit"
+                ]
+              },
+              "title": "v8-runner",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Журнал регистрации и технологический журнал в ClickHouse + Grafana, с доступом для агента. Агент сам ищет ошибки и узкие места в логах и может настроить сбор ТЖ.\nMCP · Docker, ClickHouse · 🚧",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Сервис для парсинга 1С ЖР и ТЖ (кликхаус + графана). МСР-сервер для доступа к логам и работе с ТЖ (создание, конфигурирование, чтение логов) ИИ-агентом",
+                "homepage": null,
+                "id": 1101167547,
+                "language": "Go",
+                "license": "NOASSERTION",
+                "last_commit": "2026-06-24T13:36:22Z",
+                "open_issues": 0,
+                "owner": "SteelMorgan",
+                "repo": "1c-log-checker",
+                "stars": 73,
+                "topics": []
+              },
+              "title": "1c-log-checker",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Docker-песочница с полным окружением 1С, чтобы агент экспериментировал, не трогая прод.\nDocker · 🔬",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Песочница под ИИ‑агента для работы с 1С (клиент-сервер). Зачем это нужно? - Что бы ИИ-агент по ошибке вам что нито не удалил (например, весь диск D). Думаете с Вами точно такого не случится? - Я тоже так думал, пока \"случайно\" не потерял 10 лет семейных фото :-)",
+                "homepage": null,
+                "id": 1149595732,
+                "language": "PowerShell",
+                "license": "MIT",
+                "last_commit": "2026-07-07T12:32:25Z",
+                "open_issues": 0,
+                "owner": "SteelMorgan",
+                "repo": "1c-ai-sandbox-client-server",
+                "stars": 43,
+                "topics": []
+              },
+              "title": "1c-ai-sandbox",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Готовые Docker Compose для набора MCP-серверов 1С. Поиск по коду и метаданным, справка, синтакс-проверка, БСП, шаблоны, Напарник — поднимаются одной командой. Не обновлялся с осени 2025.\nDocker Compose · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Конфиги Docker Compose для запуска различных MCP-серверов для 1С",
+                "homepage": null,
+                "id": 1078175926,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2025-10-17T22:25:30Z",
+                "open_issues": 1,
+                "owner": "pravets",
+                "repo": "compose4mcp",
+                "stars": 37,
+                "topics": [
+                  "docker",
+                  "docker-compose",
+                  "mcp"
+                ]
+              },
+              "title": "compose4mcp",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Инфраструктура и DevOps"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "CLI и MCP для деплоя приложений 1C:Element с честной проверкой результата. Собирает архив, загружает, применяет и отдельно проверяет, что деплой действительно прошёл: платформа молча откатывает неудачные. Ветки разработки, старт/стоп приложений.\nPython · stdio · 🔬",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "CLI, MCP server, and library for the documented Console API v2 of 1C:Enterprise.Element (1cmycloud): apps, builds, and deploys with reliable apply-verification.",
+                "homepage": "https://docs.keyfire.ru/elemctl/",
+                "id": 1295803898,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-27T16:33:05Z",
+                "open_issues": 1,
+                "owner": "keyfire",
+                "repo": "elemctl",
+                "stars": 10,
+                "topics": []
+              },
+              "title": "elemctl",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Линтер, LSP и MCP для XBSL-кода. 161 правило, расширение VS Code с дизайнером форм, скаффолдинг объектов и маршрутов без ручного YAML.\nMCP, LSP · 🔬",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "The XBSL (1C:Element) toolkit - linter with autofixes, LSP server, docs search, metadata scaffolding, MCP server for AI agents, VS Code extension. Bilingual ru/en",
+                "homepage": "https://docs.keyfire.ru/xbsl/",
+                "id": 1312647687,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-28T16:11:50Z",
+                "open_issues": 0,
+                "owner": "keyfire",
+                "repo": "xbsl",
+                "stars": 3,
+                "topics": []
+              },
+              "title": "xbsl",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "20 skills для разработки на 1С:Элемент, сверенные с версией 10.0. Метаданные, формы, журнал данных, интегрируемые приложения, регистры, развёртывание. Работают в Claude Code и других агентах со skills.\nPython · Claude Code и др. · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Набор скиллов для работы с 1С:Элемент для AI агентов",
+                "homepage": "https://korolevpavel.github.io/xbsl-ai-skills/",
+                "id": 1187993501,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-25T11:53:25Z",
+                "open_issues": 25,
+                "owner": "korolevpavel",
+                "repo": "xbsl-ai-skills",
+                "stars": 40,
+                "topics": [
+                  "1c-element",
+                  "ai-skills",
+                  "xbsl"
+                ]
+              },
+              "title": "xbsl-ai-skills",
+              "first_seen": "2026-09-28T16:18:39.546Z"
+            }
+          ],
+          "description": "Облачная платформа 1С (1cmycloud.com) с языком XBSL. Инструменты ниже неофициальные и с 1С не аффилированы.",
+          "node_type": "group",
+          "title": "1C:Element"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Самый популярный набор skills для 1С: полный цикл разработки для Claude Code, Cursor и Codex. Даёт модели готовые абстракции над XML-форматами выгрузки и CLI Конфигуратора, чтобы агент работал с сутью задачи (объект, форма, роль, СКД), а не с тысячами строк XML. Плюс «глаза и руки» для проверки результата через веб-клиент. Установка — скопировать в проект; есть версии на PowerShell и Python.\nPowerShell, Python · Claude Code, Cursor, Codex · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Набор навыков для AI(ИИ)-агентов (Claude Code, Cursor, Codex и др.), помогающий охватить полный цикл разработки на платформе 1С:Предприятие 8.3. Даёт модели абстракции над XML-форматами и CLI конфигуратора, а также глаза и руки для тестирования через веб-клиент. AI skills for 1C:Enterprise 8.3.",
+                "homepage": null,
+                "id": 1152709086,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-28T10:46:55Z",
+                "open_issues": 12,
+                "owner": "Nikolay-Shirokov",
+                "repo": "cc-1c-skills",
+                "stars": 643,
+                "topics": [
+                  "1c",
+                  "1c-enterprise",
+                  "skills",
+                  "test-automation",
+                  "web-client",
+                  "web-testing"
+                ]
+              },
+              "title": "cc-1c-skills",
+              "first_seen": "2026-09-28T16:18:39.546Z"
+            },
+            {
+              "children": [],
+              "description": "Плагин для Claude Code и Codex: skills плюс собственный MCP runtime для 1С. Агент создаёт и проверяет метаданные, формы, EPF/ERF, СКД, роли, запускает 1С и ищет по BSL через единый сервер . Ставится из marketplace, runtime скачивается с проверкой SHA-256. Windows, Linux, macOS.\nRust, Python · Claude Code, Codex · 8.3.27 для запуска 1С · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Unica (Ю́ника) — публичный плагин Codex и Claude Code для разработки на 1С:Предприятии.",
+                "homepage": "https://ingvarconsulting.github.io/unica/",
+                "id": 1227187618,
+                "language": "Rust",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-28T10:18:04Z",
+                "open_issues": 246,
+                "owner": "IngvarConsulting",
+                "repo": "unica",
+                "stars": 205,
+                "topics": [
+                  "1c-enterprise",
+                  "claude-code-plugin",
+                  "codex-plugin",
+                  "mcp",
+                  "skills"
+                ]
+              },
+              "title": "Unica",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Правила, субагенты и skills для AI-разработки на 1С — для любого агента. Бывший . Стандарты кода, формы, запросы, тестирование, каталог антипаттернов, 13 субагентов и диспетчер MCP-инструментов. Работает в Cursor, Claude Code, Codex, OpenCode, Cline и ещё десятке инструментов, ставится скриптом.\nMarkdown · 11+ агентов · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Rules\\skills\\subagens for vibecoding in 1C(bsl)",
+                "homepage": null,
+                "id": 1048024121,
+                "language": "PowerShell",
+                "license": null,
+                "last_commit": "2026-09-27T19:54:21Z",
+                "open_issues": 0,
+                "owner": "comol",
+                "repo": "ai_rules_1c",
+                "stars": 466,
+                "topics": []
+              },
+              "title": "ai_rules_1c",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "117 skills для Claude Code: агент собирает исходники 1С из компактного JSON, а не правит XML руками. Метаданные, формы, расширения, роли, СКД, макеты, обработки плюс 14 валидаторов и единый индекс конфигурации для перекрёстных проверок. Базовая генерация работает офлайн без платформы.\nPowerShell, Python · Claude Code · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "116 скилов и 40 правил для Claude Code: агент собирает исходники 1С (метаданные, формы, расширения, роли, СКД, обработки) из компактного JSON и разбирает обратно. Базовые операции - без Конфигуратора.",
+                "homepage": null,
+                "id": 1166958971,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-24T10:53:41Z",
+                "open_issues": 1,
+                "owner": "Desko77",
+                "repo": "claude-code-skills-1c",
+                "stars": 72,
+                "topics": [
+                  "1c",
+                  "1c-development",
+                  "1c-edt",
+                  "1c-enterprise",
+                  "ai-agent",
+                  "anthropic",
+                  "bsl",
+                  "claude",
+                  "claude-code",
+                  "claude-skills",
+                  "code-generation",
+                  "developer-tools",
+                  "llm",
+                  "mcp",
+                  "onec"
+                ]
+              },
+              "title": "claude-code-skills-1c",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "То же самое для Cursor: 116 skills и 40 правил.\nPowerShell, Python · Cursor · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "115 скилов и 40 правил для Cursor IDE: агент собирает исходники 1С (метаданные, формы, расширения, роли, СКД, обработки) из компактного JSON и разбирает обратно. Базовые операции - без Конфигуратора.",
+                "homepage": null,
+                "id": 1169533019,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-24T10:53:47Z",
+                "open_issues": 0,
+                "owner": "Desko77",
+                "repo": "cursor-1c-skills",
+                "stars": 64,
+                "topics": [
+                  "1c",
+                  "1c-development",
+                  "1c-edt",
+                  "1c-enterprise",
+                  "ai-agent",
+                  "bsl",
+                  "code-generation",
+                  "cursor",
+                  "cursor-ide",
+                  "cursor-skills",
+                  "developer-tools",
+                  "llm",
+                  "mcp",
+                  "onec"
+                ]
+              },
+              "title": "cursor-1c-skills",
+              "first_seen": "2026-08-28T19:48:31.789Z"
+            },
+            {
+              "children": [],
+              "description": "Готовая среда 1С-разработки с AI: справочники, правила и MCP в одном репозитории. BM25-поиск по методам, API-справочники на 100+ тыс. методов, BSL LS, 261 правило стандартов, MCP-сервер на 8 инструментов и компактный с правилами, «рождёнными реальными инцидентами».\nBSL, Python · Cursor, Claude, VS Code · ✅",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Среда разработки 1С с ИИ-ассистентом: BM25 поиск (8141 методов), API-справочники (115666 методов), BSL LS, 261 правило стандартов, MCP-сервер (8 tools) для Cursor/Claude/VS Code",
+                "homepage": "https://github.com/Pradushkoai/1c-ai-dev-env/releases/tag/data-package",
+                "id": 1278105901,
+                "language": "1C Enterprise",
+                "license": "MIT",
+                "last_commit": "2026-09-01T01:16:29Z",
+                "open_issues": 16,
+                "owner": "Pradushkoai",
+                "repo": "1c-ai-dev-env",
+                "stars": 18,
+                "topics": [
+                  "1c",
+                  "1c-bitrix",
+                  "1c-enterprise",
+                  "ai",
+                  "bm25",
+                  "bsl",
+                  "bsl-language-server",
+                  "claude-desktop",
+                  "code-analysis",
+                  "cursor",
+                  "ide-integration",
+                  "mcp",
+                  "russian",
+                  "semantic-search"
+                ]
+              },
+              "title": "1c-ai-dev-env",
+              "first_seen": "2026-09-28T16:18:39.546Z"
+            }
+          ],
+          "description": "Не MCP-серверы общего назначения, а готовые наборы знаний и инструментов для агента, часто поверх серверов из разделов выше. Ставятся один раз и сразу дают агенту «опыт» 1С-разработчика.",
+          "node_type": "group",
+          "title": "Плагины, правила и skills"
         }
       ],
-      "title": "Сводная таблица"
+      "title": "Каталог"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T13:26:24.846Z",
+    "last_updated": "2026-09-28T16:18:39.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of MCP servers for 1C:Enterprise ecosystem | Каталог MCP-серверов для экосистемы 1С:Предприятие",
       "homepage": null,
       "id": 1168595356,
-      "language": null,
+      "language": "Python",
       "license": null,
-      "last_commit": "2026-09-06T22:57:39Z",
+      "last_commit": "2026-09-28T14:40:30Z",
       "open_issues": 1,
       "owner": "Untru",
       "repo": "1c-mcp",
-      "stars": 186,
+      "stars": 188,
       "topics": [
         "1c",
         "1c-enterprise",
@@ -1869,7 +1832,7 @@
         "model-context-protocol"
       ]
     },
-    "original_repository_sha": "37c2c61ffd4b759683858b7bfda01bd6578cb2d9",
+    "original_repository_sha": "3d94d0f6a7c068cfb82a739b1fc39d47b669267a",
     "enhanced_repository": "enhansome/enhansome-1c-mcp",
     "enhanced_repository_description": null,
     "title": "Awesome 1C MCP Servers with stars"
