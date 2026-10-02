@@ -37,21 +37,21 @@ Open-source проекты каталога по числу звёзд на GitH
 
 |  # | Проект                                                                                                                        |   ⭐ | Что это                                                                                      | Раздел                                                        | Последний коммит |
 | -: | ----------------------------------------------------------------------------------------------------------------------------- | --: | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------------- |
-|  1 | [cc-1c-skills](https://github.com/Nikolay-Shirokov/cc-1c-skills) ⭐ 651 \| 🐛 13 \| 🌐 Python \| 📅 2026-09-30                 | 643 | Самый популярный набор skills для 1С: полный цикл разработки для Claude Code, Cursor и Codex | [Плагины, правила и skills](#плагины-правила-и-skills)        | 2026-09-28       |
-|  2 | [1c\_mcp](https://github.com/vladimir-kharin/1c_mcp) ⭐ 523 \| 🐛 7 \| 🌐 1C Enterprise \| 📅 2026-09-29                       | 518 | Фреймворк, чтобы сделать MCP-сервер из самой базы 1С                                         | [Живая база и фреймворки](#живая-база-и-фреймворки)           | 2026-09-27       |
-|  3 | [ai\_rules\_1c](https://github.com/comol/ai_rules_1c) ⭐ 472 \| 🐛 4 \| 🌐 PowerShell \| 📅 2026-10-01                         | 466 | Правила, субагенты и skills для AI-разработки на 1С — для любого агента                      | [Плагины, правила и skills](#плагины-правила-и-skills)        | 2026-09-27       |
-|  4 | [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 291 \| 🐛 77 \| 🌐 Java \| 📅 2026-10-01                                    | 289 | Плагин, который открывает AI-агенту рабочее пространство 1C:EDT                              | [IDE-интеграции](#ide-интеграции)                             | 2026-09-27       |
-|  5 | [1c-mcp-toolkit](https://github.com/ROCTUP/1c-mcp-toolkit) ⭐ 284 \| 🐛 14 \| 🌐 1C Enterprise \| 📅 2026-07-24                | 279 | Живая база для агента за пять минут — просто открыть обработку                               | [Живая база и фреймворки](#живая-база-и-фреймворки)           | 2026-07-24       |
-|  6 | [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 235 \| 🐛 2 \| 🌐 Go \| 📅 2026-10-01                                          | 233 | Один Go-бинарник, который даёт агенту и живую базу, и поиск по коду                          | [Метаданные и анализ кода](#метаданные-и-анализ-кода)         | 2026-09-26       |
-|  7 | [Unica](https://github.com/IngvarConsulting/unica) ⭐ 209 \| 🐛 268 \| 🌐 Rust \| 📅 2026-10-01                                | 205 | Плагин для Claude Code и Codex: skills плюс собственный MCP runtime для 1С                   | [Плагины, правила и skills](#плагины-правила-и-skills)        | 2026-09-28       |
+|  1 | [cc-1c-skills](https://github.com/Nikolay-Shirokov/cc-1c-skills) ⭐ 656 \| 🐛 13 \| 🌐 Python \| 📅 2026-09-30                 | 643 | Самый популярный набор skills для 1С: полный цикл разработки для Claude Code, Cursor и Codex | [Плагины, правила и skills](#плагины-правила-и-skills)        | 2026-09-28       |
+|  2 | [1c\_mcp](https://github.com/vladimir-kharin/1c_mcp) ⭐ 525 \| 🐛 8 \| 🌐 1C Enterprise \| 📅 2026-09-29                       | 518 | Фреймворк, чтобы сделать MCP-сервер из самой базы 1С                                         | [Живая база и фреймворки](#живая-база-и-фреймворки)           | 2026-09-27       |
+|  3 | [ai\_rules\_1c](https://github.com/comol/ai_rules_1c) ⭐ 475 \| 🐛 4 \| 🌐 PowerShell \| 📅 2026-10-01                         | 466 | Правила, субагенты и skills для AI-разработки на 1С — для любого агента                      | [Плагины, правила и skills](#плагины-правила-и-skills)        | 2026-09-27       |
+|  4 | [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 291 \| 🐛 79 \| 🌐 Java \| 📅 2026-10-02                                    | 289 | Плагин, который открывает AI-агенту рабочее пространство 1C:EDT                              | [IDE-интеграции](#ide-интеграции)                             | 2026-09-27       |
+|  5 | [1c-mcp-toolkit](https://github.com/ROCTUP/1c-mcp-toolkit) ⭐ 286 \| 🐛 14 \| 🌐 1C Enterprise \| 📅 2026-07-24                | 279 | Живая база для агента за пять минут — просто открыть обработку                               | [Живая база и фреймворки](#живая-база-и-фреймворки)           | 2026-07-24       |
+|  6 | [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 237 \| 🐛 2 \| 🌐 Go \| 📅 2026-10-02                                          | 233 | Один Go-бинарник, который даёт агенту и живую базу, и поиск по коду                          | [Метаданные и анализ кода](#метаданные-и-анализ-кода)         | 2026-09-26       |
+|  7 | [Unica](https://github.com/IngvarConsulting/unica) ⭐ 209 \| 🐛 245 \| 🌐 Rust \| 📅 2026-10-02                                | 205 | Плагин для Claude Code и Codex: skills плюс собственный MCP runtime для 1С                   | [Плагины, правила и skills](#плагины-правила-и-skills)        | 2026-09-28       |
 |  8 | [rlm-tools-bsl](https://github.com/Dach-Coin/rlm-tools-bsl) ⭐ 201 \| 🐛 5 \| 🌐 Python \| 📅 2026-09-28                       | 198 | Анализ огромных конфигураций (ERP, УХ) без RAG и без траты токенов на чтение файлов          | [Метаданные и анализ кода](#метаданные-и-анализ-кода)         | 2026-09-28       |
 |  9 | [mcp-bsl-platform-context](https://github.com/alkoleft/mcp-bsl-platform-context) ⭐ 196 \| 🐛 13 \| 🌐 Kotlin \| 📅 2026-03-10 | 196 | Синтакс-помощник для AI — чтобы агент перестал выдумывать методы платформы                   | [Справка платформы](#справка-платформы)                       | 2026-03-10       |
 | 10 | [mcp-1c-v1](https://github.com/fserg/mcp-1c-v1) ⭐ 166 \| 🐛 2 \| 🌐 TypeScript \| 📅 2025-08-04                               | 166 | RAG по структуре конфигурации: «найди, где хранится X» на естественном языке                 | [Метаданные и анализ кода](#метаданные-и-анализ-кода)         | 2025-08-04       |
 | 11 | [CodePilot1C](https://github.com/ondysss/codepilot1c-edt) ⭐ 154 \| 🐛 63 \| 🌐 Java \| 📅 2026-09-25                          | 153 | AI-ассистент, встроенный прямо в EDT: чат, агентный режим и MCP Host                         | [IDE-интеграции](#ide-интеграции)                             | 2026-09-25       |
 | 12 | [code-index-mcp](https://github.com/Regsorm/code-index-mcp) ⭐ 134 \| 🐛 0 \| 🌐 Rust \| 📅 2026-09-28                         | 130 | Быстрый индекс кода для агента: один бинарник, SQLite, ответ за миллисекунды                 | [Метаданные и анализ кода](#метаданные-и-анализ-кода)         | 2026-09-28       |
 | 13 | [mcp-onec-test-runner](https://github.com/alkoleft/mcp-onec-test-runner) ⭐ 114 \| 🐛 21 \| 🌐 Kotlin \| 📅 2026-03-22         | 113 | METR — агент сам запускает YaXUnit-тесты, сборку и синтакс-контроль                          | [Проверка кода и тестирование](#проверка-кода-и-тестирование) | 2026-03-22       |
-| 14 | [1c-buddy](https://github.com/ROCTUP/1c-buddy) ⭐ 102 \| 🐛 3 \| 🌐 JavaScript \| 📅 2026-08-09                                | 102 | Веб-чат, MCP-сервер и OpenAI-совместимый шлюз к Напарнику                                    | [1С:Напарник](#1снапарник)                                    | 2026-08-09       |
-| 15 | [1c-mcp-metacode](https://github.com/ROCTUP/1c-mcp-metacode) ⭐ 104 \| 🐛 12 \| 🌐 Python \| 📅 2026-08-19                     | 102 | Конфигурация в виде графа в Neo4j: объекты, модули, процедуры и связи между ними             | [Метаданные и анализ кода](#метаданные-и-анализ-кода)         | 2026-08-19       |
+| 14 | [1c-buddy](https://github.com/ROCTUP/1c-buddy) ⭐ 104 \| 🐛 3 \| 🌐 JavaScript \| 📅 2026-08-09                                | 102 | Веб-чат, MCP-сервер и OpenAI-совместимый шлюз к Напарнику                                    | [1С:Напарник](#1снапарник)                                    | 2026-08-09       |
+| 15 | [1c-mcp-metacode](https://github.com/ROCTUP/1c-mcp-metacode) ⭐ 105 \| 🐛 12 \| 🌐 Python \| 📅 2026-08-19                     | 102 | Конфигурация в виде графа в Neo4j: объекты, модули, процедуры и связи между ними             | [Метаданные и анализ кода](#метаданные-и-анализ-кода)         | 2026-08-19       |
 
 <!-- TOP:END -->
 
@@ -77,7 +77,7 @@ Open-source проекты каталога по числу звёзд на GitH
 
 ### IDE-интеграции
 
-#### [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 291 | 🐛 77 | 🌐 Java | 📅 2026-10-01
+#### [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 291 | 🐛 79 | 🌐 Java | 📅 2026-10-02
 
 **Плагин, который открывает AI-агенту рабочее пространство 1C:EDT.**
 Агент видит проект так же, как вы в IDE: ходит по метаданным и модулям, строит иерархию вызовов, получает подсказки Content Assist, проверяет текст запроса (включая режим СКД), снимает скриншоты форм, обновляет базу и запускает отладку. Главный выбор, если вы живёте в EDT и хотите, чтобы агент опирался на её понимание кода, а не на grep по файлам.
@@ -93,7 +93,7 @@ Java · HTTP, SSE · EDT 2025.2+ · ✅ ![stars](https://img.shields.io/github/s
 
 Java · HTTP (localhost) · EDT · 🚧 ![stars](https://img.shields.io/github/stars/keyfire/edt-bridge?style=flat\&label=%E2%AD%90)
 
-#### [AI-EDT](https://github.com/Desko77/ai-edt) ⭐ 17 | 🐛 0 | 🌐 Java | 📅 2026-09-30
+#### [AI-EDT](https://github.com/Desko77/ai-edt) ⭐ 17 | 🐛 0 | 🌐 Java | 📅 2026-10-01
 
 **MCP-сервер внутри EDT, который отвечает на вопросы «что от чего зависит».**
 Какие формы, роли и подсистемы используют справочник, на какой объект указывает ссылка — всё через семантическую модель EDT, а не поиском по XML. Есть валидация и живая отладка. Работает в паре с [claude-code-skills-1c](#claude-code-skills-1c) того же автора. EDT 2026.1–2026.2.
@@ -130,14 +130,14 @@ JavaScript · MCP · Windows · ✅ ![stars](https://img.shields.io/github/stars
 
 ### Живая база и фреймворки
 
-#### [1c\_mcp](https://github.com/vladimir-kharin/1c_mcp) ⭐ 523 | 🐛 7 | 🌐 1C Enterprise | 📅 2026-09-29
+#### [1c\_mcp](https://github.com/vladimir-kharin/1c_mcp) ⭐ 525 | 🐛 8 | 🌐 1C Enterprise | 📅 2026-09-29
 
 **Фреймворк, чтобы сделать MCP-сервер из самой базы 1С.**
 Ставите расширение `MCP_Сервер.cfe` — вся механика протокола уже внутри. Вам остаётся на BSL описать свои инструменты (`ДобавитьИнструменты()` / `ВыполнитьИнструмент()`), и агент сможет вызывать вашу бизнес-логику. Поддерживает resources и prompts, подключается напрямую по HTTP, через Python-прокси (stdio + OAuth2) или в Docker. Самый популярный проект каталога.
 
 BSL, Python · HTTP, stdio · 8.3+ · ✅ ![stars](https://img.shields.io/github/stars/vladimir-kharin/1c_mcp?style=flat\&label=%E2%AD%90)
 
-#### [1c-mcp-toolkit](https://github.com/ROCTUP/1c-mcp-toolkit) ⭐ 284 | 🐛 14 | 🌐 1C Enterprise | 📅 2026-07-24
+#### [1c-mcp-toolkit](https://github.com/ROCTUP/1c-mcp-toolkit) ⭐ 286 | 🐛 14 | 🌐 1C Enterprise | 📅 2026-07-24
 
 **Живая база для агента за пять минут — просто открыть обработку.**
 HTTP-сервер поднимается прямо внутри `.epf`: не нужно менять конфигурацию, публиковать базу на веб-сервере или возиться с COM. Агент выполняет запросы и код, читает метаданные, журнал регистрации и объекты по ссылке. Есть REST API для агентов без MCP, анонимизация чувствительных данных и готовые skills. Хороший вариант «подключиться к клиентской базе и посмотреть».
@@ -174,7 +174,7 @@ Rust · HTTP · 🚧 ![stars](https://img.shields.io/github/stars/1c-neurofish/v
 
 ### Метаданные и анализ кода
 
-#### [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 235 | 🐛 2 | 🌐 Go | 📅 2026-10-01
+#### [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 237 | 🐛 2 | 🌐 Go | 📅 2026-10-02
 
 **Один Go-бинарник, который даёт агенту и живую базу, и поиск по коду.**
 Подключается к HTTP-сервису 1С (расширение ставит сам): метаданные, формы, запросы с параметрами, журнал регистрации. Если рядом лежит выгрузка конфигурации — ищет по BSL (BM25, regex, точное совпадение). Без Python, Docker и прочего рантайма — скачал и запустил.
@@ -209,7 +209,7 @@ Rust · stdio · XML-выгрузка, Windows x64 · 🚧 ![stars](https://img.
 
 Python · MCP · Docker · ✅ ![stars](https://img.shields.io/github/stars/Arman-Kudaibergenov/bsl-atlas?style=flat\&label=%E2%AD%90)
 
-#### [1c-mcp-metacode](https://github.com/ROCTUP/1c-mcp-metacode) ⭐ 104 | 🐛 12 | 🌐 Python | 📅 2026-08-19
+#### [1c-mcp-metacode](https://github.com/ROCTUP/1c-mcp-metacode) ⭐ 105 | 🐛 12 | 🌐 Python | 📅 2026-08-19
 
 **Конфигурация в виде графа в Neo4j: объекты, модули, процедуры и связи между ними.**
 Грузит метаданные прямо из XML-выгрузки (можно по расписанию), учитывает расширения, строит граф вызовов, делает семантический поиск по BSL и AI-саммари объектов. С версии 2.0 — 22 типизированных инструмента и веб-консоль со встроенным агентом. Для тех, кому нужен «гугл по конфигурации» для всей команды.
@@ -283,7 +283,7 @@ Python · HTTP · Docker, Elasticsearch · ✅ ![stars](https://img.shields.io/g
 
 ### Проверка кода и тестирование
 
-#### [bsl-analyzer](https://github.com/itrous/bsl-analyzer) ⭐ 106 | 🐛 80 | 🌐 Rust | 📅 2026-09-27
+#### [bsl-analyzer](https://github.com/itrous/bsl-analyzer) ⭐ 106 | 🐛 62 | 🌐 Rust | 📅 2026-10-02
 
 **Быстрый анализатор BSL на Rust: линтер, LSP и MCP в одном бинарнике.**
 180 диагностик, LSP для VS Code/Cursor/Zed, CLI с отчётами SARIF/JSONL для CI и MCP-профили для справки и работы с проектом. Агент может сам проверить только что написанный код, не дожидаясь EDT.
@@ -329,14 +329,14 @@ Python · бенчмарк · ✅ ![stars](https://img.shields.io/github/stars/g
 
 Агент открывает формы, заполняет поля и проверяет результат в настоящем клиенте 1С — через штатный клиент тестирования (`/TESTCLIENT`), без Vanessa Automation.
 
-#### [1C Testpilot](https://github.com/ROCTUP/1c-testpilot) ⭐ 53 | 🐛 5 | 🌐 Python | 📅 2026-09-30
+#### [1C Testpilot](https://github.com/ROCTUP/1c-testpilot) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2026-10-02
 
 **Агент кликает по интерфейсу 1С сам: открывает формы, заполняет документы, проверяет результат.**
 MCP-сервер напрямую подключается к клиенту тестирования 1С по его сетевому протоколу, без менеджера тестирования и без Vanessa. Может сам запустить тест-клиент (файловая или серверная база), ходить по дереву окно → форма → элементы, читать и заполнять поля, таблицы и табличные документы, делать снимки формы и сравнивать состояния, снимать скриншоты окна, не отбирая фокус. Умеет записывать и воспроизводить сценарии (uilog) и дружит с pytest. Опционально — выполнение BSL-кода и запросов через обработку. Автор 1c-mcp-toolkit и 1c-buddy, проект вышел в сентябре 2026 и быстро развивается.
 
 Python · stdio, HTTP · 8.3.27+ / 8.5 · ✅ ![stars](https://img.shields.io/github/stars/ROCTUP/1c-testpilot?style=flat\&label=%E2%AD%90)
 
-#### [qa-mcp](https://github.com/vlikhobabin/qa-mcp-public) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-09-11
+#### [qa-mcp](https://github.com/vlikhobabin/qa-mcp-public) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-09-11
 
 **QA-менеджер и MCP-сервер на нативном протоколе TestManager/TestClient.**
 Гоняет BDD/Gherkin-сценарии, читает и проверяет управляемые формы, выдаёт отчёты JUnit/Allure — всё без рантайма Vanessa. Публичный MVP, автор прямо пишет, что не стабилен.
@@ -354,7 +354,7 @@ Python · MCP · 🔬 ![stars](https://img.shields.io/github/stars/vlikhobabin/q
 
 Python · HTTP, SSE · Docker · ✅ ![stars](https://img.shields.io/github/stars/Desko77/1c-ai-mcp?style=flat\&label=%E2%AD%90)
 
-#### [1c-buddy](https://github.com/ROCTUP/1c-buddy) ⭐ 102 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-09
+#### [1c-buddy](https://github.com/ROCTUP/1c-buddy) ⭐ 104 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-09
 
 **Веб-чат, MCP-сервер и OpenAI-совместимый шлюз к Напарнику.**
 Можно подключить Напарника как «модель» в любой инструмент, который умеет OpenAI API.
@@ -431,14 +431,14 @@ Docker Compose · ✅ ![stars](https://img.shields.io/github/stars/pravets/compo
 
 Облачная платформа 1С ([1cmycloud.com](https://1cmycloud.com)) с языком XBSL. Инструменты ниже неофициальные и с 1С не аффилированы.
 
-#### [elemctl](https://github.com/keyfire/elemctl) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-09-30
+#### [elemctl](https://github.com/keyfire/elemctl) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-10-02
 
 **CLI и MCP для деплоя приложений 1C:Element с честной проверкой результата.**
 Собирает архив, загружает, применяет и отдельно проверяет, что деплой действительно прошёл: платформа молча откатывает неудачные. Ветки разработки, старт/стоп приложений.
 
 Python · stdio · 🔬 ![stars](https://img.shields.io/github/stars/keyfire/elemctl?style=flat\&label=%E2%AD%90)
 
-#### [xbsl](https://github.com/keyfire/xbsl) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-01
+#### [xbsl](https://github.com/keyfire/xbsl) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-02
 
 **Линтер, LSP и MCP для XBSL-кода.**
 161 правило, расширение VS Code с дизайнером форм, скаффолдинг объектов и маршрутов без ручного YAML.
@@ -456,21 +456,21 @@ Python · Claude Code и др. · ✅ ![stars](https://img.shields.io/github/sta
 
 Не MCP-серверы общего назначения, а готовые наборы знаний и инструментов для агента, часто поверх серверов из разделов выше. Ставятся один раз и сразу дают агенту «опыт» 1С-разработчика.
 
-#### [cc-1c-skills](https://github.com/Nikolay-Shirokov/cc-1c-skills) ⭐ 651 | 🐛 13 | 🌐 Python | 📅 2026-09-30
+#### [cc-1c-skills](https://github.com/Nikolay-Shirokov/cc-1c-skills) ⭐ 656 | 🐛 13 | 🌐 Python | 📅 2026-09-30
 
 **Самый популярный набор skills для 1С: полный цикл разработки для Claude Code, Cursor и Codex.**
 Даёт модели готовые абстракции над XML-форматами выгрузки и CLI Конфигуратора, чтобы агент работал с сутью задачи (объект, форма, роль, СКД), а не с тысячами строк XML. Плюс «глаза и руки» для проверки результата через веб-клиент. Установка — скопировать `.claude/skills/` в проект; есть версии на PowerShell и Python.
 
 PowerShell, Python · Claude Code, Cursor, Codex · ✅ ![stars](https://img.shields.io/github/stars/Nikolay-Shirokov/cc-1c-skills?style=flat\&label=%E2%AD%90)
 
-#### [Unica](https://github.com/IngvarConsulting/unica) ⭐ 209 | 🐛 268 | 🌐 Rust | 📅 2026-10-01
+#### [Unica](https://github.com/IngvarConsulting/unica) ⭐ 209 | 🐛 245 | 🌐 Rust | 📅 2026-10-02
 
 **Плагин для Claude Code и Codex: skills плюс собственный MCP runtime для 1С.**
 Агент создаёт и проверяет метаданные, формы, EPF/ERF, СКД, роли, запускает 1С и ищет по BSL через единый сервер `unica`. Ставится из marketplace, runtime скачивается с проверкой SHA-256. Windows, Linux, macOS.
 
 Rust, Python · Claude Code, Codex · 8.3.27 для запуска 1С · ✅ ![stars](https://img.shields.io/github/stars/IngvarConsulting/unica?style=flat\&label=%E2%AD%90)
 
-#### [ai\_rules\_1c](https://github.com/comol/ai_rules_1c) ⭐ 472 | 🐛 4 | 🌐 PowerShell | 📅 2026-10-01
+#### [ai\_rules\_1c](https://github.com/comol/ai_rules_1c) ⭐ 475 | 🐛 4 | 🌐 PowerShell | 📅 2026-10-01
 
 **Правила, субагенты и skills для AI-разработки на 1С — для любого агента.**
 Бывший `cursor_rules_1c`. Стандарты кода, формы, запросы, тестирование, каталог антипаттернов, 13 субагентов и диспетчер MCP-инструментов. Работает в Cursor, Claude Code, Codex, OpenCode, Cline и ещё десятке инструментов, ставится скриптом.
@@ -534,4 +534,4 @@ Cursor, Copilot, Claude · ✅
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
