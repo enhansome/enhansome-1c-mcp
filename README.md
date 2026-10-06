@@ -37,13 +37,13 @@ Open-source проекты каталога по числу звёзд на GitH
 
 |  # | Проект                                                                                                                        |   ⭐ | Что это                                                                                      | Раздел                                                        | Последний коммит |
 | -: | ----------------------------------------------------------------------------------------------------------------------------- | --: | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------------- |
-|  1 | [cc-1c-skills](https://github.com/Nikolay-Shirokov/cc-1c-skills) ⭐ 663 \| 🐛 12 \| 🌐 Python \| 📅 2026-10-05                 | 660 | Самый популярный набор skills для 1С: полный цикл разработки для Claude Code, Cursor и Codex | [Плагины, правила и skills](#плагины-правила-и-skills)        | 2026-10-04       |
+|  1 | [cc-1c-skills](https://github.com/Nikolay-Shirokov/cc-1c-skills) ⭐ 664 \| 🐛 12 \| 🌐 Python \| 📅 2026-10-05                 | 660 | Самый популярный набор skills для 1С: полный цикл разработки для Claude Code, Cursor и Codex | [Плагины, правила и skills](#плагины-правила-и-skills)        | 2026-10-04       |
 |  2 | [1c\_mcp](https://github.com/vladimir-kharin/1c_mcp) ⭐ 531 \| 🐛 8 \| 🌐 1C Enterprise \| 📅 2026-10-05                       | 528 | Фреймворк, чтобы сделать MCP-сервер из самой базы 1С                                         | [Живая база и фреймворки](#живая-база-и-фреймворки)           | 2026-10-05       |
 |  3 | [ai\_rules\_1c](https://github.com/comol/ai_rules_1c) ⭐ 479 \| 🐛 4 \| 🌐 PowerShell \| 📅 2026-10-01                         | 477 | Правила, субагенты и skills для AI-разработки на 1С — для любого агента                      | [Плагины, правила и skills](#плагины-правила-и-skills)        | 2026-10-01       |
-|  4 | [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 293 \| 🐛 81 \| 🌐 Java \| 📅 2026-10-03                                    | 292 | Плагин, который открывает AI-агенту рабочее пространство 1C:EDT                              | [IDE-интеграции](#ide-интеграции)                             | 2026-10-03       |
+|  4 | [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 294 \| 🐛 82 \| 🌐 Java \| 📅 2026-10-03                                    | 292 | Плагин, который открывает AI-агенту рабочее пространство 1C:EDT                              | [IDE-интеграции](#ide-интеграции)                             | 2026-10-03       |
 |  5 | [1c-mcp-toolkit](https://github.com/ROCTUP/1c-mcp-toolkit) ⭐ 287 \| 🐛 14 \| 🌐 1C Enterprise \| 📅 2026-07-24                | 286 | Живая база для агента за пять минут — просто открыть обработку                               | [Живая база и фреймворки](#живая-база-и-фреймворки)           | 2026-07-24       |
-|  6 | [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 237 \| 🐛 2 \| 🌐 Go \| 📅 2026-10-02                                          | 237 | Один Go-бинарник, который даёт агенту и живую базу, и поиск по коду                          | [Метаданные и анализ кода](#метаданные-и-анализ-кода)         | 2026-10-02       |
-|  7 | [Unica](https://github.com/IngvarConsulting/unica) ⭐ 213 \| 🐛 230 \| 🌐 Rust \| 📅 2026-10-06                                | 211 | Плагин для Claude Code и Codex: skills плюс собственный MCP runtime для 1С                   | [Плагины, правила и skills](#плагины-правила-и-skills)        | 2026-10-05       |
+|  6 | [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 238 \| 🐛 2 \| 🌐 Go \| 📅 2026-10-02                                          | 237 | Один Go-бинарник, который даёт агенту и живую базу, и поиск по коду                          | [Метаданные и анализ кода](#метаданные-и-анализ-кода)         | 2026-10-02       |
+|  7 | [Unica](https://github.com/IngvarConsulting/unica) ⭐ 213 \| 🐛 207 \| 🌐 Rust \| 📅 2026-10-06                                | 211 | Плагин для Claude Code и Codex: skills плюс собственный MCP runtime для 1С                   | [Плагины, правила и skills](#плагины-правила-и-skills)        | 2026-10-05       |
 |  8 | [rlm-tools-bsl](https://github.com/Dach-Coin/rlm-tools-bsl) ⭐ 203 \| 🐛 3 \| 🌐 Python \| 📅 2026-10-03                       | 202 | Анализ огромных конфигураций (ERP, УХ) без RAG и без траты токенов на чтение файлов          | [Метаданные и анализ кода](#метаданные-и-анализ-кода)         | 2026-10-03       |
 |  9 | [mcp-bsl-platform-context](https://github.com/alkoleft/mcp-bsl-platform-context) ⭐ 197 \| 🐛 13 \| 🌐 Kotlin \| 📅 2026-03-10 | 197 | Синтакс-помощник для AI — чтобы агент перестал выдумывать методы платформы                   | [Справка платформы](#справка-платформы)                       | 2026-03-10       |
 | 10 | [mcp-1c-v1](https://github.com/fserg/mcp-1c-v1) ⭐ 166 \| 🐛 2 \| 🌐 TypeScript \| 📅 2025-08-04                               | 166 | RAG по структуре конфигурации: «найди, где хранится X» на естественном языке                 | [Метаданные и анализ кода](#метаданные-и-анализ-кода)         | 2025-08-04       |
@@ -51,7 +51,7 @@ Open-source проекты каталога по числу звёзд на GitH
 | 12 | [code-index-mcp](https://github.com/Regsorm/code-index-mcp) ⭐ 137 \| 🐛 0 \| 🌐 Rust \| 📅 2026-09-28                         | 137 | Быстрый индекс кода для агента: один бинарник, SQLite, ответ за миллисекунды                 | [Метаданные и анализ кода](#метаданные-и-анализ-кода)         | 2026-09-28       |
 | 13 | [mcp-onec-test-runner](https://github.com/alkoleft/mcp-onec-test-runner) ⭐ 116 \| 🐛 21 \| 🌐 Kotlin \| 📅 2026-03-22         | 115 | METR — агент сам запускает YaXUnit-тесты, сборку и синтакс-контроль                          | [Проверка кода и тестирование](#проверка-кода-и-тестирование) | 2026-03-22       |
 | 14 | [1c-mcp-metacode](https://github.com/ROCTUP/1c-mcp-metacode) ⭐ 107 \| 🐛 12 \| 🌐 Python \| 📅 2026-08-19                     | 106 | Конфигурация в виде графа в Neo4j: объекты, модули, процедуры и связи между ними             | [Метаданные и анализ кода](#метаданные-и-анализ-кода)         | 2026-08-19       |
-| 15 | [bsl-analyzer](https://github.com/itrous/bsl-analyzer) ⭐ 107 \| 🐛 144 \| 🌐 Rust \| 📅 2026-10-05                            | 106 | Быстрый анализатор BSL на Rust: линтер, LSP и MCP в одном бинарнике                          | [Проверка кода и тестирование](#проверка-кода-и-тестирование) | 2026-10-04       |
+| 15 | [bsl-analyzer](https://github.com/itrous/bsl-analyzer) ⭐ 107 \| 🐛 141 \| 🌐 Rust \| 📅 2026-10-06                            | 106 | Быстрый анализатор BSL на Rust: линтер, LSP и MCP в одном бинарнике                          | [Проверка кода и тестирование](#проверка-кода-и-тестирование) | 2026-10-04       |
 
 <!-- TOP:END -->
 
@@ -77,7 +77,7 @@ Open-source проекты каталога по числу звёзд на GitH
 
 ### IDE-интеграции
 
-#### [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 293 | 🐛 81 | 🌐 Java | 📅 2026-10-03
+#### [EDT-MCP](https://github.com/DitriXNew/EDT-MCP) ⭐ 294 | 🐛 82 | 🌐 Java | 📅 2026-10-03
 
 **Плагин, который открывает AI-агенту рабочее пространство 1C:EDT.**
 Агент видит проект так же, как вы в IDE: ходит по метаданным и модулям, строит иерархию вызовов, получает подсказки Content Assist, проверяет текст запроса (включая режим СКД), снимает скриншоты форм, обновляет базу и запускает отладку. Главный выбор, если вы живёте в EDT и хотите, чтобы агент опирался на её понимание кода, а не на grep по файлам.
@@ -151,7 +151,7 @@ BSL, Python · HTTP · 8.2.13+ · ✅ ![stars](https://img.shields.io/github/sta
 
 BSL, C++ · HTTP, SSE · ✅
 
-#### [ИИкона (1c-ai-connector)](https://github.com/andromanpro/1c-ai-connector) ⭐ 98 | 🐛 0 | 🌐 1C Enterprise | 📅 2026-10-04
+#### [ИИкона (1c-ai-connector)](https://github.com/andromanpro/1c-ai-connector) ⭐ 99 | 🐛 0 | 🌐 1C Enterprise | 📅 2026-10-04
 
 **ИИ-платформа внутри 1С, которая ставится расширением.**
 Не только MCP-сервер для внешних агентов, но и агентская петля с function calling к пяти+ провайдерам (OpenAI, Anthropic, Google, DeepSeek, GigaChat, Yandex), RAG по базе знаний на Qdrant, мониторинг ошибок с ИИ-диагнозом и алертами в Telegram, генератор диаграмм. Подходит, когда AI нужен пользователям самой 1С, а не только разработчику.
@@ -174,7 +174,7 @@ Rust · HTTP · 🚧 ![stars](https://img.shields.io/github/stars/1c-neurofish/v
 
 ### Метаданные и анализ кода
 
-#### [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 237 | 🐛 2 | 🌐 Go | 📅 2026-10-02
+#### [mcp-1c](https://github.com/feenlace/mcp-1c) ⭐ 238 | 🐛 2 | 🌐 Go | 📅 2026-10-02
 
 **Один Go-бинарник, который даёт агенту и живую базу, и поиск по коду.**
 Подключается к HTTP-сервису 1С (расширение ставит сам): метаданные, формы, запросы с параметрами, журнал регистрации. Если рядом лежит выгрузка конфигурации — ищет по BSL (BM25, regex, точное совпадение). Без Python, Docker и прочего рантайма — скачал и запустил.
@@ -253,7 +253,7 @@ Python · SSE · Docker, ChromaDB · ✅
 
 Kotlin · stdio, SSE · JDK 17, 8.3.20+ · ✅ ![stars](https://img.shields.io/github/stars/alkoleft/mcp-bsl-platform-context?style=flat\&label=%E2%AD%90)
 
-#### [bsl-context](https://github.com/Regsorm/bsl-context) ⭐ 28 | 🐛 1 | 🌐 Rust | 📅 2026-10-06
+#### [bsl-context](https://github.com/Regsorm/bsl-context) ⭐ 28 | 🐛 0 | 🌐 Rust | 📅 2026-10-06
 
 **Справка платформы плюс проверка, что агент не выдумал метод или значение перечисления.**
 Берёт данные из синтакс-помощника платформы (`shcntx_ru.hbk`, запускать 1С не нужно) и умеет статически проверять BSL-выражения по реальному индексу: существует ли такой метод у типа, есть ли такое системное перечисление. Ловит именно те галлюцинации, которые линтер пропускает.
@@ -283,7 +283,7 @@ Python · HTTP · Docker, Elasticsearch · ✅ ![stars](https://img.shields.io/g
 
 ### Проверка кода и тестирование
 
-#### [bsl-analyzer](https://github.com/itrous/bsl-analyzer) ⭐ 107 | 🐛 144 | 🌐 Rust | 📅 2026-10-05
+#### [bsl-analyzer](https://github.com/itrous/bsl-analyzer) ⭐ 107 | 🐛 141 | 🌐 Rust | 📅 2026-10-06
 
 **Быстрый анализатор BSL на Rust: линтер, LSP и MCP в одном бинарнике.**
 180 диагностик, LSP для VS Code/Cursor/Zed, CLI с отчётами SARIF/JSONL для CI и MCP-профили для справки и работы с проектом. Агент может сам проверить только что написанный код, не дожидаясь EDT.
@@ -304,7 +304,7 @@ Kotlin · stdio · JDK 17, 8.3.10+, YaXUnit · ✅ ![stars](https://img.shields.
 
 MCP · BSL LS · 🚧 ![stars](https://img.shields.io/github/stars/SteelMorgan/mcp-bsl-lsp-bridge?style=flat\&label=%E2%AD%90)
 
-#### [bsl-mcp](https://github.com/phsin/mcp-bsl-ls) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-11-12
+#### [bsl-mcp](https://github.com/phsin/mcp-bsl-ls) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2025-11-12
 
 **Проверка и форматирование `.bsl`/`.os` через BSL Language Server с ответом в JSON.**
 Простой линтер для агента: файл или каталог на вход — список ошибок на выходе. Не обновлялся с ноября 2025.
@@ -456,14 +456,14 @@ Python · Claude Code и др. · ✅ ![stars](https://img.shields.io/github/sta
 
 Не MCP-серверы общего назначения, а готовые наборы знаний и инструментов для агента, часто поверх серверов из разделов выше. Ставятся один раз и сразу дают агенту «опыт» 1С-разработчика.
 
-#### [cc-1c-skills](https://github.com/Nikolay-Shirokov/cc-1c-skills) ⭐ 663 | 🐛 12 | 🌐 Python | 📅 2026-10-05
+#### [cc-1c-skills](https://github.com/Nikolay-Shirokov/cc-1c-skills) ⭐ 664 | 🐛 12 | 🌐 Python | 📅 2026-10-05
 
 **Самый популярный набор skills для 1С: полный цикл разработки для Claude Code, Cursor и Codex.**
 Даёт модели готовые абстракции над XML-форматами выгрузки и CLI Конфигуратора, чтобы агент работал с сутью задачи (объект, форма, роль, СКД), а не с тысячами строк XML. Плюс «глаза и руки» для проверки результата через веб-клиент. Установка — скопировать `.claude/skills/` в проект; есть версии на PowerShell и Python.
 
 PowerShell, Python · Claude Code, Cursor, Codex · ✅ ![stars](https://img.shields.io/github/stars/Nikolay-Shirokov/cc-1c-skills?style=flat\&label=%E2%AD%90)
 
-#### [Unica](https://github.com/IngvarConsulting/unica) ⭐ 213 | 🐛 230 | 🌐 Rust | 📅 2026-10-06
+#### [Unica](https://github.com/IngvarConsulting/unica) ⭐ 213 | 🐛 207 | 🌐 Rust | 📅 2026-10-06
 
 **Плагин для Claude Code и Codex: skills плюс собственный MCP runtime для 1С.**
 Агент создаёт и проверяет метаданные, формы, EPF/ERF, СКД, роли, запускает 1С и ищет по BSL через единый сервер `unica`. Ставится из marketplace, runtime скачивается с проверкой SHA-256. Windows, Linux, macOS.
