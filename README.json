@@ -15,11 +15,11 @@
             "id": 1152709086,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-04T17:31:18Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-05T17:32:26Z",
+            "open_issues": 12,
             "owner": "Nikolay-Shirokov",
             "repo": "cc-1c-skills",
-            "stars": 660,
+            "stars": 663,
             "topics": [
               "1c",
               "1c-enterprise",
@@ -47,7 +47,7 @@
             "open_issues": 8,
             "owner": "vladimir-kharin",
             "repo": "1c_mcp",
-            "stars": 528,
+            "stars": 531,
             "topics": [
               "mcp"
             ]
@@ -70,7 +70,7 @@
             "open_issues": 4,
             "owner": "comol",
             "repo": "ai_rules_1c",
-            "stars": 477,
+            "stars": 479,
             "topics": []
           },
           "first_seen": "2026-08-28T19:48:31.789Z"
@@ -88,10 +88,10 @@
             "language": "Java",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-03T21:53:47Z",
-            "open_issues": 75,
+            "open_issues": 81,
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
-            "stars": 292,
+            "stars": 293,
             "topics": [
               "1c-enterprise",
               "edt",
@@ -117,7 +117,7 @@
             "open_issues": 14,
             "owner": "ROCTUP",
             "repo": "1c-mcp-toolkit",
-            "stars": 286,
+            "stars": 287,
             "topics": [
               "1c",
               "mcp"
@@ -172,11 +172,11 @@
             "id": 1227187618,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T13:54:48Z",
-            "open_issues": 226,
+            "last_commit": "2026-10-06T09:43:54Z",
+            "open_issues": 230,
             "owner": "IngvarConsulting",
             "repo": "unica",
-            "stars": 211,
+            "stars": 213,
             "topics": [
               "1c-enterprise",
               "claude-code-plugin",
@@ -203,7 +203,7 @@
             "open_issues": 3,
             "owner": "Dach-Coin",
             "repo": "rlm-tools-bsl",
-            "stars": 202,
+            "stars": 203,
             "topics": []
           },
           "first_seen": "2026-08-28T19:48:31.789Z"
@@ -288,7 +288,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-28T18:55:16Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "Regsorm",
             "repo": "code-index-mcp",
             "stars": 137,
@@ -324,7 +324,7 @@
             "open_issues": 21,
             "owner": "alkoleft",
             "repo": "mcp-onec-test-runner",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T19:48:31.789Z"
@@ -345,7 +345,7 @@
             "open_issues": 12,
             "owner": "ROCTUP",
             "repo": "1c-mcp-metacode",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "1c",
               "mcp"
@@ -365,11 +365,11 @@
             "id": 1175453476,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T14:03:12Z",
-            "open_issues": 143,
+            "last_commit": "2026-10-05T22:31:19Z",
+            "open_issues": 144,
             "owner": "itrous",
             "repo": "bsl-analyzer",
-            "stars": 106,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-28T19:48:31.789Z"
@@ -394,10 +394,10 @@
                 "language": "Java",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-03T21:53:47Z",
-                "open_issues": 75,
+                "open_issues": 81,
                 "owner": "DitriXNew",
                 "repo": "EDT-MCP",
-                "stars": 292,
+                "stars": 293,
                 "topics": [
                   "1c-enterprise",
                   "edt",
@@ -440,11 +440,11 @@
                 "id": 1323136625,
                 "language": "Java",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-04T08:34:31Z",
+                "last_commit": "2026-10-06T08:53:39Z",
                 "open_issues": 0,
                 "owner": "Desko77",
                 "repo": "ai-edt",
-                "stars": 18,
+                "stars": 19,
                 "topics": [
                   "1c",
                   "1c-edt",
@@ -552,7 +552,7 @@
                 "open_issues": 0,
                 "owner": "alonehobo",
                 "repo": "BslEdit",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "title": "BslEdit",
@@ -580,7 +580,7 @@
                 "open_issues": 8,
                 "owner": "vladimir-kharin",
                 "repo": "1c_mcp",
-                "stars": 528,
+                "stars": 531,
                 "topics": [
                   "mcp"
                 ]
@@ -603,7 +603,7 @@
                 "open_issues": 14,
                 "owner": "ROCTUP",
                 "repo": "1c-mcp-toolkit",
-                "stars": 286,
+                "stars": 287,
                 "topics": [
                   "1c",
                   "mcp"
@@ -663,7 +663,7 @@
                 "id": 1173408057,
                 "language": "1C Enterprise",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-05-26T19:26:11Z",
+                "last_commit": "2026-10-05T21:00:40Z",
                 "open_issues": 10,
                 "owner": "1c-neurofish",
                 "repo": "onec-client-mcp-devkit",
@@ -751,7 +751,7 @@
                 "open_issues": 3,
                 "owner": "Dach-Coin",
                 "repo": "rlm-tools-bsl",
-                "stars": 202,
+                "stars": 203,
                 "topics": []
               },
               "title": "rlm-tools-bsl",
@@ -769,7 +769,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-28T18:55:16Z",
-                "open_issues": 2,
+                "open_issues": 0,
                 "owner": "Regsorm",
                 "repo": "code-index-mcp",
                 "stars": 137,
@@ -801,7 +801,7 @@
                 "id": 1349275875,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-01T07:03:54Z",
+                "last_commit": "2026-10-06T06:44:58Z",
                 "open_issues": 0,
                 "owner": "aleksandrgradoboev-svg",
                 "repo": "gyrfalcon",
@@ -857,7 +857,7 @@
                 "open_issues": 12,
                 "owner": "ROCTUP",
                 "repo": "1c-mcp-metacode",
-                "stars": 106,
+                "stars": 107,
                 "topics": [
                   "1c",
                   "mcp"
@@ -978,7 +978,7 @@
                 "id": 1246695181,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T12:58:20Z",
+                "last_commit": "2026-10-06T04:13:02Z",
                 "open_issues": 1,
                 "owner": "Regsorm",
                 "repo": "bsl-context",
@@ -1081,11 +1081,11 @@
                 "id": 1175453476,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T14:03:12Z",
-                "open_issues": 143,
+                "last_commit": "2026-10-05T22:31:19Z",
+                "open_issues": 144,
                 "owner": "itrous",
                 "repo": "bsl-analyzer",
-                "stars": 106,
+                "stars": 107,
                 "topics": []
               },
               "title": "bsl-analyzer",
@@ -1106,7 +1106,7 @@
                 "open_issues": 21,
                 "owner": "alkoleft",
                 "repo": "mcp-onec-test-runner",
-                "stars": 115,
+                "stars": 116,
                 "topics": []
               },
               "title": "mcp-onec-test-runner",
@@ -1190,7 +1190,7 @@
                 "open_issues": 3,
                 "owner": "genlab-1c",
                 "repo": "prism",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "1c",
                   "1c-enterprise",
@@ -1395,7 +1395,7 @@
                 "open_issues": 2,
                 "owner": "prepod2003",
                 "repo": "mcp-rsv-data",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "1c",
                   "1c-enterprise",
@@ -1657,11 +1657,11 @@
                 "id": 1152709086,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T17:31:18Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-05T17:32:26Z",
+                "open_issues": 12,
                 "owner": "Nikolay-Shirokov",
                 "repo": "cc-1c-skills",
-                "stars": 660,
+                "stars": 663,
                 "topics": [
                   "1c",
                   "1c-enterprise",
@@ -1685,11 +1685,11 @@
                 "id": 1227187618,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T13:54:48Z",
-                "open_issues": 226,
+                "last_commit": "2026-10-06T09:43:54Z",
+                "open_issues": 230,
                 "owner": "IngvarConsulting",
                 "repo": "unica",
-                "stars": 211,
+                "stars": 213,
                 "topics": [
                   "1c-enterprise",
                   "claude-code-plugin",
@@ -1716,7 +1716,7 @@
                 "open_issues": 4,
                 "owner": "comol",
                 "repo": "ai_rules_1c",
-                "stars": 477,
+                "stars": 479,
                 "topics": []
               },
               "title": "ai_rules_1c",
@@ -1737,7 +1737,7 @@
                 "open_issues": 0,
                 "owner": "Desko77",
                 "repo": "claude-code-skills-1c",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "1c",
                   "1c-development",
@@ -1774,7 +1774,7 @@
                 "open_issues": 0,
                 "owner": "Desko77",
                 "repo": "cursor-1c-skills",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "1c",
                   "1c-development",
@@ -1841,7 +1841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T16:39:18.532Z",
+    "last_updated": "2026-10-06T10:13:05.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of MCP servers for 1C:Enterprise ecosystem | Каталог MCP-серверов для экосистемы 1С:Предприятие",
@@ -1853,7 +1853,7 @@
       "open_issues": 0,
       "owner": "Untru",
       "repo": "1c-mcp",
-      "stars": 195,
+      "stars": 197,
       "topics": [
         "1c",
         "1c-enterprise",
