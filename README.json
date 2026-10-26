@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "cc-1c-skills",
-          "description": "703 Самый популярный набор skills для 1С: полный цикл разработки для Claude Code, Cursor и Codex Плагины, правила и skills 2026-10-19",
+          "description": "727 Самый популярный набор skills для 1С: полный цикл разработки для Claude Code, Cursor и Codex Плагины, правила и skills 2026-10-26",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 1152709086,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-25T12:30:13Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-26T13:39:28Z",
+            "open_issues": 11,
             "owner": "Nikolay-Shirokov",
             "repo": "cc-1c-skills",
-            "stars": 722,
+            "stars": 728,
             "topics": [
               "1c",
               "1c-enterprise",
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "1c_mcp",
-          "description": "546 Фреймворк, чтобы сделать MCP-сервер из самой базы 1С Живая база и фреймворки 2026-10-14",
+          "description": "559 Фреймворк, чтобы сделать MCP-сервер из самой базы 1С Живая база и фреймворки 2026-10-14",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -47,7 +47,7 @@
             "open_issues": 2,
             "owner": "vladimir-kharin",
             "repo": "1c_mcp",
-            "stars": 558,
+            "stars": 559,
             "topics": [
               "mcp"
             ]
@@ -57,7 +57,7 @@
         {
           "node_type": "item",
           "title": "ai_rules_1c",
-          "description": "493 Правила, субагенты и skills для AI-разработки на 1С — для любого агента Плагины, правила и skills 2026-10-18",
+          "description": "513 Правила, субагенты и skills для AI-разработки на 1С — для любого агента Плагины, правила и skills 2026-10-25",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -70,7 +70,7 @@
             "open_issues": 10,
             "owner": "comol",
             "repo": "ai_rules_1c",
-            "stars": 498,
+            "stars": 513,
             "topics": []
           },
           "first_seen": "2026-08-28T19:48:31.789Z"
@@ -78,7 +78,7 @@
         {
           "node_type": "item",
           "title": "1c-mcp-toolkit",
-          "description": "316 Живая база для агента за пять минут — просто открыть обработку Живая база и фреймворки 2026-10-11",
+          "description": "325 Живая база для агента за пять минут — просто открыть обработку Живая база и фреймворки 2026-10-11",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -88,10 +88,10 @@
             "language": "1C Enterprise",
             "license": "GPL-3.0",
             "last_commit": "2026-10-11T17:42:34Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "ROCTUP",
             "repo": "1c-mcp-toolkit",
-            "stars": 323,
+            "stars": 325,
             "topics": [
               "1c",
               "mcp"
@@ -102,7 +102,7 @@
         {
           "node_type": "item",
           "title": "EDT-MCP",
-          "description": "305 Плагин, который открывает AI-агенту рабочее пространство 1C:EDT IDE-интеграции 2026-10-19",
+          "description": "312 Плагин, который открывает AI-агенту рабочее пространство 1C:EDT IDE-интеграции 2026-10-25",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -112,7 +112,7 @@
             "language": "Java",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-25T05:48:54Z",
-            "open_issues": 52,
+            "open_issues": 54,
             "owner": "DitriXNew",
             "repo": "EDT-MCP",
             "stars": 312,
@@ -128,7 +128,7 @@
         {
           "node_type": "item",
           "title": "mcp-1c",
-          "description": "247 Один Go-бинарник, который даёт агенту и живую базу, и поиск по коду Метаданные и анализ кода 2026-10-18",
+          "description": "250 Один Go-бинарник, который даёт агенту и живую базу, и поиск по коду Метаданные и анализ кода 2026-10-20",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -163,7 +163,7 @@
         {
           "node_type": "item",
           "title": "Unica",
-          "description": "228 Плагин для Claude Code и Codex: skills плюс собственный MCP runtime для 1С Плагины, правила и skills 2026-10-19",
+          "description": "232 Плагин для Claude Code и Codex: skills плюс собственный MCP runtime для 1С Плагины, правила и skills 2026-10-26",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -172,11 +172,11 @@
             "id": 1227187618,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T12:38:33Z",
-            "open_issues": 419,
+            "last_commit": "2026-10-26T14:36:20Z",
+            "open_issues": 434,
             "owner": "IngvarConsulting",
             "repo": "unica",
-            "stars": 231,
+            "stars": 233,
             "topics": [
               "1c-enterprise",
               "claude-code-plugin",
@@ -190,7 +190,7 @@
         {
           "node_type": "item",
           "title": "rlm-tools-bsl",
-          "description": "212 Анализ огромных конфигураций (ERP, УХ) без RAG и без траты токенов на чтение файлов Метаданные и анализ кода 2026-10-18",
+          "description": "218 Анализ огромных конфигураций (ERP, УХ) без RAG и без траты токенов на чтение файлов Метаданные и анализ кода 2026-10-25",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -199,11 +199,11 @@
             "id": 1180737932,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T17:45:09Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-25T17:14:33Z",
+            "open_issues": 2,
             "owner": "Dach-Coin",
             "repo": "rlm-tools-bsl",
-            "stars": 216,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T19:48:31.789Z"
@@ -211,7 +211,7 @@
         {
           "node_type": "item",
           "title": "mcp-bsl-platform-context",
-          "description": "202 Синтакс-помощник для AI — чтобы агент перестал выдумывать методы платформы Справка платформы 2026-03-10",
+          "description": "206 Синтакс-помощник для AI — чтобы агент перестал выдумывать методы платформы Справка платформы 2026-03-10",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -224,7 +224,7 @@
             "open_issues": 13,
             "owner": "alkoleft",
             "repo": "mcp-bsl-platform-context",
-            "stars": 206,
+            "stars": 205,
             "topics": [
               "bsl",
               "mcp",
@@ -236,7 +236,7 @@
         {
           "node_type": "item",
           "title": "mcp-1c-v1",
-          "description": "168 RAG по структуре конфигурации: «найди, где хранится X» на естественном языке Метаданные и анализ кода 2025-08-04",
+          "description": "170 RAG по структуре конфигурации: «найди, где хранится X» на естественном языке Метаданные и анализ кода 2025-08-04",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -249,7 +249,7 @@
             "open_issues": 2,
             "owner": "fserg",
             "repo": "mcp-1c-v1",
-            "stars": 170,
+            "stars": 169,
             "topics": []
           },
           "first_seen": "2026-08-28T19:48:31.789Z"
@@ -270,7 +270,7 @@
             "open_issues": 74,
             "owner": "ondysss",
             "repo": "codepilot1c-edt",
-            "stars": 157,
+            "stars": 156,
             "topics": []
           },
           "first_seen": "2026-08-28T19:48:31.789Z"
@@ -278,7 +278,7 @@
         {
           "node_type": "item",
           "title": "code-index-mcp",
-          "description": "151 Быстрый индекс кода для агента: один бинарник, SQLite, ответ за миллисекунды Метаданные и анализ кода 2026-10-15",
+          "description": "156 Быстрый индекс кода для агента: один бинарник, SQLite, ответ за миллисекунды Метаданные и анализ кода 2026-10-24",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -291,7 +291,7 @@
             "open_issues": 0,
             "owner": "Regsorm",
             "repo": "code-index-mcp",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "1c-enterprise",
               "ast",
@@ -311,7 +311,7 @@
         {
           "node_type": "item",
           "title": "mcp-onec-test-runner",
-          "description": "118 METR — агент сам запускает YaXUnit-тесты, сборку и синтакс-контроль Проверка кода и тестирование 2026-03-22",
+          "description": "120 METR — агент сам запускает YaXUnit-тесты, сборку и синтакс-контроль Проверка кода и тестирование 2026-03-22",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -332,7 +332,7 @@
         {
           "node_type": "item",
           "title": "1c-mcp-metacode",
-          "description": "111 Конфигурация в виде графа в Neo4j: объекты, модули, процедуры и связи между ними Метаданные и анализ кода 2026-08-19",
+          "description": "112 Конфигурация в виде графа в Neo4j: объекты, модули, процедуры и связи между ними Метаданные и анализ кода 2026-08-19",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -345,7 +345,7 @@
             "open_issues": 12,
             "owner": "ROCTUP",
             "repo": "1c-mcp-metacode",
-            "stars": 112,
+            "stars": 111,
             "topics": [
               "1c",
               "mcp"
@@ -356,7 +356,7 @@
         {
           "node_type": "item",
           "title": "bsl-analyzer",
-          "description": "110 Быстрый анализатор BSL на Rust: линтер, LSP и MCP в одном бинарнике Проверка кода и тестирование 2026-10-19",
+          "description": "112 Быстрый анализатор BSL на Rust: линтер, LSP и MCP в одном бинарнике Проверка кода и тестирование 2026-10-25",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,8 +365,8 @@
             "id": 1175453476,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T12:45:19Z",
-            "open_issues": 267,
+            "last_commit": "2026-10-25T22:31:20Z",
+            "open_issues": 260,
             "owner": "itrous",
             "repo": "bsl-analyzer",
             "stars": 112,
@@ -394,7 +394,7 @@
                 "language": "Java",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-25T05:48:54Z",
-                "open_issues": 52,
+                "open_issues": 54,
                 "owner": "DitriXNew",
                 "repo": "EDT-MCP",
                 "stars": 312,
@@ -420,7 +420,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T12:16:23Z",
-                "open_issues": 19,
+                "open_issues": 21,
                 "owner": "keyfire",
                 "repo": "edt-bridge",
                 "stars": 29,
@@ -440,8 +440,8 @@
                 "id": 1323136625,
                 "language": "Java",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-25T12:33:40Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-25T12:55:23Z",
+                "open_issues": 0,
                 "owner": "Desko77",
                 "repo": "ai-edt",
                 "stars": 23,
@@ -500,7 +500,7 @@
                 "open_issues": 74,
                 "owner": "ondysss",
                 "repo": "codepilot1c-edt",
-                "stars": 157,
+                "stars": 156,
                 "topics": []
               },
               "title": "CodePilot1C",
@@ -517,8 +517,8 @@
                 "id": 1160221881,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T12:34:30Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-25T15:25:23Z",
+                "open_issues": 2,
                 "owner": "yellow-hammer",
                 "repo": "mcp-1c-platform-tools",
                 "stars": 42,
@@ -580,7 +580,7 @@
                 "open_issues": 2,
                 "owner": "vladimir-kharin",
                 "repo": "1c_mcp",
-                "stars": 558,
+                "stars": 559,
                 "topics": [
                   "mcp"
                 ]
@@ -600,10 +600,10 @@
                 "language": "1C Enterprise",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-11T17:42:34Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "ROCTUP",
                 "repo": "1c-mcp-toolkit",
-                "stars": 323,
+                "stars": 325,
                 "topics": [
                   "1c",
                   "mcp"
@@ -623,7 +623,7 @@
                 "id": 1129258509,
                 "language": "1C Enterprise",
                 "license": "MIT",
-                "last_commit": "2026-10-24T19:19:51Z",
+                "last_commit": "2026-10-26T06:24:00Z",
                 "open_issues": 0,
                 "owner": "andromanpro",
                 "repo": "1c-ai-connector",
@@ -747,11 +747,11 @@
                 "id": 1180737932,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T17:45:09Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-25T17:14:33Z",
+                "open_issues": 2,
                 "owner": "Dach-Coin",
                 "repo": "rlm-tools-bsl",
-                "stars": 216,
+                "stars": 218,
                 "topics": []
               },
               "title": "rlm-tools-bsl",
@@ -772,7 +772,7 @@
                 "open_issues": 0,
                 "owner": "Regsorm",
                 "repo": "code-index-mcp",
-                "stars": 155,
+                "stars": 156,
                 "topics": [
                   "1c-enterprise",
                   "ast",
@@ -836,7 +836,7 @@
                 "open_issues": 1,
                 "owner": "Arman-Kudaibergenov",
                 "repo": "bsl-atlas",
-                "stars": 80,
+                "stars": 79,
                 "topics": []
               },
               "title": "bsl-atlas",
@@ -857,7 +857,7 @@
                 "open_issues": 12,
                 "owner": "ROCTUP",
                 "repo": "1c-mcp-metacode",
-                "stars": 112,
+                "stars": 111,
                 "topics": [
                   "1c",
                   "mcp"
@@ -908,7 +908,7 @@
                 "open_issues": 2,
                 "owner": "fserg",
                 "repo": "mcp-1c-v1",
-                "stars": 170,
+                "stars": 169,
                 "topics": []
               },
               "title": "mcp-1c-v1",
@@ -957,7 +957,7 @@
                 "open_issues": 13,
                 "owner": "alkoleft",
                 "repo": "mcp-bsl-platform-context",
-                "stars": 206,
+                "stars": 205,
                 "topics": [
                   "bsl",
                   "mcp",
@@ -1081,8 +1081,8 @@
                 "id": 1175453476,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T12:45:19Z",
-                "open_issues": 267,
+                "last_commit": "2026-10-25T22:31:20Z",
+                "open_issues": 260,
                 "owner": "itrous",
                 "repo": "bsl-analyzer",
                 "stars": 112,
@@ -1169,7 +1169,7 @@
                 "open_issues": 3,
                 "owner": "fserg",
                 "repo": "1c-lsp-mcp-skill",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "title": "1c-lsp-mcp-skill",
@@ -1395,7 +1395,7 @@
                 "open_issues": 2,
                 "owner": "prepod2003",
                 "repo": "mcp-rsv-data",
-                "stars": 65,
+                "stars": 67,
                 "topics": [
                   "1c",
                   "1c-enterprise",
@@ -1484,7 +1484,7 @@
                 "open_issues": 21,
                 "owner": "alkoleft",
                 "repo": "v8-runner-rust",
-                "stars": 64,
+                "stars": 63,
                 "topics": [
                   "1c-enterprise",
                   "cli",
@@ -1534,7 +1534,7 @@
                 "open_issues": 2,
                 "owner": "SteelMorgan",
                 "repo": "1c-ai-sandbox-client-server",
-                "stars": 45,
+                "stars": 44,
                 "topics": []
               },
               "title": "1c-ai-sandbox",
@@ -1657,11 +1657,11 @@
                 "id": 1152709086,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-25T12:30:13Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-26T13:39:28Z",
+                "open_issues": 11,
                 "owner": "Nikolay-Shirokov",
                 "repo": "cc-1c-skills",
-                "stars": 722,
+                "stars": 728,
                 "topics": [
                   "1c",
                   "1c-enterprise",
@@ -1685,11 +1685,11 @@
                 "id": 1227187618,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-25T12:38:33Z",
-                "open_issues": 419,
+                "last_commit": "2026-10-26T14:36:20Z",
+                "open_issues": 434,
                 "owner": "IngvarConsulting",
                 "repo": "unica",
-                "stars": 231,
+                "stars": 233,
                 "topics": [
                   "1c-enterprise",
                   "claude-code-plugin",
@@ -1716,7 +1716,7 @@
                 "open_issues": 10,
                 "owner": "comol",
                 "repo": "ai_rules_1c",
-                "stars": 498,
+                "stars": 513,
                 "topics": []
               },
               "title": "ai_rules_1c",
@@ -1733,7 +1733,7 @@
                 "id": 1166958971,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T17:05:01Z",
+                "last_commit": "2026-10-25T12:54:12Z",
                 "open_issues": 3,
                 "owner": "Desko77",
                 "repo": "claude-code-skills-1c",
@@ -1770,11 +1770,11 @@
                 "id": 1169533019,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T17:05:08Z",
+                "last_commit": "2026-10-25T12:54:17Z",
                 "open_issues": 0,
                 "owner": "Desko77",
                 "repo": "cursor-1c-skills",
-                "stars": 70,
+                "stars": 69,
                 "topics": [
                   "1c",
                   "1c-development",
@@ -1841,7 +1841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T12:52:36.963Z",
+    "last_updated": "2026-10-26T14:42:59.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of MCP servers for 1C:Enterprise ecosystem | Каталог MCP-серверов для экосистемы 1С:Предприятие",
@@ -1849,11 +1849,11 @@
       "id": 1168595356,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-19T12:18:04Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-26T12:21:22Z",
+      "open_issues": 2,
       "owner": "Untru",
       "repo": "1c-mcp",
-      "stars": 215,
+      "stars": 217,
       "topics": [
         "1c",
         "1c-enterprise",
@@ -1867,7 +1867,7 @@
         "model-context-protocol"
       ]
     },
-    "original_repository_sha": "002bc338501eb580215ea2035b97ef3e7c858c65",
+    "original_repository_sha": "d51314214f77f510c169ac302368e752b00db3d3",
     "enhanced_repository": "enhansome/enhansome-1c-mcp",
     "enhanced_repository_description": null,
     "title": "Awesome 1C MCP Servers with stars"
